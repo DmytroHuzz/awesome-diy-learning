@@ -1,6 +1,6 @@
 # Validation record
 
-Initial publication checks, 2026-10-30. See the repository's **Actions** tab for the independent hosted CI result; the initial local validation does not by itself claim a hosted run passed.
+Initial publication checks, 2026-10-30. [Hosted validation run 1](https://github.com/DmytroHuzz/awesome-diy-learning/actions/runs/41128156556) passed on commit `64ca6d94b837f505bdeb07b6f7b3bde6f675e3fe`, including the Python 3.11 and 3.13 matrix. The complete 40-file remote tree was verified and the local checkout was synchronized with it.
 
 ## Metadata and generated documentation
 
@@ -26,7 +26,7 @@ The first automated pass checked all 124 migrated main URLs before the Explorato
 - The two 404 observations were Blender Guru's tutorial index and Miller's project-ideas path; both also showed bot-block indicators. They remain in the review queue, not the checked listings.
 - Independently inspected publisher content can be readable through research extraction even when the automated client is blocked. A robots restriction or bot block is not a finding that a resource is broken or paid.
 
-Full observations: [initial link report](../reports/link-check-2026-10-30.json) and [additional direct project links](../reports/project-links-2026-10-30.json). The latter covers ten newly introduced URLs; inspect its flags separately. Network observations do not establish completeness, free access or safety.
+Full observations: [initial link report](../reports/link-check-2026-10-30.json) and [additional direct project links](../reports/project-links-2026-10-30.json). The latter covers ten newly introduced URLs: four had no advisory flags and six require manual inspection. Network observations do not establish completeness, free access or safety.
 
 ## Scope limits
 
