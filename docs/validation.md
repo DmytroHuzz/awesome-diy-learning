@@ -1,6 +1,6 @@
 # Validation record
 
-Publication checks, 2026-10-30. Schema validation, generated views, local Markdown links and anchors, and offline regression tests passed locally. The public [Actions history](https://github.com/DmytroHuzz/awesome-diy-learning/actions) records hosted validation against the Python 3.11 and 3.13 matrix. All 124 resources remain present after removing private workspace references from the catalogue, generator and published history.
+Publication checks, 2026-10-30. Schema validation, generated views, local Markdown links and anchors, and offline regression tests passed locally. The public [Actions history](https://github.com/DmytroHuzz/awesome-diy-learning/actions) records hosted validation against the Python 3.11 and 3.13 matrix. All 124 resources remain present after removing private workspace references from the catalogue, generator and generated documentation.
 
 ## Metadata and generated documentation
 
