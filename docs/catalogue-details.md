@@ -18,7 +18,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** video, pdf
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -37,7 +37,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Source equipment note: Wood, drill/saw, sanding equipment
 
@@ -57,7 +57,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** patterns
 - **Approach:** pattern-or-plan
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -72,7 +72,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Homepage link: replace with a direct meaningful free tutorial before recommendation.
 - Automated check on 2026-10-30 flagged http-error-manual-review (HTTP 403). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
@@ -93,7 +93,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** patterns
 - **Approach:** pattern-or-plan
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -112,7 +112,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 
 **Original research occurrences**
@@ -147,7 +147,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - [source evidence](https://www.andreweason.com/resources/pamphlet.pdf), 2026-10-30: Verified author-hosted free instruction sheets and pamphlet PDF availability; the scanned sheet was not fully reviewed.
 - Language is confirmed only for the inspected English page or sample; other translations were not audited.
 - Creator says the sheets were designed to accompany practical instruction. Self-study completeness needs sample review before beginner promotion.
@@ -188,7 +188,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - [sample evidence](https://science.anu.edu.au/engagement/science-lab-experiments-home-school/make-pinhole-camera), 2026-10-30: Inspected the complete four-stage build, materials, testing procedure and explanation of image formation.
 - Source equipment note: Cardboard box, black tape, paper, pin
 - Workspace classification is an editorial assessment of the representative project, not a measured space requirement.
@@ -210,7 +210,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** article
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -225,7 +225,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Homepage link: replace with a direct meaningful free tutorial before recommendation.
 
@@ -245,7 +245,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** course
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -260,7 +260,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Homepage link: replace with a direct meaningful free tutorial before recommendation.
 
@@ -280,7 +280,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** article
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -295,7 +295,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Automated check on 2026-10-30 flagged http-error-manual-review, possible-bot-block (HTTP 403). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
 
@@ -315,7 +315,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** video, patterns
 - **Approach:** pattern-or-plan
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -330,7 +330,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Automated check on 2026-10-30 flagged http-error-manual-review (HTTP 429). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
 
@@ -350,7 +350,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** video, patterns
 - **Approach:** pattern-or-plan
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -369,7 +369,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Source equipment note: Basswood, suitable carving knife, hand protection
 - Automated check on 2026-10-30 flagged possible-bot-block (HTTP 200). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
@@ -390,7 +390,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** article
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -405,7 +405,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Source equipment note: Watercolor, paper, brush, pencil
 
@@ -425,7 +425,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** video, course
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -440,7 +440,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Automated check on 2026-10-30 flagged http-error-manual-review, possible-bot-block (HTTP 404). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
 
@@ -480,7 +480,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - [sample evidence](https://botanicalcolors.com/onion-skin-instructions/), 2026-10-30: Read the entire dye recipe and its linked preparation prerequisites. Scouring and mordanting precede this recipe.
 - Source equipment note: Onion skins, fiber, dedicated non-food dye pot
 - Language is confirmed only for the inspected English page or sample; other translations were not audited.
@@ -503,7 +503,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** pdf, patterns
 - **Approach:** pattern-or-plan
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -522,7 +522,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 
 **Original research occurrences**
@@ -561,7 +561,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - [source evidence](https://www.cabinetofcuriositystudio.com/pages/darlington-clock-tower-paper-architecture-model), 2026-10-30: Confirmed free template links, printer/card guidance and linked assembly video. External template files and the complete video were not audited.
 - Source equipment note: Printer, card, blade/scissors, glue
 - Workspace classification is an editorial assessment of the representative project, not a measured space requirement.
@@ -585,7 +585,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** article
 - **Approach:** pattern-or-plan
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / reference-only
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -604,7 +604,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Educational botanical background does not provide a complete standalone dye project.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Source equipment note: Observation first; dye equipment for experiments
@@ -626,7 +626,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** article
 - **Approach:** restoration
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -655,7 +655,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Automated check on 2026-10-30 flagged http-error-manual-review (HTTP 403). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
 
@@ -675,7 +675,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** pdf, patterns
 - **Approach:** pattern-or-plan
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -690,7 +690,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Homepage link: replace with a direct meaningful free tutorial before recommendation.
 
@@ -710,7 +710,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** article
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -729,7 +729,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Homepage link: replace with a direct meaningful free tutorial before recommendation.
 - Automated check on 2026-10-30 flagged possible-bot-block (HTTP 200). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
@@ -751,7 +751,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** patterns
 - **Approach:** pattern-or-plan
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -770,7 +770,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Automated check on 2026-10-30 flagged possible-bot-block (HTTP 200). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
 
@@ -791,7 +791,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** project-library
 - **Approach:** project-progression
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / reference-only
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -806,7 +806,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Reference, overview or discovery index; not a complete standalone project.
 - Automated check on 2026-10-30 flagged robots-unavailable-or-restricted. This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
@@ -847,7 +847,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - [source evidence](https://commonwoodworking.com/courses/chisel-tray/), 2026-10-30: Verified free course index, beginner chisel-tray overview and tool/material list. The complete lesson sequence was not inspected.
 - Workspace classification is an editorial assessment of the representative project, not a measured space requirement.
 - Language is confirmed only for the inspected English page or sample; other translations were not audited.
@@ -869,7 +869,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** project-library
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / reference-only
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -884,7 +884,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Reference, overview or discovery index; not a complete standalone project.
 
@@ -904,7 +904,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** pdf
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -919,7 +919,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Automated check on 2026-10-30 flagged http-error-manual-review (HTTP 403). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
 
@@ -939,7 +939,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** pdf
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -954,7 +954,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Automated check on 2026-10-30 flagged http-error-manual-review (HTTP 403). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
 
@@ -974,7 +974,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** article
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -989,7 +989,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Homepage link: replace with a direct meaningful free tutorial before recommendation.
 
@@ -1009,7 +1009,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** course
 - **Approach:** project-progression
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -1024,7 +1024,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Source equipment note: Willow, pruning tools, water
 - Homepage link: replace with a direct meaningful free tutorial before recommendation.
@@ -1046,7 +1046,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** article
 - **Approach:** restoration
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / reference-only
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -1071,7 +1071,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Reference, overview or discovery index; not a complete standalone project.
 
@@ -1091,7 +1091,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** pdf, article
 - **Approach:** repair-walkthrough
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -1116,7 +1116,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 
 **Original research occurrences**
@@ -1151,7 +1151,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - [source evidence](https://www.davidreynoldsart.com.au/tutorials), 2026-10-30: Confirmed an explicitly free tutorial library with linked tea-wash, leaf-detail and dry-brush videos; full videos were not audited.
 - Source equipment note: Paper, watercolor, brush, leaves
 - Language is confirmed only for the inspected English page or sample; other translations were not audited.
@@ -1173,7 +1173,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** patterns
 - **Approach:** pattern-or-plan
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -1188,7 +1188,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Homepage link: replace with a direct meaningful free tutorial before recommendation.
 - Automated check on 2026-10-30 flagged http-error-manual-review (HTTP 403). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
@@ -1209,7 +1209,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** patterns, project-library
 - **Approach:** pattern-or-plan
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -1224,7 +1224,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Homepage link: replace with a direct meaningful free tutorial before recommendation.
 
@@ -1244,7 +1244,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** article
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -1259,7 +1259,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Source equipment note: Watercolor, fine brushes, paper
 
@@ -1299,7 +1299,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - [sample evidence](https://www.exploratorium.edu/sites/default/files/pdfs/cardboard_automata_guide_final_screen.pdf), 2026-10-30: Inspected the ten-page activity guide: parts, frame, cams, assembly, testing and variations. No build was performed.
 - Workspace classification is an editorial assessment of the representative project, not a measured space requirement.
 - Language is confirmed only for the inspected English page or sample; other translations were not audited.
@@ -1323,7 +1323,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** project-library
 - **Approach:** experimental-learning
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -1338,7 +1338,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 
 **Original research occurrences**
@@ -1357,7 +1357,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** article
 - **Approach:** experimental-learning
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -1372,7 +1372,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Automated check on 2026-10-30 flagged robots-unavailable-or-restricted. This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
 
@@ -1392,7 +1392,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** project-library
 - **Approach:** repair-walkthrough
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -1421,7 +1421,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 
 **Original research occurrences**
@@ -1440,7 +1440,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** video, patterns
 - **Approach:** pattern-or-plan
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -1455,7 +1455,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Homepage link: replace with a direct meaningful free tutorial before recommendation.
 
@@ -1475,7 +1475,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** project-library
 - **Approach:** repair-walkthrough, upgrade-or-modification
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -1504,7 +1504,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 
 **Original research occurrences**
@@ -1523,7 +1523,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** article
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -1538,7 +1538,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Automated check on 2026-10-30 flagged network-error-manual-review. This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
 
@@ -1558,7 +1558,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** pdf
 - **Approach:** experimental-learning
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -1577,7 +1577,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Source equipment note: Household supplies, paper and light
 - Automated check on 2026-10-30 flagged robots-unavailable-or-restricted. This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
@@ -1614,7 +1614,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - [source evidence](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html), 2026-10-30: Verified free course outline, starter assets, setup and finishing chapters; middle chapters not fully audited. The course assumes prior programming.
 - Workspace classification is an editorial assessment of the representative project, not a measured space requirement.
 - Language is confirmed only for the inspected English page or sample; other translations were not audited.
@@ -1636,7 +1636,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** video, article
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -1651,7 +1651,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Homepage link: replace with a direct meaningful free tutorial before recommendation.
 - Automated check on 2026-10-30 flagged robots-unavailable-or-restricted. This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
@@ -1672,7 +1672,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** video, article
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -1687,7 +1687,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Homepage link: replace with a direct meaningful free tutorial before recommendation.
 
@@ -1707,7 +1707,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** course
 - **Approach:** project-progression
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -1722,7 +1722,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Automated check on 2026-10-30 flagged possible-bot-block (HTTP 200). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
 
@@ -1742,7 +1742,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** article
 - **Approach:** repair-walkthrough
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -1771,7 +1771,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Automated check on 2026-10-30 flagged possible-bot-block (HTTP 200). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
 
@@ -1791,7 +1791,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** article
 - **Approach:** repair-walkthrough
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -1821,7 +1821,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Automated check on 2026-10-30 flagged possible-bot-block (HTTP 200). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
 
@@ -1841,7 +1841,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** article
 - **Approach:** teardown
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -1870,7 +1870,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Automated check on 2026-10-30 flagged possible-bot-block (HTTP 200). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
 
@@ -1921,7 +1921,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - [sample evidence](https://www.ifixit.com/Guide/Left+Joy-Con+Joystick+Replacement/113182), 2026-10-30: Read all removal, replacement, optional ring installation, reassembly and calibration steps, including the battery warning.
 - Workspace classification is an editorial assessment of the representative project, not a measured space requirement.
 - Language is confirmed only for the inspected English page or sample; other translations were not audited.
@@ -1942,7 +1942,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** article
 - **Approach:** repair-walkthrough
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -1971,7 +1971,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 
 **Original research occurrences**
@@ -1990,7 +1990,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** article
 - **Approach:** repair-walkthrough
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -2019,7 +2019,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Automated check on 2026-10-30 flagged possible-bot-block (HTTP 200). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
 
@@ -2039,7 +2039,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** article
 - **Approach:** repair-walkthrough, upgrade-or-modification
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -2068,7 +2068,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 
 **Original research occurrences**
@@ -2087,7 +2087,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** article
 - **Approach:** teardown
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -2116,7 +2116,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Automated check on 2026-10-30 flagged possible-bot-block (HTTP 200). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
 
@@ -2136,7 +2136,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** project-library
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -2151,7 +2151,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Automated check on 2026-10-30 flagged possible-bot-block (HTTP 200). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
 
@@ -2171,7 +2171,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** video, article
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -2186,7 +2186,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Automated check on 2026-10-30 flagged robots-unavailable-or-restricted. This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
 
@@ -2206,7 +2206,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** course
 - **Approach:** project-progression
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -2221,7 +2221,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 
 **Original research occurrences**
@@ -2262,7 +2262,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - [sample evidence](https://www.kevinmkraft.com/buildacigarboxdiddleybow), 2026-10-30: Read the complete acoustic build from tools and notching through stringing and tuning. An amplifier pickup is shown but its wiring is not taught.
 - Source equipment note: Cigar box, string, screws, drill, hacksaw
 - Workspace classification is an editorial assessment of the representative project, not a measured space requirement.
@@ -2306,7 +2306,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - [sample evidence](https://www.kingarthurbaking.com/recipes/flaky-puff-crust-pizza-recipe), 2026-10-30: Read ingredients, all sixteen preparation/baking steps and equipment alternatives in the pizza sample. The library includes recipes at varying levels.
 - Workspace classification is an editorial assessment of the representative project, not a measured space requirement.
 - Language is confirmed only for the inspected English page or sample; other translations were not audited.
@@ -2327,7 +2327,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** patterns, article
 - **Approach:** pattern-or-plan
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -2342,7 +2342,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Homepage link: replace with a direct meaningful free tutorial before recommendation.
 - Automated check on 2026-10-30 flagged robots-unavailable-or-restricted. This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
@@ -2363,7 +2363,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** course
 - **Approach:** project-progression
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -2392,7 +2392,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Source equipment note: Precision watch tools, inexpensive practice movement
 
@@ -2412,7 +2412,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** course
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -2427,7 +2427,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 
 **Original research occurrences**
@@ -2446,7 +2446,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** pdf
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -2465,7 +2465,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Source equipment note: Fiber, dye plant, dedicated dye pot and suitable mordant
 - Automated check on 2026-10-30 flagged http-error-manual-review (HTTP 429). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
@@ -2486,7 +2486,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** course
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -2505,7 +2505,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Automated check on 2026-10-30 flagged possible-bot-block (HTTP 200). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
 
@@ -2525,7 +2525,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** article
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -2540,7 +2540,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 
 **Original research occurrences**
@@ -2559,7 +2559,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** article
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -2578,7 +2578,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Source equipment note: Box, wood, hardware and basic hand tools
 
@@ -2598,7 +2598,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** patterns
 - **Approach:** design-challenge
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -2613,7 +2613,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Automated check on 2026-10-30 flagged possible-bot-block (HTTP 200). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
 
@@ -2633,7 +2633,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** interactive, course
 - **Approach:** interactive-lab
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -2648,7 +2648,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Homepage link: replace with a direct meaningful free tutorial before recommendation.
 
@@ -2668,7 +2668,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** video, article
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -2683,7 +2683,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Automated check on 2026-10-30 flagged robots-unavailable-or-restricted. This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
 
@@ -2703,7 +2703,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** patterns
 - **Approach:** pattern-or-plan
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -2722,7 +2722,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Automated check on 2026-10-30 flagged http-error-manual-review, possible-bot-block (HTTP 404). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
 
@@ -2742,7 +2742,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** course, project-library
 - **Approach:** project-progression
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -2757,7 +2757,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 
 **Original research occurrences**
@@ -2796,7 +2796,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - [source evidence](https://www.musgrovewillows.co.uk/help-and-advice/how-to-weave-a-round-willow-basket-1/), 2026-10-30: Publisher explicitly offers six free lessons and identifies the instructor and willow quantities; videos were not watched end to end.
 - Source equipment note: Willow rods, secateurs, soaking tub
 - Language is confirmed only for the inspected English page or sample; other translations were not audited.
@@ -2834,7 +2834,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - [source evidence](https://www.nand2tetris.org/course), 2026-10-30: Official site confirms free project materials/tools for non-profit use and distinguishes paid Coursera offerings; full project instructions not audited.
 - Workspace classification is an editorial assessment of the representative project, not a measured space requirement.
 - Language is confirmed only for the inspected English page or sample; other translations were not audited.
@@ -2856,7 +2856,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** article
 - **Approach:** design-challenge
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -2871,7 +2871,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Automated check on 2026-10-30 flagged http-error-manual-review (HTTP 403). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
 
@@ -2891,7 +2891,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** article
 - **Approach:** experimental-learning
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -2910,7 +2910,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Source equipment note: Cardboard, slit, diffraction grating
 
@@ -2930,7 +2930,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** article
 - **Approach:** pattern-or-plan
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -2945,7 +2945,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Source equipment note: Train track and layout when progressing
 
@@ -2965,7 +2965,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** project-library
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / reference-only
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -2980,7 +2980,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Homepage link: replace with a direct meaningful free tutorial before recommendation.
 - Reference, overview or discovery index; not a complete standalone project.
@@ -3001,7 +3001,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** course
 - **Approach:** project-progression
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -3016,7 +3016,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Homepage link: replace with a direct meaningful free tutorial before recommendation.
 - Automated check on 2026-10-30 flagged possible-access-restriction (HTTP 200). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
@@ -3053,7 +3053,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - [sample evidence](https://origami.me/box/), 2026-10-30: Read all box and lid steps, paper size, difficulty and timing; paid printable downloads are optional.
 - Workspace classification is an editorial assessment of the representative project, not a measured space requirement.
 - Language is confirmed only for the inspected English page or sample; other translations were not audited.
@@ -3094,7 +3094,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - [sample evidence](https://overthewire.org/wargames/bandit/bandit0.html), 2026-10-30: Inspected the complete Level 0 connection exercise and progression instructions. No connection was made or level solved.
 - Workspace classification is an editorial assessment of the representative project, not a measured space requirement.
 - Language is confirmed only for the inspected English page or sample; other translations were not audited.
@@ -3144,7 +3144,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - [source evidence](https://www.parktool.com/en-us/blog/repair-help), 2026-10-30: Verified the public repair-help library, component categories and instructional video/article links; no complete beginner procedure audited.
 - Language is confirmed only for the inspected English page or sample; other translations were not audited.
 
@@ -3165,7 +3165,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** video, article
 - **Approach:** repair-walkthrough
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -3190,7 +3190,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 
 **Original research occurrences**
@@ -3209,7 +3209,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** video, patterns
 - **Approach:** pattern-or-plan
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -3228,7 +3228,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Automated check on 2026-10-30 flagged http-error-manual-review (HTTP 403). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
 
@@ -3279,7 +3279,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - [sample evidence](https://www.popularwoodworking.com/techniques/hand-plane-restoration/), 2026-10-30: Read the full restoration article through reassembly, sharpening, sole flattening and functional testing. It uses workshop machinery and chemicals.
 - Source equipment note: Secondhand plane, cleaning/abrasion tools
 - Workspace classification is an editorial assessment of the representative project, not a measured space requirement.
@@ -3322,7 +3322,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - [source evidence](https://portswigger.net/web-security), 2026-10-30: Publisher states Academy learning and labs are free, offers account-based progress, and identifies the free Community Edition tool option.
 - Workspace classification is an editorial assessment of the representative project, not a measured space requirement.
 - Language is confirmed only for the inspected English page or sample; other translations were not audited.
@@ -3343,7 +3343,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** article
 - **Approach:** design-challenge
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -3358,7 +3358,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Automated check on 2026-10-30 flagged network-error-manual-review. This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
 
@@ -3378,7 +3378,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** article
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -3393,7 +3393,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Current fetch returned a JavaScript-required shell; project steps need browser review.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Homepage link: replace with a direct meaningful free tutorial before recommendation.
@@ -3414,7 +3414,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** video, article
 - **Approach:** repair-walkthrough
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -3439,7 +3439,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Automated check on 2026-10-30 flagged network-error-manual-review. This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
 
@@ -3490,7 +3490,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - [sample evidence](https://www.rei.com/learn/expert-advice/tent-repair-how-to.html#patching-holes-in-your-tent), 2026-10-30: Read the complete tent-repair article, supplies, fabric-patch procedure, curing period and distinction between temporary and permanent pole repairs.
 - Workspace classification is an editorial assessment of the representative project, not a measured space requirement.
 - Language is confirmed only for the inspected English page or sample; other translations were not audited.
@@ -3513,7 +3513,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** article
 - **Approach:** teardown
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / reference-only
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -3542,7 +3542,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Reference, overview or discovery index; not a complete standalone project.
 
@@ -3562,7 +3562,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** pdf
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -3577,7 +3577,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Source equipment note: Printer, paper, glue
 
@@ -3612,7 +3612,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - [source evidence](https://www.rhs.org.uk/advice), 2026-10-30: Verified the public advice index and growing/propagation guidance links. A complete grow-from-start project is still to be inspected.
 - Language is confirmed only for the inspected English page or sample; other translations were not audited.
 
@@ -3632,7 +3632,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** article
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -3651,7 +3651,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Automated check on 2026-10-30 flagged http-error-manual-review (HTTP 403). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
 
@@ -3691,7 +3691,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - [source evidence](https://www.sceniccityclayarts.org/howto), 2026-10-30: Verified publicly embedded technique videos including pinch pots; members-only resources are separately labeled. No full video or firing process was audited.
 - Source equipment note: Pottery clay; kiln for durable fired ceramics
 - Language is confirmed only for the inspected English page or sample; other translations were not audited.
@@ -3713,7 +3713,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** project-library
 - **Approach:** experimental-learning
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -3728,7 +3728,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Automated check on 2026-10-30 flagged robots-unavailable-or-restricted. This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
 
@@ -3748,7 +3748,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** video
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -3767,7 +3767,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Source equipment note: Air-dry clay, small sculpting tools
 - Automated check on 2026-10-30 flagged http-error-manual-review (HTTP 429). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
@@ -3788,7 +3788,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** article
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -3803,7 +3803,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Automated check on 2026-10-30 flagged http-error-manual-review (HTTP 429). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
 
@@ -3823,7 +3823,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** patterns, article
 - **Approach:** pattern-or-plan
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -3838,7 +3838,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Automated check on 2026-10-30 flagged http-error-manual-review (HTTP 403). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
 
@@ -3858,7 +3858,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** video, course
 - **Approach:** restoration
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -3887,7 +3887,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Automated check on 2026-10-30 flagged possible-bot-block (HTTP 200). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
 
@@ -3937,7 +3937,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - [sample evidence](https://www.sewingpath.com/blog/free-mending-course), 2026-10-30: Read the six-lesson sequence and the complete on-page seam/tear repairs, including completion criteria. Affiliate tool links are present.
 - Workspace classification is an editorial assessment of the representative project, not a measured space requirement.
 - Language is confirmed only for the inspected English page or sample; other translations were not audited.
@@ -3958,7 +3958,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** patterns, project-library
 - **Approach:** pattern-or-plan
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -3973,7 +3973,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Automated check on 2026-10-30 flagged possible-bot-block (HTTP 200). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
 
@@ -3993,7 +3993,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** course
 - **Approach:** repair-walkthrough
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -4018,7 +4018,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Homepage link: replace with a direct meaningful free tutorial before recommendation.
 
@@ -4038,7 +4038,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** video, course
 - **Approach:** restoration
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -4067,7 +4067,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 
 **Original research occurrences**
@@ -4086,7 +4086,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** video, course
 - **Approach:** repair-walkthrough
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -4101,7 +4101,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 
 **Original research occurrences**
@@ -4120,7 +4120,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** article
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -4135,7 +4135,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 
 **Original research occurrences**
@@ -4154,7 +4154,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** course
 - **Approach:** project-progression
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -4169,7 +4169,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 
 **Original research occurrences**
@@ -4188,7 +4188,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** project-library
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -4207,7 +4207,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 
 **Original research occurrences**
@@ -4226,7 +4226,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** pdf, article
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -4245,7 +4245,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Source equipment note: Clay, simple tools; firing for true pottery
 - Automated check on 2026-10-30 flagged http-error-manual-review (HTTP 429). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
@@ -4266,7 +4266,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** article
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -4285,7 +4285,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Automated check on 2026-10-30 flagged possible-bot-block (HTTP 200). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
 
@@ -4305,7 +4305,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** video
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -4324,7 +4324,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 
 **Original research occurrences**
@@ -4343,7 +4343,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** course
 - **Approach:** teardown
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -4372,7 +4372,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Automated check on 2026-10-30 flagged possible-bot-block (HTTP 200). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
 
@@ -4392,7 +4392,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** course
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -4421,7 +4421,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Source equipment note: Good lighting, magnification, precision tools
 
@@ -4441,7 +4441,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** patterns, course
 - **Approach:** pattern-or-plan
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -4456,7 +4456,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Current fetch returned no readable content; HTTP success does not verify free pattern access.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 
@@ -4476,7 +4476,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** video, project-library
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -4491,7 +4491,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Automated check on 2026-10-30 flagged http-error-manual-review (HTTP 429). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
 
@@ -4531,7 +4531,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - [source evidence](https://www.weaverleathersupply.com/collections/minimalist-leather-card-wallet), 2026-10-30: Confirmed free embedded tutorial, beginner description and tool list. The zero-price pattern uses the shop checkout; its full download flow was not tested.
 - Language is confirmed only for the inspected English page or sample; other translations were not audited.
 - The publisher demonstrates an extensive tool set; do not assume basic household tools are enough. Video was not watched end to end.
@@ -4553,7 +4553,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** project-library
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -4568,7 +4568,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Automated check on 2026-10-30 flagged http-error-manual-review (HTTP 429). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
 
@@ -4588,7 +4588,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** video
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -4607,7 +4607,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Homepage link: replace with a direct meaningful free tutorial before recommendation.
 
@@ -4628,7 +4628,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** video, article
 - **Approach:** restoration
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -4657,7 +4657,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Source equipment note: Old hand plane/chisel, abrasive, oil, safe clamping
 
@@ -4678,7 +4678,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** video
 - **Approach:** restoration
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -4707,7 +4707,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Source equipment note: Varies by project
 - Automated check on 2026-10-30 flagged possible-bot-block (HTTP 200). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
@@ -4728,7 +4728,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** article
 - **Approach:** restoration
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -4757,7 +4757,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Automated check on 2026-10-30 flagged http-error-manual-review (HTTP 402). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
 
@@ -4777,7 +4777,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** video, article
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -4796,7 +4796,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Source equipment note: Wood or board, drill, small clock movement
 - Automated check on 2026-10-30 flagged http-error-manual-review (HTTP 429). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
@@ -4817,7 +4817,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** pdf, patterns
 - **Approach:** pattern-or-plan
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -4836,7 +4836,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Source equipment note: Basic woodworking tools and materials
 - Homepage link: replace with a direct meaningful free tutorial before recommendation.
@@ -4858,7 +4858,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** video
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -4873,7 +4873,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source promotes a branded model kit; kit independence is unverified.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Source equipment note: Model-building supplies; branded kit optional
@@ -4895,7 +4895,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** video
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -4910,7 +4910,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Source equipment note: Foam/plaster/paints or substitutes
 - Automated check on 2026-10-30 flagged http-error-manual-review (HTTP 403). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
@@ -4931,7 +4931,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** video
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Notion identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -4946,7 +4946,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
-- [source evidence](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), 2026-10-30: Imported source-level research; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
 - Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - Source equipment note: Cardboard, scenic materials, glue
 - Automated check on 2026-10-30 flagged http-error-manual-review (HTTP 403). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.

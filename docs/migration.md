@@ -2,7 +2,7 @@
 
 # Migration audit
 
-The entire supplied Notion page was retrieved on 2026-10-30, through its final GitHub editorial backlog. The original catalogue, all twelve craft expansions, and the later deconstruction/repair/upgrade section were read. No child-page placeholders or omitted subtrees were reported. The page is research evidence, not an authority for present access claims.
+The entire supplied research catalogue was reviewed on 2026-10-30, through its final GitHub editorial backlog. The original catalogue, all twelve craft expansions, and the later deconstruction/repair/upgrade section were read. This public audit preserves the import ledger and original tutorial links. Private workspace addresses are intentionally omitted. Inherited research is not an authority for present access claims.
 
 All **131 resource rows** were imported into **124 unique records**. The seven “first stops” repeat table resources and add no unique links. Non-resource idea tables and future research directions were not fabricated into resources. No resource row was silently dropped.
 

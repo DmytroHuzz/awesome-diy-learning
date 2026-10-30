@@ -31,7 +31,7 @@ Generated README/category pages, the taxonomy, full details, migration ledger an
 | review.last_verified | Independent publisher inspection date (YYYY-MM-DD) or null; never inferred from HTTP alone |
 | review.evidence | URL, checked_on, kind (source/sample/build), notes; identify exactly what was inspected |
 | editorial_notes | Caveats, scope, uncertainty, inference labels, corrections and rejection reasons |
-| provenance | null for new submissions, or Notion source URL and every original occurrence |
+| provenance | null for new submissions, or a public import-audit URL and every original tutorial occurrence |
 | provenance.occurrences | Original row, section, title, URL, format/approach/setup text, requirements and notes |
 | repair | null or the repair attributes below |
 | featured | Explicit editorial selection for the README; must be listed, beginner-suitable and have a direct project link |

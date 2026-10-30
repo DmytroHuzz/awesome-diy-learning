@@ -19,7 +19,7 @@ Do not list mandatory paid-only courses, broken or incomplete tutorials, adverti
 
 | Level | Required evidence | Does not mean |
 | --- | --- | --- |
-| source-checked | Publisher, resource and free offering identified; label inherited Notion checks explicitly | A complete project was inspected or built |
+| source-checked | Publisher, resource and free offering identified; label inherited research checks explicitly | A complete project was inspected or built |
 | sample-reviewed | Complete representative instructions inspected for steps, setup, output and payment barriers; direct link and dated notes | The project was personally completed |
 | build-tested | Actual project completion report, obstacles, substitutions and functional result, in addition to sample evidence | Every project in a library was tested |
 

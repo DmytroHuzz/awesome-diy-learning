@@ -4,7 +4,7 @@
 
 [Home](../README.md) · [Quality criteria](quality-criteria.md)
 
-These records preserve research; they are not endorsed recommendations. A source-level check inherited from Notion does not establish current publisher access. Inspect free instruction, complete steps, setup and safety before promoting a record.
+These records preserve research; they are not endorsed recommendations. A source-level check inherited from the initial research does not establish current publisher access. Inspect free instruction, complete steps, setup and safety before promoting a record.
 
 - [A Cut Above Woodworkings — Free Patterns](catalogue-details.md#a-cut-above-woodworkings-free-patterns) — **needs-review**. Source research identifies this offering; inclusion in the review queue is not a recommendation.
 - [Amigurumi Today](catalogue-details.md#amigurumi-today) — **needs-review**. Source research identifies this offering; inclusion in the review queue is not a recommendation.

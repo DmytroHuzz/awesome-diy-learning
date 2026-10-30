@@ -48,7 +48,7 @@ Read the setup and safety notes before starting. Each choice below has a direct 
 
 **Free access:** `open` = instruction available without an account; `free-registration` = a free account is needed; `mixed` = the linked free instruction sits beside paid extras; `restricted-free-tier` = software or service limits apply; `unverified` = a research lead whose current access needs checking. None of these promises free materials. Access notes explain the particular restriction.
 
-**Review level:** `source-checked` identifies an offering and its free content; `sample-reviewed` records inspection of one complete representative project; `build-tested` requires a contributor's actual completion report. No initial entry is build-tested. Imported source checks are explicitly attributed to the Notion research and do not establish current availability.
+**Review level:** `source-checked` identifies an offering and its free content; `sample-reviewed` records inspection of one complete representative project; `build-tested` requires a contributor's actual completion report. No initial entry is build-tested. Imported source checks are explicitly attributed to the initial research in the migration audit and do not establish current availability.
 
 **Editorial disposition:** category tables contain `listed` resources with current publisher evidence. `needs-review` entries stay in the queue; `reference-only` entries provide context or discovery rather than a complete make; `excluded` entries retain an auditable reason. A passing HTTP check establishes reachability only.
 
@@ -88,7 +88,7 @@ Use Python 3.11 or newer. CI runs schema checks, tests, generated-file checks an
 
 ## Limits and credit
 
-The starting research is [The Curious Maker's Library — Free DIY Project-Based Learning](https://app.notion.com/p/409dc269d70a8102a2ffd6e2fb21889c), including its twelve craft expansions and repair section. Every imported occurrence and original URL is retained in the dataset. The migration audit lists merges, corrected links, references and unresolved claims.
+The initial catalogue research includes twelve craft expansions and a repair section. Original tutorial URLs and resource occurrences are retained in the dataset. The [migration audit](docs/migration.md) records the import, merges, corrected links and unresolved claims.
 
 The catalogue is intentionally broad but uneven. Most imported entries still need a direct project review; homepage links and restricted free tiers remain visibly flagged. External sites change, regional access differs and automated checks can be blocked. Safety notes are editorial prompts, not training. There is no claim that all linked content is equally suitable, that every language is known, or that any project has been personally completed.
 

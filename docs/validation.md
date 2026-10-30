@@ -1,13 +1,13 @@
 # Validation record
 
-Initial publication checks, 2026-10-30. [Hosted validation run 1](https://github.com/DmytroHuzz/awesome-diy-learning/actions/runs/41128156556) passed on commit `64ca6d94b837f505bdeb07b6f7b3bde6f675e3fe`, including the Python 3.11 and 3.13 matrix. The complete 40-file remote tree was verified and the local checkout was synchronized with it.
+Publication checks, 2026-10-30. Schema validation, generated views, local Markdown links and anchors, and offline regression tests passed locally. The public [Actions history](https://github.com/DmytroHuzz/awesome-diy-learning/actions) records hosted validation against the Python 3.11 and 3.13 matrix. All 124 resources remain present after removing private workspace references from the catalogue, generator and published history.
 
 ## Metadata and generated documentation
 
 - JSON Schema Draft 2020-12 validation and semantic editorial checks passed for 124 unique resources.
 - All 131 original resource-table rows are accounted for exactly once; seven repeated rows were merged. All 53 controlled topics are represented across six categories, including the research queue.
 - Eleven generated Markdown views are reproducible and checked for freshness. Local Markdown paths and anchors are checked without external requests.
-- The offline regression suite contains 37 tests for data-loss prevention, URL aliases, invalid metadata, unsupported review claims, generation, local links, robots rules, redirects, rate limits and network failures.
+- The offline regression suite contains 38 tests for data-loss prevention, URL aliases, invalid metadata, unsupported review claims, generation, local links, robots rules, redirects, rate limits and network failures.
 - Local schema/test execution uses CPython 3.14.7 in the project virtual environment. The GitHub Actions matrix separately targets Python 3.11 and 3.13. Standard-library generation and link checks also ran with the host Python.
 
 ## Editorial inspection
@@ -30,6 +30,10 @@ Full observations: [initial link report](../reports/link-check-2026-10-30.json) 
 
 ## Scope limits
 
-Most sources remain candidates rather than checked recommendations. Numerical material costs and most durations are unknown. There is no hands-on completion evidence. Broad libraries span varying difficulty and risk. The catalogue records what was actually observed, including inherited Notion notes, and exposes unresolved fields as null.
+Most sources remain candidates rather than checked recommendations. Numerical material costs and most durations are unknown. There is no hands-on completion evidence. Broad libraries span varying difficulty and risk. The catalogue records what was actually observed, including inherited research notes, and exposes unresolved fields as null.
 
 The manual external-link workflow is deliberately separate from pull-request CI so temporary remote errors do not block unrelated contributions. It uploads a report and does not open issues, email creators, or edit the dataset.
+
+## Private source references
+
+Resource provenance and inherited evidence point to the public migration audit rather than a private workspace. The regression suite scans repository files for workspace URL patterns to prevent accidental reintroduction. Original tutorial links and creator credits are preserved.

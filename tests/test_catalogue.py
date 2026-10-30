@@ -1,6 +1,8 @@
 """Offline regression tests for data loss, unsupported claims and generation."""
 import copy
 import json
+import re
+import subprocess
 from pathlib import Path
 import sys
 import tempfile
@@ -134,6 +136,16 @@ class CatalogueTests(unittest.TestCase):
 
     def test_local_markdown_links(self):
         self.assertEqual([],check())
+
+    def test_repository_contains_no_private_workspace_links(self):
+        pattern = re.compile(r'https?://(?:[\w-]+\.)?notion\.(?:com|so|site)(?=[/:?#\s])', re.I)
+        paths = subprocess.check_output(['git', 'ls-files', '-z'], cwd=ROOT).decode().split('\0')
+        matches = []
+        for name in filter(None, paths):
+            path = ROOT / name
+            if path.is_file() and pattern.search(path.read_text(encoding='utf-8')):
+                matches.append(name)
+        self.assertEqual([], matches, 'Private workspace links must not be published: ' + ', '.join(matches))
 
     def test_duplicate_json_keys_rejected(self):
         with tempfile.TemporaryDirectory() as directory:
