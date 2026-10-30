@@ -1,0 +1,735 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Awesome DIY Learning catalogue",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "version": {
+      "const": 1
+    },
+    "resources": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$ref": "#/$defs/resource"
+      }
+    }
+  },
+  "required": [
+    "version",
+    "resources"
+  ],
+  "$defs": {
+    "category": {
+      "enum": [
+        "traditional-crafts",
+        "art-and-design",
+        "engineering-and-technology",
+        "science-and-experiments",
+        "repair-and-restoration",
+        "everyday-skills"
+      ]
+    },
+    "topic": {
+      "enum": [
+        "woodworking",
+        "woodcarving-and-whittling",
+        "leatherworking",
+        "sewing-and-textile-arts",
+        "knitting-and-crochet",
+        "weaving-and-basketry",
+        "ceramics-and-pottery",
+        "bookbinding",
+        "paper-crafts-and-origami",
+        "metalworking-and-blacksmithing",
+        "jewelry-making",
+        "musical-instrument-making",
+        "drawing-and-painting",
+        "botanical-illustration",
+        "printmaking",
+        "sculpture",
+        "miniature-architecture",
+        "model-making-and-dioramas",
+        "model-railways",
+        "toy-making-and-automata",
+        "industrial-and-product-design",
+        "photography-and-optics",
+        "natural-dyes-and-pigments",
+        "electronics",
+        "mechanical-engineering",
+        "robotics-and-mechatronics",
+        "embedded-systems",
+        "3d-modeling-and-cad",
+        "3d-printing-and-digital-fabrication",
+        "control-systems",
+        "cybersecurity",
+        "ai-and-machine-learning",
+        "game-development",
+        "computer-architecture",
+        "scientific-experiments",
+        "physics-and-optical-instruments",
+        "diy-scientific-instruments",
+        "device-teardown-and-reverse-engineering",
+        "electronics-repair",
+        "computer-repair-and-upgrades",
+        "hand-tool-restoration",
+        "furniture-restoration",
+        "bicycle-maintenance",
+        "mechanical-clocks-and-watches",
+        "clothing-repair",
+        "outdoor-equipment-repair",
+        "vintage-equipment-restoration",
+        "upcycling-and-repurposing",
+        "gardening-and-food-growing",
+        "baking-and-cooking",
+        "home-maintenance",
+        "sustainable-living",
+        "household-object-repair"
+      ]
+    },
+    "approach": {
+      "enum": [
+        "guided-build",
+        "project-progression",
+        "experimental-learning",
+        "design-challenge",
+        "pattern-or-plan",
+        "repair-walkthrough",
+        "teardown",
+        "restoration",
+        "upgrade-or-modification",
+        "interactive-lab"
+      ]
+    },
+    "format": {
+      "enum": [
+        "article",
+        "video",
+        "pdf",
+        "patterns",
+        "interactive",
+        "course",
+        "project-library"
+      ]
+    },
+    "resource": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+        },
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "url": {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^https?://[^\\s<>]+$"
+        },
+        "creator": {
+          "type": "string",
+          "minLength": 1
+        },
+        "description": {
+          "type": "string",
+          "minLength": 10
+        },
+        "primary_category": {
+          "$ref": "#/$defs/category"
+        },
+        "topics": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": {
+            "$ref": "#/$defs/topic"
+          }
+        },
+        "tags": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+          },
+          "uniqueItems": true
+        },
+        "formats": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": {
+            "$ref": "#/$defs/format"
+          }
+        },
+        "approaches": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": {
+            "$ref": "#/$defs/approach"
+          }
+        },
+        "difficulty": {
+          "enum": [
+            "beginner",
+            "intermediate",
+            "advanced",
+            "varies",
+            null
+          ]
+        },
+        "free_access": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "status": {
+              "enum": [
+                "open",
+                "free-registration",
+                "mixed",
+                "restricted-free-tier",
+                "unverified"
+              ]
+            },
+            "details": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "required": [
+            "status",
+            "details"
+          ]
+        },
+        "beginner_project_url": {
+          "anyOf": [
+            {
+              "type": "string",
+              "format": "uri",
+              "pattern": "^https?://[^\\s<>]+$"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "tools": {
+          "anyOf": [
+            {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "minLength": 1
+              },
+              "uniqueItems": true
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "materials": {
+          "anyOf": [
+            {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "minLength": 1
+              },
+              "uniqueItems": true
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "workspace": {
+          "anyOf": [
+            {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "type": {
+                  "enum": [
+                    "tabletop",
+                    "workbench",
+                    "workshop",
+                    "kitchen",
+                    "outdoors",
+                    "computer",
+                    "varies"
+                  ]
+                },
+                "details": {
+                  "type": "string",
+                  "minLength": 1
+                }
+              },
+              "required": [
+                "type",
+                "details"
+              ]
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "duration": {
+          "anyOf": [
+            {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "minutes_min": {
+                  "type": [
+                    "integer",
+                    "null"
+                  ],
+                  "minimum": 1
+                },
+                "minutes_max": {
+                  "type": [
+                    "integer",
+                    "null"
+                  ],
+                  "minimum": 1
+                },
+                "details": {
+                  "type": "string",
+                  "minLength": 1
+                }
+              },
+              "required": [
+                "minutes_min",
+                "minutes_max",
+                "details"
+              ]
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "cost_band": {
+          "enum": [
+            "none",
+            "low",
+            "medium",
+            "high",
+            "varies",
+            null
+          ]
+        },
+        "screen_time": {
+          "enum": [
+            "minimal",
+            "mixed",
+            "digital",
+            null
+          ]
+        },
+        "languages": {
+          "anyOf": [
+            {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "pattern": "^[a-z]{2,3}(?:-[A-Za-z0-9]+)*$"
+              },
+              "uniqueItems": true
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "beginner_suitable": {
+          "type": [
+            "boolean",
+            "null"
+          ]
+        },
+        "safety": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "risk": {
+              "enum": [
+                "low",
+                "moderate",
+                "specialist-only",
+                "varies",
+                null
+              ]
+            },
+            "notes": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "minLength": 1
+              },
+              "uniqueItems": true
+            }
+          },
+          "required": [
+            "risk",
+            "notes"
+          ]
+        },
+        "review": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "level": {
+              "enum": [
+                "source-checked",
+                "sample-reviewed",
+                "build-tested"
+              ]
+            },
+            "disposition": {
+              "enum": [
+                "listed",
+                "needs-review",
+                "reference-only",
+                "excluded"
+              ]
+            },
+            "last_verified": {
+              "anyOf": [
+                {
+                  "type": "string",
+                  "format": "date"
+                },
+                {
+                  "type": "null"
+                }
+              ]
+            },
+            "evidence": {
+              "type": "array",
+              "minItems": 1,
+              "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                  "url": {
+                    "type": "string",
+                    "format": "uri",
+                    "pattern": "^https?://[^\\s<>]+$"
+                  },
+                  "checked_on": {
+                    "type": "string",
+                    "format": "date"
+                  },
+                  "kind": {
+                    "enum": [
+                      "source",
+                      "sample",
+                      "build"
+                    ]
+                  },
+                  "notes": {
+                    "type": "string",
+                    "minLength": 1
+                  }
+                },
+                "required": [
+                  "url",
+                  "checked_on",
+                  "kind",
+                  "notes"
+                ]
+              }
+            }
+          },
+          "required": [
+            "level",
+            "disposition",
+            "last_verified",
+            "evidence"
+          ]
+        },
+        "editorial_notes": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "uniqueItems": true
+        },
+        "provenance": {
+          "anyOf": [
+            {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "source": {
+                  "type": "string",
+                  "format": "uri",
+                  "pattern": "^https?://[^\\s<>]+$"
+                },
+                "occurrences": {
+                  "type": "array",
+                  "minItems": 1,
+                  "items": {
+                    "type": "object",
+                    "additionalProperties": false,
+                    "properties": {
+                      "row": {
+                        "type": "integer",
+                        "minimum": 1
+                      },
+                      "section": {
+                        "type": "string",
+                        "minLength": 1
+                      },
+                      "title": {
+                        "type": "string",
+                        "minLength": 1
+                      },
+                      "url": {
+                        "type": "string",
+                        "format": "uri",
+                        "pattern": "^https?://[^\\s<>]+$"
+                      },
+                      "format": {
+                        "type": "string",
+                        "minLength": 1
+                      },
+                      "approach": {
+                        "type": "string",
+                        "minLength": 1
+                      },
+                      "setup": {
+                        "type": "string",
+                        "minLength": 1
+                      },
+                      "requirements": {
+                        "type": [
+                          "string",
+                          "null"
+                        ],
+                        "minLength": 1
+                      },
+                      "notes": {
+                        "type": "string",
+                        "minLength": 1
+                      }
+                    },
+                    "required": [
+                      "row",
+                      "section",
+                      "title",
+                      "url",
+                      "format",
+                      "approach",
+                      "setup",
+                      "requirements",
+                      "notes"
+                    ]
+                  }
+                }
+              },
+              "required": [
+                "source",
+                "occurrences"
+              ]
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "repair": {
+          "anyOf": [
+            {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "object_type": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "activities": {
+                  "type": "array",
+                  "minItems": 1,
+                  "uniqueItems": true,
+                  "items": {
+                    "enum": [
+                      "teardown",
+                      "diagnosis",
+                      "repair",
+                      "restoration",
+                      "upgrade",
+                      "upcycling",
+                      "maintenance"
+                    ]
+                  }
+                },
+                "device_specificity": {
+                  "enum": [
+                    "general-technique",
+                    "product-family",
+                    "exact-model",
+                    null
+                  ]
+                },
+                "replacement_parts": {
+                  "anyOf": [
+                    {
+                      "type": "array",
+                      "items": {
+                        "type": "string",
+                        "minLength": 1
+                      },
+                      "uniqueItems": true
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                },
+                "reversibility": {
+                  "enum": [
+                    "reversible",
+                    "partly-reversible",
+                    "destructive",
+                    null
+                  ]
+                },
+                "risk_level": {
+                  "enum": [
+                    "low",
+                    "moderate",
+                    "specialist-only",
+                    "varies",
+                    null
+                  ]
+                },
+                "functional_checks": {
+                  "anyOf": [
+                    {
+                      "type": "array",
+                      "items": {
+                        "type": "string",
+                        "minLength": 1
+                      },
+                      "uniqueItems": true
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                }
+              },
+              "required": [
+                "object_type",
+                "activities",
+                "device_specificity",
+                "replacement_parts",
+                "reversibility",
+                "risk_level",
+                "functional_checks"
+              ]
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "featured": {
+          "type": "boolean"
+        }
+      },
+      "required": [
+        "id",
+        "title",
+        "url",
+        "creator",
+        "description",
+        "primary_category",
+        "topics",
+        "tags",
+        "formats",
+        "approaches",
+        "difficulty",
+        "free_access",
+        "beginner_project_url",
+        "tools",
+        "materials",
+        "workspace",
+        "duration",
+        "cost_band",
+        "screen_time",
+        "languages",
+        "beginner_suitable",
+        "safety",
+        "review",
+        "editorial_notes",
+        "provenance",
+        "repair",
+        "featured"
+      ]
+    }
+  },
+  "x-topic-categories": {
+    "woodworking": "traditional-crafts",
+    "woodcarving-and-whittling": "traditional-crafts",
+    "leatherworking": "traditional-crafts",
+    "sewing-and-textile-arts": "traditional-crafts",
+    "knitting-and-crochet": "traditional-crafts",
+    "weaving-and-basketry": "traditional-crafts",
+    "ceramics-and-pottery": "traditional-crafts",
+    "bookbinding": "traditional-crafts",
+    "paper-crafts-and-origami": "traditional-crafts",
+    "metalworking-and-blacksmithing": "traditional-crafts",
+    "jewelry-making": "traditional-crafts",
+    "musical-instrument-making": "traditional-crafts",
+    "drawing-and-painting": "art-and-design",
+    "botanical-illustration": "art-and-design",
+    "printmaking": "art-and-design",
+    "sculpture": "art-and-design",
+    "miniature-architecture": "art-and-design",
+    "model-making-and-dioramas": "art-and-design",
+    "model-railways": "art-and-design",
+    "toy-making-and-automata": "art-and-design",
+    "industrial-and-product-design": "art-and-design",
+    "photography-and-optics": "art-and-design",
+    "natural-dyes-and-pigments": "art-and-design",
+    "electronics": "engineering-and-technology",
+    "mechanical-engineering": "engineering-and-technology",
+    "robotics-and-mechatronics": "engineering-and-technology",
+    "embedded-systems": "engineering-and-technology",
+    "3d-modeling-and-cad": "engineering-and-technology",
+    "3d-printing-and-digital-fabrication": "engineering-and-technology",
+    "control-systems": "engineering-and-technology",
+    "cybersecurity": "engineering-and-technology",
+    "ai-and-machine-learning": "engineering-and-technology",
+    "game-development": "engineering-and-technology",
+    "computer-architecture": "engineering-and-technology",
+    "scientific-experiments": "science-and-experiments",
+    "physics-and-optical-instruments": "science-and-experiments",
+    "diy-scientific-instruments": "science-and-experiments",
+    "device-teardown-and-reverse-engineering": "repair-and-restoration",
+    "electronics-repair": "repair-and-restoration",
+    "computer-repair-and-upgrades": "repair-and-restoration",
+    "hand-tool-restoration": "repair-and-restoration",
+    "furniture-restoration": "repair-and-restoration",
+    "bicycle-maintenance": "repair-and-restoration",
+    "mechanical-clocks-and-watches": "repair-and-restoration",
+    "clothing-repair": "repair-and-restoration",
+    "outdoor-equipment-repair": "repair-and-restoration",
+    "vintage-equipment-restoration": "repair-and-restoration",
+    "upcycling-and-repurposing": "repair-and-restoration",
+    "gardening-and-food-growing": "everyday-skills",
+    "baking-and-cooking": "everyday-skills",
+    "home-maintenance": "everyday-skills",
+    "sustainable-living": "everyday-skills",
+    "household-object-repair": "everyday-skills"
+  }
+}

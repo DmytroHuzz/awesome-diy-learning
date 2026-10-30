@@ -1,0 +1,27 @@
+name: Correct a resource or dispute a claim
+description: Improve access claims, credit, descriptions, setup, safety or review status.
+title: 'Correction: '
+body:
+  - type: input
+    id: resource
+    attributes:
+      label: Resource ID or title
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: What should change, and why?
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence and date checked
+      description: Link the creator's information and distinguish observation from inference.
+    validations:
+      required: true
+  - type: input
+    id: affiliation
+    attributes:
+      label: Affiliation or creator relationship, if relevant

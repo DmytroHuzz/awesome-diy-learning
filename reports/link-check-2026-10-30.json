@@ -1,0 +1,1278 @@
+{
+  "checked_at": "2026-10-30T20:54:33.981772+00:00",
+  "user_agent": "AwesomeDIYLearning-LinkCheck/1.0",
+  "policy": "Advisory only; robots respected; one request per host per second; no automatic removals.",
+  "results": [
+    {
+      "url": "https://commonwoodworking.com/courses/",
+      "final_url": "https://commonwoodworking.com/courses/",
+      "http_status": 403,
+      "flags": [
+        "http-error-manual-review"
+      ],
+      "redirects": [],
+      "content_type": "text/html; charset=UTF-8",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://paulsellers.com/tutorials/",
+      "final_url": "https://paulsellers.com/tutorials/",
+      "http_status": 403,
+      "flags": [
+        "http-error-manual-review"
+      ],
+      "redirects": [],
+      "content_type": "text/html; charset=UTF-8",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://www.ana-white.com/woodworking-projects",
+      "final_url": "https://www.ana-white.com/plans",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [
+        {
+          "from": "https://www.ana-white.com/woodworking-projects",
+          "to": "https://www.ana-white.com/plans",
+          "status": 308
+        }
+      ],
+      "content_type": "text/html; charset=utf-8",
+      "status": "reachable"
+    },
+    {
+      "url": "https://www.carvingjunkies.com/",
+      "final_url": "https://www.carvingjunkies.com/",
+      "http_status": 200,
+      "flags": [
+        "possible-bot-block"
+      ],
+      "redirects": [],
+      "content_type": "text/html; charset=UTF-8",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://whittling.hashu.org/",
+      "final_url": "https://whittling.hashu.org/",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html",
+      "status": "reachable"
+    },
+    {
+      "url": "https://www.weaverleathersupply.com/pages/learn",
+      "final_url": "https://www.weaverleathersupply.com/pages/learn",
+      "http_status": 429,
+      "flags": [
+        "http-error-manual-review"
+      ],
+      "redirects": [],
+      "content_type": "text/html",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://www.weaverleathersupply.com/collections/minimalist-leather-card-wallet",
+      "final_url": "https://www.weaverleathersupply.com/collections/minimalist-leather-card-wallet",
+      "http_status": 429,
+      "flags": [
+        "http-error-manual-review"
+      ],
+      "redirects": [],
+      "content_type": "text/html",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://www.weaverleathersupply.com/pages/shop-by-project",
+      "final_url": "https://www.weaverleathersupply.com/pages/shop-by-project",
+      "http_status": 429,
+      "flags": [
+        "http-error-manual-review"
+      ],
+      "redirects": [],
+      "content_type": "text/html",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://sewcanshe.com/free-bag-sewing-patterns-you-can-make-this-weekend-totes-crossbodies-pouches-more/",
+      "final_url": "https://sewcanshe.com/free-bag-sewing-patterns-you-can-make-this-weekend-totes-crossbodies-pouches-more/",
+      "http_status": 403,
+      "flags": [
+        "http-error-manual-review"
+      ],
+      "redirects": [],
+      "content_type": "text/html; charset=UTF-8",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://sewing4free.com/bags/",
+      "final_url": "https://sewing4free.com/bags/",
+      "http_status": 200,
+      "flags": [
+        "possible-bot-block"
+      ],
+      "redirects": [],
+      "content_type": "text/html; charset=UTF-8",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://tincanknits.com/patterns/free",
+      "final_url": "https://tincanknits.com/patterns/free",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html; charset=utf-8",
+      "status": "reachable"
+    },
+    {
+      "url": "https://amigurumi.today/",
+      "final_url": "https://amigurumi.today/",
+      "http_status": 403,
+      "flags": [
+        "http-error-manual-review"
+      ],
+      "redirects": [],
+      "content_type": "text/html; charset=UTF-8",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://www.dmc.com/",
+      "final_url": "https://www.dmc.com/AT/de",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [
+        {
+          "from": "https://www.dmc.com/",
+          "to": "https://www.dmc.com/AT/de",
+          "status": 302
+        }
+      ],
+      "content_type": "text/html; charset=utf-8",
+      "status": "reachable"
+    },
+    {
+      "url": "https://www.gathered.how/arts-crafts/macrame",
+      "final_url": "https://www.gathered.how/arts-crafts/macrame",
+      "http_status": null,
+      "flags": [
+        "network-error-manual-review"
+      ],
+      "redirects": [],
+      "error": "The read operation timed out",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://www.andreweason.com/resources/resources-index.php",
+      "final_url": "https://www.andreweason.com/resources/resources-index.php",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html; charset=UTF-8",
+      "status": "reachable"
+    },
+    {
+      "url": "https://www.knopfsache.at/",
+      "final_url": "https://www.knopfsache.at/",
+      "http_status": null,
+      "flags": [
+        "robots-unavailable-or-restricted"
+      ],
+      "redirects": [],
+      "status": "manual-review"
+    },
+    {
+      "url": "https://origami.me/easy-origami/",
+      "final_url": "https://origami.me/easy-origami/",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html; charset=UTF-8",
+      "status": "reachable"
+    },
+    {
+      "url": "https://creativepark.canon/",
+      "final_url": "https://creativepark.canon/en/index.html",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [
+        {
+          "from": "https://creativepark.canon/",
+          "to": "https://creativepark.canon/en/index.html",
+          "status": 302
+        }
+      ],
+      "content_type": "text/html",
+      "status": "reachable"
+    },
+    {
+      "url": "https://tinkering.exploratorium.edu/cardboard-automata",
+      "final_url": "https://tinkering.exploratorium.edu/cardboard-automata",
+      "http_status": null,
+      "flags": [
+        "robots-unavailable-or-restricted"
+      ],
+      "redirects": [],
+      "status": "manual-review"
+    },
+    {
+      "url": "https://en.ceramic.school/airdryclayclub/",
+      "final_url": "https://en.ceramic.school/airdryclayclub/",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html; charset=utf-8",
+      "status": "reachable"
+    },
+    {
+      "url": "https://www.craftscouncil.org.uk/learning/craft-learning-resources/all-ages",
+      "final_url": "https://www.craftscouncil.org.uk/learning/craft-learning-resources/all-ages",
+      "http_status": 403,
+      "flags": [
+        "http-error-manual-review"
+      ],
+      "redirects": [],
+      "content_type": "text/html; charset=UTF-8",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://www.sculpey.com/blogs/blog",
+      "final_url": "https://www.sculpey.com/blogs/blog",
+      "http_status": 429,
+      "flags": [
+        "http-error-manual-review"
+      ],
+      "redirects": [],
+      "content_type": "text/html",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://beadaholique.com/collections/beading-projects",
+      "final_url": "https://beadaholique.com/collections/beading-projects",
+      "http_status": 429,
+      "flags": [
+        "http-error-manual-review"
+      ],
+      "redirects": [],
+      "content_type": "text/html",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://artprof.org/",
+      "final_url": "https://artprof.org/",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html; charset=UTF-8",
+      "status": "reachable"
+    },
+    {
+      "url": "https://www.jacksonsart.com/blog/",
+      "final_url": "https://www.jacksonsart.com/blog/",
+      "http_status": null,
+      "flags": [
+        "robots-unavailable-or-restricted"
+      ],
+      "redirects": [],
+      "status": "manual-review"
+    },
+    {
+      "url": "https://www.delphiglass.com/",
+      "final_url": "https://www.delphiglass.com/",
+      "http_status": 403,
+      "flags": [
+        "http-error-manual-review"
+      ],
+      "redirects": [],
+      "content_type": "text/html; charset=UTF-8",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://www.ritdye.com/techniques/",
+      "final_url": "https://www.ritdye.com/techniques/",
+      "http_status": 403,
+      "flags": [
+        "http-error-manual-review"
+      ],
+      "redirects": [],
+      "content_type": "text/html; charset=UTF-8",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://naturaldyes.ca/tutorials",
+      "final_url": "https://naturaldyes.ca/tutorials",
+      "http_status": 200,
+      "flags": [
+        "possible-bot-block"
+      ],
+      "redirects": [],
+      "content_type": "text/html;charset=utf-8",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://tinkering.exploratorium.edu/marble-machines",
+      "final_url": "https://tinkering.exploratorium.edu/marble-machines",
+      "http_status": null,
+      "flags": [
+        "robots-unavailable-or-restricted"
+      ],
+      "redirects": [],
+      "status": "manual-review"
+    },
+    {
+      "url": "https://annex.exploratorium.edu/pie/ideas.html",
+      "final_url": "https://annex.exploratorium.edu/pie/ideas.html",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html",
+      "status": "reachable"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/edu/teach/activity/",
+      "final_url": "https://www.jpl.nasa.gov/edu/teach/activity/",
+      "http_status": 403,
+      "flags": [
+        "http-error-manual-review"
+      ],
+      "redirects": [],
+      "content_type": "text/html",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://www.sciencebuddies.org/science-fair-projects/project-ideas",
+      "final_url": "https://www.sciencebuddies.org/science-fair-projects/project-ideas",
+      "http_status": null,
+      "flags": [
+        "robots-unavailable-or-restricted"
+      ],
+      "redirects": [],
+      "status": "manual-review"
+    },
+    {
+      "url": "https://practicalaction.org/schools/",
+      "final_url": "https://practicalaction.org/schools/",
+      "http_status": null,
+      "flags": [
+        "network-error-manual-review"
+      ],
+      "redirects": [],
+      "error": "<urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://www.duffield.cornell.edu/mae/reuleaux-collection/",
+      "final_url": "https://www.duffield.cornell.edu/mae/reuleaux-collection/",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html; charset=UTF-8",
+      "status": "reachable"
+    },
+    {
+      "url": "https://www.flitetest.com/",
+      "final_url": "https://www.flitetest.com/",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html; charset=UTF-8",
+      "status": "reachable"
+    },
+    {
+      "url": "https://craftytimewithdave.com/",
+      "final_url": "https://craftytimewithdave.com/",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html; charset=UTF-8",
+      "status": "reachable"
+    },
+    {
+      "url": "https://lionelllc.wordpress.com/projects-and-tips/build-a-display-diorama/",
+      "final_url": "https://lionelllc.wordpress.com/projects-and-tips/build-a-display-diorama/",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html; charset=UTF-8",
+      "status": "reachable"
+    },
+    {
+      "url": "https://makezine.com/projects/",
+      "final_url": "https://makezine.com/projects/",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html; charset=UTF-8",
+      "status": "reachable"
+    },
+    {
+      "url": "https://makeityourself.org/",
+      "final_url": "https://makeityourself.org/",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html",
+      "status": "reachable"
+    },
+    {
+      "url": "https://www.instructables.com/Design-Studio-Class-Projects/",
+      "final_url": "https://www.instructables.com/Design-Studio-Class-Projects/",
+      "http_status": 200,
+      "flags": [
+        "possible-bot-block"
+      ],
+      "redirects": [],
+      "content_type": "text/html; charset=utf-8",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://fab.cba.mit.edu/classes/863.25/",
+      "final_url": "https://fab.cba.mit.edu/classes/863.25/",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html",
+      "status": "reachable"
+    },
+    {
+      "url": "https://www.autodesk.com/learn",
+      "final_url": "https://www.autodesk.com/learn",
+      "http_status": 403,
+      "flags": [
+        "http-error-manual-review",
+        "possible-bot-block"
+      ],
+      "redirects": [],
+      "content_type": "text/html",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://learn.onshape.com/",
+      "final_url": "https://learn.onshape.com/",
+      "http_status": 200,
+      "flags": [
+        "possible-access-restriction"
+      ],
+      "redirects": [],
+      "content_type": "text/html; charset=utf-8",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://www.blenderguru.com/tutorials",
+      "final_url": "https://www.blenderguru.com/tutorials",
+      "http_status": 404,
+      "flags": [
+        "http-error-manual-review",
+        "possible-bot-block"
+      ],
+      "redirects": [],
+      "content_type": "text/html;charset=utf-8",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://learn.sparkfun.com/tutorials",
+      "final_url": "https://learn.sparkfun.com/tutorials",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html;charset=UTF-8",
+      "status": "reachable"
+    },
+    {
+      "url": "https://projects.raspberrypi.org/",
+      "final_url": "https://projects.raspberrypi.org/",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html; charset=utf-8",
+      "status": "reachable"
+    },
+    {
+      "url": "https://projecthub.arduino.cc/",
+      "final_url": "https://projecthub.arduino.cc/",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html; charset=utf-8",
+      "status": "reachable"
+    },
+    {
+      "url": "https://howtomechatronics.com/",
+      "final_url": "https://howtomechatronics.com/",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html; charset=UTF-8",
+      "status": "reachable"
+    },
+    {
+      "url": "https://matlabacademy.mathworks.com/",
+      "final_url": "https://matlabacademy.mathworks.com/",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html",
+      "status": "reachable"
+    },
+    {
+      "url": "https://www.makersmakingchange.com/assistive-devices",
+      "final_url": "https://www.makersmakingchange.com/assistive-devices",
+      "http_status": 200,
+      "flags": [
+        "possible-bot-block"
+      ],
+      "redirects": [],
+      "content_type": "text/html; charset=utf-8",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://huggingface.co/learn/deep-rl-course/unit0/introduction",
+      "final_url": "https://huggingface.co/learn/deep-rl-course/unit0/introduction",
+      "http_status": 200,
+      "flags": [
+        "possible-bot-block"
+      ],
+      "redirects": [],
+      "content_type": "text/html; charset=utf-8",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://portswigger.net/web-security",
+      "final_url": "https://portswigger.net/web-security",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html; charset=utf-8",
+      "status": "reachable"
+    },
+    {
+      "url": "https://overthewire.org/wargames/bandit/",
+      "final_url": "https://overthewire.org/wargames/bandit/",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html; charset=utf-8",
+      "status": "reachable"
+    },
+    {
+      "url": "https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html",
+      "final_url": "https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html; charset=utf-8",
+      "status": "reachable"
+    },
+    {
+      "url": "https://www.nand2tetris.org/",
+      "final_url": "https://www.nand2tetris.org/",
+      "http_status": 200,
+      "flags": [
+        "possible-bot-block"
+      ],
+      "redirects": [],
+      "content_type": "text/html; charset=UTF-8",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://strobist.blogspot.com/2006/03/lighting-101.html",
+      "final_url": "https://strobist.blogspot.com/2006/03/lighting-101.html",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html; charset=UTF-8",
+      "status": "reachable"
+    },
+    {
+      "url": "https://www.ifixit.com/Guide",
+      "final_url": "https://www.ifixit.com/Guide",
+      "http_status": 200,
+      "flags": [
+        "possible-bot-block"
+      ],
+      "redirects": [],
+      "content_type": "text/html; charset=utf-8",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://www.parktool.com/en-us/blog/repair-help",
+      "final_url": "https://www.parktool.com/en-us/blog/repair-help",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html; charset=UTF-8",
+      "status": "reachable"
+    },
+    {
+      "url": "https://www.rhs.org.uk/advice",
+      "final_url": "https://www.rhs.org.uk/advice",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html; charset=utf-8",
+      "status": "reachable"
+    },
+    {
+      "url": "https://www.growveg.com/",
+      "final_url": "https://www.growveg.com/",
+      "http_status": null,
+      "flags": [
+        "robots-unavailable-or-restricted"
+      ],
+      "redirects": [],
+      "status": "manual-review"
+    },
+    {
+      "url": "https://www.kingarthurbaking.com/recipes",
+      "final_url": "https://www.kingarthurbaking.com/recipes",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html; charset=utf-8",
+      "status": "reachable"
+    },
+    {
+      "url": "https://joandcoreedworks.com/journal/weave-your-first-basket",
+      "final_url": "https://joandcoreedworks.com/journal/weave-your-first-basket",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html; charset=utf-8",
+      "status": "reachable"
+    },
+    {
+      "url": "https://thedyestore.com/learn-hub/",
+      "final_url": "https://thedyestore.com/learn-hub/",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html; charset=UTF-8",
+      "status": "reachable"
+    },
+    {
+      "url": "https://www.cigarboxguitars.com/how-to-build",
+      "final_url": "https://www.cigarboxguitars.com/how-to-build",
+      "http_status": 200,
+      "flags": [
+        "possible-bot-block"
+      ],
+      "redirects": [],
+      "content_type": "text/html; charset=UTF-8",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://www.cbgitty.com/free-plans-how-to-build-a-cigar-box-guitar/",
+      "final_url": "https://www.cbgitty.com/free-plans-how-to-build-a-cigar-box-guitar/",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html; charset=UTF-8",
+      "status": "reachable"
+    },
+    {
+      "url": "https://www.thecrucible.org/guides/blacksmithing/projects/",
+      "final_url": "https://www.thecrucible.org/guides/blacksmithing/projects/",
+      "http_status": 200,
+      "flags": [
+        "possible-bot-block"
+      ],
+      "redirects": [],
+      "content_type": "text/html; charset=UTF-8",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://www.millerwelds.com/resources/project-ideas",
+      "final_url": "https://www.millerwelds.com/en-us/resources/project-ideas",
+      "http_status": 404,
+      "flags": [
+        "http-error-manual-review",
+        "possible-bot-block"
+      ],
+      "redirects": [
+        {
+          "from": "https://www.millerwelds.com/resources/project-ideas",
+          "to": "https://www.millerwelds.com/en-us/resources/project-ideas",
+          "status": 308
+        }
+      ],
+      "content_type": "text/html; charset=utf-8",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://www.craftscouncil.org.uk/learning/craft-learning-resources/early-years-and-primary",
+      "final_url": "https://www.craftscouncil.org.uk/learning/craft-learning-resources/early-years-and-primary",
+      "http_status": 403,
+      "flags": [
+        "http-error-manual-review"
+      ],
+      "redirects": [],
+      "content_type": "text/html; charset=UTF-8",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://www.michaels.com/projects",
+      "final_url": "https://www.michaels.com/projects",
+      "http_status": null,
+      "flags": [
+        "robots-unavailable-or-restricted"
+      ],
+      "redirects": [],
+      "status": "manual-review"
+    },
+    {
+      "url": "https://www.classcentral.com/subject/crafts",
+      "final_url": "https://www.classcentral.com/subject/crafts",
+      "http_status": null,
+      "flags": [
+        "robots-unavailable-or-restricted"
+      ],
+      "redirects": [],
+      "status": "manual-review"
+    },
+    {
+      "url": "https://www.musgrovewillows.co.uk/help-and-advice/how-to-weave-a-round-willow-basket-1/",
+      "final_url": "https://www.musgrovewillows.co.uk/help-and-advice/how-to-weave-a-round-willow-basket-1/",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html; charset=UTF-8",
+      "status": "reachable"
+    },
+    {
+      "url": "https://creativewithnature.co.uk/",
+      "final_url": "https://creativewithnature.co.uk/",
+      "http_status": 429,
+      "flags": [
+        "http-error-manual-review"
+      ],
+      "redirects": [],
+      "content_type": "text/html",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://www.sceniccityclayarts.org/howto",
+      "final_url": "https://www.sceniccityclayarts.org/howto",
+      "http_status": 200,
+      "flags": [
+        "possible-bot-block"
+      ],
+      "redirects": [],
+      "content_type": "text/html;charset=utf-8",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://theclayhole.com/pages/20-easy-projects-beginners-can-hand-build",
+      "final_url": "https://theclayhole.com/pages/20-easy-projects-beginners-can-hand-build",
+      "http_status": 429,
+      "flags": [
+        "http-error-manual-review"
+      ],
+      "redirects": [],
+      "content_type": "text/html",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://www.sculpd.ca/pages/clay-school",
+      "final_url": "https://www.sculpd.ca/pages/clay-school",
+      "http_status": 429,
+      "flags": [
+        "http-error-manual-review"
+      ],
+      "redirects": [],
+      "content_type": "text/html",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://woodandshop.com/category/tool-sharpening-refurbishing/",
+      "final_url": "https://woodandshop.com/category/tool-sharpening-refurbishing/",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html; charset=utf-8",
+      "status": "reachable"
+    },
+    {
+      "url": "https://www.popularwoodworking.com/techniques/hand-plane-restoration/",
+      "final_url": "https://www.popularwoodworking.com/techniques/hand-plane-restoration/",
+      "http_status": 200,
+      "flags": [
+        "possible-bot-block"
+      ],
+      "redirects": [],
+      "content_type": "text/html; charset=UTF-8",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://woodandshop.com/traditional-woodworking-index/",
+      "final_url": "https://woodandshop.com/traditional-woodworking-index/",
+      "http_status": 200,
+      "flags": [
+        "possible-bot-block"
+      ],
+      "redirects": [],
+      "content_type": "text/html; charset=utf-8",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://beavercrafttools.com/blogs/ideas-inspiration-carve-hacks/wood-carving-patterns-for-beginners-easy-whittling-templates-for-free",
+      "final_url": "https://beavercrafttools.com/blogs/ideas-inspiration-carve-hacks/wood-carving-patterns-for-beginners-easy-whittling-templates-for-free",
+      "http_status": 200,
+      "flags": [
+        "possible-bot-block"
+      ],
+      "redirects": [],
+      "content_type": "text/html; charset=utf-8",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://learnwatchmaking.com/free-course/",
+      "final_url": "https://learnwatchmaking.com/free-course/",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html; charset=UTF-8",
+      "status": "reachable"
+    },
+    {
+      "url": "https://www.timezonewatchschool.com/WatchSchool/SampleSchool/Classrooms/Level%201/level%201.shtml",
+      "final_url": "https://www.timezonewatchschool.com/WatchSchool/SampleSchool/Classrooms/Level%201/level%201.shtml",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html",
+      "status": "reachable"
+    },
+    {
+      "url": "https://www.woodcraft.com/blogs/small-projects/how-to-make-a-wall-clock-clock-mechanism-installation-tutorial",
+      "final_url": "https://www.woodcraft.com/blogs/small-projects/how-to-make-a-wall-clock-clock-mechanism-installation-tutorial",
+      "http_status": 429,
+      "flags": [
+        "http-error-manual-review"
+      ],
+      "redirects": [],
+      "content_type": "text/html",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://www.cabinetofcuriositystudio.com/pages/free-paper-architecture-models",
+      "final_url": "https://www.cabinetofcuriositystudio.com/pages/free-paper-architecture-models",
+      "http_status": 429,
+      "flags": [
+        "http-error-manual-review"
+      ],
+      "redirects": [],
+      "content_type": "text/html",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://restoringwhatwaslost.com/printables",
+      "final_url": "https://restoringwhatwaslost.com/printables",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html; charset=utf-8",
+      "status": "reachable"
+    },
+    {
+      "url": "https://woodlandscenics.woodlandscenics.com/show/video/LS_Complete",
+      "final_url": "https://woodlandscenics.woodlandscenics.com/show/video/LS_Complete",
+      "http_status": 403,
+      "flags": [
+        "http-error-manual-review"
+      ],
+      "redirects": [],
+      "content_type": "text/html; charset=UTF-8",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://woodlandscenics.woodlandscenics.com/show/video/ModelSceneryMadeEasy",
+      "final_url": "https://woodlandscenics.woodlandscenics.com/show/video/ModelSceneryMadeEasy",
+      "http_status": 403,
+      "flags": [
+        "http-error-manual-review"
+      ],
+      "redirects": [],
+      "content_type": "text/html; charset=UTF-8",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://woodlandscenics.woodlandscenics.com/show/videos/scenearama",
+      "final_url": "https://woodlandscenics.woodlandscenics.com/show/videos/scenearama",
+      "http_status": 403,
+      "flags": [
+        "http-error-manual-review"
+      ],
+      "redirects": [],
+      "content_type": "text/html; charset=UTF-8",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://www.nmra.org/node/4367",
+      "final_url": "https://www.nmra.org/node/4367",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html; charset=utf-8",
+      "status": "reachable"
+    },
+    {
+      "url": "https://www.davidreynoldsart.com.au/tutorials",
+      "final_url": "https://www.davidreynoldsart.com.au/tutorials",
+      "http_status": 200,
+      "flags": [
+        "possible-bot-block"
+      ],
+      "redirects": [],
+      "content_type": "text/html; charset=UTF-8",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://www.berlindrawingroom.com/free-spring-botanical-watercolor-class/",
+      "final_url": "https://www.berlindrawingroom.com/free-spring-botanical-watercolor-class/",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html; charset=UTF-8",
+      "status": "reachable"
+    },
+    {
+      "url": "https://www.emmatildesley.com/blog/painting-an-oriental-lily-in-watercolour-a-free-botanical-art-tutorial",
+      "final_url": "https://www.emmatildesley.com/blog/painting-an-oriental-lily-in-watercolour-a-free-botanical-art-tutorial",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html; charset=utf-8",
+      "status": "reachable"
+    },
+    {
+      "url": "https://maiwa.com/pages/instruction-sheets",
+      "final_url": "https://maiwa.com/pages/instruction-sheets",
+      "http_status": 429,
+      "flags": [
+        "http-error-manual-review"
+      ],
+      "redirects": [],
+      "content_type": "text/html",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://botanicalcolors.com/onion-skin-instructions/",
+      "final_url": "https://botanicalcolors.com/onion-skin-instructions/",
+      "http_status": null,
+      "flags": [
+        "robots-unavailable-or-restricted"
+      ],
+      "redirects": [],
+      "status": "manual-review"
+    },
+    {
+      "url": "https://www.botanic.cam.ac.uk/learning/trails/dyestrail/",
+      "final_url": "https://www.botanic.cam.ac.uk/learning/trails/dyestrail/",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html; charset=UTF-8",
+      "status": "reachable"
+    },
+    {
+      "url": "https://www.nasa.gov/stem-content/build-your-own-spectrograph/",
+      "final_url": "https://www.nasa.gov/stem-content/build-your-own-spectrograph/",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html; charset=UTF-8",
+      "status": "reachable"
+    },
+    {
+      "url": "https://science.anu.edu.au/engagement/science-lab-experiments-home-school/make-pinhole-camera",
+      "final_url": "https://science.anu.edu.au/engagement/science-lab-experiments-home-school/make-pinhole-camera",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html; charset=utf-8",
+      "status": "reachable"
+    },
+    {
+      "url": "https://www.eastman.org/discovery-room",
+      "final_url": "https://www.eastman.org/discovery-room",
+      "http_status": null,
+      "flags": [
+        "robots-unavailable-or-restricted"
+      ],
+      "redirects": [],
+      "status": "manual-review"
+    },
+    {
+      "url": "https://acutabovewoodworkings.com/free-patterns",
+      "final_url": "https://acutabovewoodworkings.com/free-patterns",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html;charset=utf-8",
+      "status": "reachable"
+    },
+    {
+      "url": "https://www.wooden-toy-plans.com/",
+      "final_url": "https://www.wooden-toy-plans.com/",
+      "http_status": 200,
+      "flags": [
+        "possible-bot-block"
+      ],
+      "redirects": [],
+      "content_type": "text/html",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://www.kevinmkraft.com/buildacigarboxdiddleybow",
+      "final_url": "https://www.kevinmkraft.com/buildacigarboxdiddleybow",
+      "http_status": 200,
+      "flags": [
+        "possible-bot-block"
+      ],
+      "redirects": [],
+      "content_type": "text/html;charset=utf-8",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://makezine.com/projects/cigar-box-guitar/",
+      "final_url": "https://makezine.com/projects/cigar-box-guitar/",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html; charset=UTF-8",
+      "status": "reachable"
+    },
+    {
+      "url": "https://therestartproject.org/restart-at-school-materials/",
+      "final_url": "https://therestartproject.org/restart-at-school-materials/",
+      "http_status": 200,
+      "flags": [
+        "possible-bot-block"
+      ],
+      "redirects": [],
+      "content_type": "text/html; charset=UTF-8",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://wiki.restarters.net/Help",
+      "final_url": "https://wiki.restarters.net/Help",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html; charset=UTF-8",
+      "status": "reachable"
+    },
+    {
+      "url": "https://www.ifixit.com/Device/Skills",
+      "final_url": "https://www.ifixit.com/Device/Skills",
+      "http_status": 200,
+      "flags": [
+        "possible-bot-block"
+      ],
+      "redirects": [],
+      "content_type": "text/html; charset=utf-8",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://www.ifixit.com/teardown",
+      "final_url": "https://www.ifixit.com/teardown",
+      "http_status": 200,
+      "flags": [
+        "possible-bot-block"
+      ],
+      "redirects": [],
+      "content_type": "text/html; charset=utf-8",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://www.ifixit.com/News/9391/video-game-system-teardown",
+      "final_url": "https://www.ifixit.com/News/9391/video-game-system-teardown",
+      "http_status": 200,
+      "flags": [
+        "possible-bot-block"
+      ],
+      "redirects": [],
+      "content_type": "text/html; charset=utf-8",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://fixitclub.com/fix-it-guides/",
+      "final_url": "https://fixitclub.com/fix-it-guides/",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html; charset=UTF-8",
+      "status": "reachable"
+    },
+    {
+      "url": "https://www.sikana.tv/en/diy/refurbishing-furniture",
+      "final_url": "https://www.sikana.tv/en/diy/refurbishing-furniture",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html; charset=UTF-8",
+      "status": "reachable"
+    },
+    {
+      "url": "https://canadianwoodworking.com/techniques_and_tips/how-to-repair-a-chair/",
+      "final_url": "https://canadianwoodworking.com/techniques_and_tips/how-to-repair-a-chair/",
+      "http_status": 403,
+      "flags": [
+        "http-error-manual-review"
+      ],
+      "redirects": [],
+      "content_type": "text/html; charset=UTF-8",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://www.woodmagazine.com/woodworking-tips/techniques/intermediate/planer",
+      "final_url": "https://www.woodmagazine.com/woodworking-tips/techniques/intermediate/planer",
+      "http_status": 402,
+      "flags": [
+        "http-error-manual-review"
+      ],
+      "redirects": [],
+      "content_type": "text/html",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://www.sikana.tv/en/diy/diy-basics",
+      "final_url": "https://www.sikana.tv/en/diy/diy-basics",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html; charset=UTF-8",
+      "status": "reachable"
+    },
+    {
+      "url": "https://www.ifixit.com/Wiki/Repairing_and_Upgrading_Your_Computer",
+      "final_url": "https://www.ifixit.com/Wiki/Repairing_and_Upgrading_Your_Computer",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html; charset=utf-8",
+      "status": "reachable"
+    },
+    {
+      "url": "https://guides.frame.work/c/Framework_Laptop",
+      "final_url": "https://guides.frame.work/c/Framework_Laptop",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html; charset=utf-8",
+      "status": "reachable"
+    },
+    {
+      "url": "https://www.ifixit.com/Guide/How+to+Clean+the+Interior+of+a+Lenovo+Legion+Pro+5+16ARX8/188011",
+      "final_url": "https://www.ifixit.com/Guide/How+to+Clean+the+Interior+of+a+Lenovo+Legion+Pro+5+16ARX8/188011",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html; charset=utf-8",
+      "status": "reachable"
+    },
+    {
+      "url": "https://www.ifixit.com/Guide/Left+Joy-Con+Joystick+Replacement/113182",
+      "final_url": "https://www.ifixit.com/Guide/Left+Joy-Con+Joystick+Replacement/113182",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html; charset=utf-8",
+      "status": "reachable"
+    },
+    {
+      "url": "https://www.ifixit.com/soldering",
+      "final_url": "https://www.ifixit.com/soldering-eu",
+      "http_status": 200,
+      "flags": [
+        "possible-bot-block"
+      ],
+      "redirects": [
+        {
+          "from": "https://www.ifixit.com/soldering",
+          "to": "https://www.ifixit.com/soldering-eu",
+          "status": 301
+        }
+      ],
+      "content_type": "text/html; charset=utf-8",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://asbarney.wixsite.com/mysite/vsm-basics",
+      "final_url": "https://asbarney.wixsite.com/mysite/vsm-basics",
+      "http_status": 200,
+      "flags": [
+        "possible-bot-block"
+      ],
+      "redirects": [],
+      "content_type": "text/html; charset=UTF-8",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://www.cyclinguk.org/article/simple-bike-maintenance-guides",
+      "final_url": "https://www.cyclinguk.org/article/simple-bike-maintenance-guides",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html; charset=utf-8",
+      "status": "reachable"
+    },
+    {
+      "url": "https://www.cyclinguk.org/cycle/back-best",
+      "final_url": "https://www.cyclinguk.org/cycle/back-best",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html; charset=utf-8",
+      "status": "reachable"
+    },
+    {
+      "url": "https://www.sewingpath.com/blog/free-mending-course",
+      "final_url": "https://www.sewingpath.com/blog/free-mending-course",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html; charset=utf-8",
+      "status": "reachable"
+    },
+    {
+      "url": "https://sewmendstitch.com/",
+      "final_url": "https://sewmendstitch.com/",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html; charset=utf-8",
+      "status": "reachable"
+    },
+    {
+      "url": "https://eu.patagonia.com/gb/en/product-care.html",
+      "final_url": "https://eu.patagonia.com/gb/en/product-care.html",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html",
+      "status": "reachable"
+    },
+    {
+      "url": "https://www.rei.com/learn/expert-advice/tent-repair-how-to.html",
+      "final_url": "https://www.rei.com/learn/expert-advice/tent-repair-how-to.html",
+      "http_status": null,
+      "flags": [
+        "network-error-manual-review"
+      ],
+      "redirects": [],
+      "error": "The read operation timed out",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://www.rei.com/learn/expert-advice/sleeping-bag-zipper.html",
+      "final_url": "https://www.rei.com/learn/expert-advice/sleeping-bag-zipper.html",
+      "http_status": null,
+      "flags": [
+        "network-error-manual-review"
+      ],
+      "redirects": [],
+      "error": "The read operation timed out",
+      "status": "manual-review"
+    }
+  ]
+}

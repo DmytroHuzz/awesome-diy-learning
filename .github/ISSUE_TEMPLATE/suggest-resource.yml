@@ -1,0 +1,49 @@
+name: Suggest a learning resource
+description: Share useful free instructions from the original creator.
+title: 'Resource: '
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Resource title and creator
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Direct free tutorial or instructional collection URL
+      description: A commercial homepage alone is not enough.
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: What will someone make, repair or experiment with?
+      description: Include topics, format, learning approach and a first project link.
+    validations:
+      required: true
+  - type: textarea
+    id: access
+    attributes:
+      label: Free-access evidence and restrictions
+      description: Date checked, required registration, software limits and optional paid content.
+    validations:
+      required: true
+  - type: textarea
+    id: setup
+    attributes:
+      label: Tools, materials, workspace and safety
+      description: Say unknown where you have no evidence; do not guess costs or time.
+    validations:
+      required: true
+  - type: textarea
+    id: review
+    attributes:
+      label: What did you personally inspect or complete?
+      description: Distinguish source checking, reading a complete tutorial and actually building it.
+    validations:
+      required: true
+  - type: input
+    id: affiliation
+    attributes:
+      label: Your affiliation with the creator or resource, if any

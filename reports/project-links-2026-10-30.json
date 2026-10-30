@@ -1,0 +1,107 @@
+{
+  "checked_at": "2026-10-30T20:59:59.884164+00:00",
+  "user_agent": "AwesomeDIYLearning-LinkCheck/1.0",
+  "policy": "Advisory only; robots respected; one request per host per second; no automatic removals.",
+  "results": [
+    {
+      "url": "https://commonwoodworking.com/courses/chisel-tray/",
+      "final_url": "https://commonwoodworking.com/courses/chisel-tray/",
+      "http_status": 403,
+      "flags": [
+        "http-error-manual-review"
+      ],
+      "redirects": [],
+      "content_type": "text/html; charset=UTF-8",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://www.andreweason.com/resources/pamphlet.pdf",
+      "final_url": "https://www.andreweason.com/resources/pamphlet.pdf",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "application/pdf",
+      "status": "reachable"
+    },
+    {
+      "url": "https://origami.me/box/",
+      "final_url": "https://origami.me/box/",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html; charset=UTF-8",
+      "status": "reachable"
+    },
+    {
+      "url": "https://www.exploratorium.edu/tinkering/projects/cardboard-automata",
+      "final_url": "https://www.exploratorium.edu/tinkering/projects/cardboard-automata",
+      "http_status": null,
+      "flags": [
+        "robots-unavailable-or-restricted"
+      ],
+      "redirects": [],
+      "status": "manual-review"
+    },
+    {
+      "url": "https://www.exploratorium.edu/sites/default/files/pdfs/cardboard_automata_guide_final_screen.pdf",
+      "final_url": "https://www.exploratorium.edu/sites/default/files/pdfs/cardboard_automata_guide_final_screen.pdf",
+      "http_status": null,
+      "flags": [
+        "robots-unavailable-or-restricted"
+      ],
+      "redirects": [],
+      "status": "manual-review"
+    },
+    {
+      "url": "https://overthewire.org/wargames/bandit/bandit0.html",
+      "final_url": "https://overthewire.org/wargames/bandit/bandit0.html",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html; charset=utf-8",
+      "status": "reachable"
+    },
+    {
+      "url": "https://www.nand2tetris.org/course",
+      "final_url": "https://www.nand2tetris.org/course",
+      "http_status": 200,
+      "flags": [
+        "possible-bot-block"
+      ],
+      "redirects": [],
+      "content_type": "text/html; charset=UTF-8",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://www.kingarthurbaking.com/recipes/flaky-puff-crust-pizza-recipe",
+      "final_url": "https://www.kingarthurbaking.com/recipes/flaky-puff-crust-pizza-recipe",
+      "http_status": 200,
+      "flags": [],
+      "redirects": [],
+      "content_type": "text/html; charset=utf-8",
+      "status": "reachable"
+    },
+    {
+      "url": "https://www.cabinetofcuriositystudio.com/pages/darlington-clock-tower-paper-architecture-model",
+      "final_url": "https://www.cabinetofcuriositystudio.com/pages/darlington-clock-tower-paper-architecture-model",
+      "http_status": 429,
+      "flags": [
+        "http-error-manual-review"
+      ],
+      "redirects": [],
+      "content_type": "text/html",
+      "status": "manual-review"
+    },
+    {
+      "url": "https://www.rei.com/learn/expert-advice/tent-repair-how-to.html#patching-holes-in-your-tent",
+      "final_url": "https://www.rei.com/learn/expert-advice/tent-repair-how-to.html#patching-holes-in-your-tent",
+      "http_status": null,
+      "flags": [
+        "network-error-manual-review"
+      ],
+      "redirects": [],
+      "error": "The read operation timed out",
+      "status": "manual-review"
+    }
+  ]
+}
