@@ -67,6 +67,17 @@ def validate(document, schema=None):
         for evidence in review['evidence']:
             if date.fromisoformat(evidence['checked_on']) > date.today():
                 errors.append(f'{rid}: evidence date cannot be in the future')
+        batches = set()
+        for audit in review.get('audits', []):
+            if audit['batch'] in batches:
+                errors.append(f'{rid}: duplicate audit batch {audit["batch"]}')
+            batches.add(audit['batch'])
+            if date.fromisoformat(audit['checked_on']) > date.today():
+                errors.append(f'{rid}: audit date cannot be in the future')
+            publisher_dates = {e['checked_on'] for e in review['evidence']
+                               if e['url'] != (resource['provenance'] or {}).get('source')}
+            if audit['checked_on'] not in publisher_dates:
+                errors.append(f'{rid}: audit requires dated publisher inspection or access-attempt evidence')
         if review['last_verified'] and review['last_verified'] not in {e['checked_on'] for e in review['evidence'] if e['url'] != (resource['provenance'] or {}).get('source')}:
             errors.append(f'{rid}: verification date must match independent publisher evidence')
         duration = resource['duration']

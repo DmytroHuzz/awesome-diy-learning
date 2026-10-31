@@ -25,6 +25,8 @@ Do not list mandatory paid-only courses, broken or incomplete tutorials, adverti
 
 Record current verification only against publisher evidence. An imported source date is kept in provenance; it does not become an independent verification date. Automated HTTP success does not establish free access, quality or safety. Reviews do not expire automatically, but dates let readers judge freshness.
 
+Record unsuccessful inspections too: name the attempted publisher URL, observed barrier and the specific next check. Use `review.audits` for a dated batch decision and keep `needs-review` where completeness, access, credibility or safety is unresolved. An audit attempt is not independent verification. Do not create an account, subscribe to marketing, or accept course terms on another person’s behalf merely to resolve an editorial question. A source-level check of an account-gated offering must say that enrollment and the full lessons were not tested.
+
 ## Dispositions
 
 `listed` is a current checked offering. `needs-review` is a preserved candidate with unresolved claims. `reference-only` is useful background, discovery or planning material outside the complete-project standard. `excluded` records a confirmed failure of the criteria. Move a listing into review when significant contrary evidence appears; do not delete based on a single timeout or bot block.

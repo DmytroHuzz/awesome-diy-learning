@@ -35,7 +35,7 @@ Six broad categories plus flexible topics and tags avoid a deep hierarchy. The s
 | Toy making and automata | 3 |
 | Industrial and product design | 5 |
 | Photography and optics | 4 |
-| Natural dyes and pigments | 6 |
+| Natural dyes and pigments | 5 |
 
 ## Engineering and technology
 

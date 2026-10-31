@@ -20,9 +20,25 @@ The CigarBoxGuitars root and `/how-to-build` were treated as one archive, with b
 
 ## Corrections and unresolved scope
 
+- [Ana White — Plans](catalogue-details.md#ana-white-plans) — current publisher URL: https://www.ana-white.com/plans; original retained.
+- [Autodesk Fusion — Learn](catalogue-details.md#autodesk-fusion-learn) — current publisher URL: https://www.autodesk.com/learn/ondemand/collection/self-paced-learning-for-fusion; original retained.
+- [Blender Guru — Tutorials](catalogue-details.md#blender-guru-tutorials) — current publisher URL: https://www.blenderguru.com/posts/blender-4-beginner-donut-tutorial; original retained.
+- [Delphi Glass — Projects](catalogue-details.md#delphi-glass-projects) — current publisher URL: https://www.delphiglass.com/free-patterns-projects/; original retained.
+- [DMC Free Embroidery](catalogue-details.md#dmc-free-embroidery) — current publisher URL: https://www.dmc.com/US/en/patterns/free-patterns-by-level/beginner; original retained.
 - [Exploratorium — Cardboard Automata](catalogue-details.md#exploratorium-cardboard-automata) — current publisher URL: https://www.exploratorium.edu/tinkering/projects/cardboard-automata; original retained.
+- [Exploratorium — Marble Machines](catalogue-details.md#exploratorium-marble-machines) — current publisher URL: https://www.exploratorium.edu/sites/default/files/tinkering/files/Instructions/marblemachines_activity-guide.pdf; original retained.
+- [Gathered — crocheted and macramé vase hanger](catalogue-details.md#gathered-macrame) — current publisher URL: https://www.gathered.how/arts-crafts/macrame/macrame-pot-hanger-tutorial; original retained.
+- [GrowVeg](catalogue-details.md#growveg) — current publisher URL: https://www.growveg.com/gardening-guides.aspx; original retained.
+- [How To Mechatronics](catalogue-details.md#how-to-mechatronics) — current publisher URL: https://howtomechatronics.com/arduino-projects/; original retained.
+- [Jackson’s Art — guide to linocut printmaking](catalogue-details.md#jackson-s-art-linocut) — current publisher URL: https://www.jacksonsart.com/blog/2024/10/11/a-guide-to-linocut-printmaking/; original retained.
+- [MathWorks — Control Design Onramp with Simulink](catalogue-details.md#mathworks-academy) — current publisher URL: https://matlabacademy.mathworks.com/details/control-design-onramp-with-simulink/controls; original retained.
+- [Miller / Josh Welton — welded dog-bowl stand plan](catalogue-details.md#miller-welding-project-ideas) — current publisher URL: https://www.millerwelds.com/-/media/miller-electric/files/pdf/articles/dogbowlstand_projectplan.pdf; original retained.
+- [NASA JPL — Activities](catalogue-details.md#nasa-jpl-activities) — current publisher URL: https://www.jpl.nasa.gov/edu/resources/collection/engineering-in-the-classroom/ngss-engineering-grades-k-2/; original retained.
+- [Patagonia — Product Care and Repair](catalogue-details.md#patagonia-product-care-and-repair) — current publisher URL: https://eu.patagonia.com/gb/en/product-care/; original retained.
+- [Science Buddies — Projects](catalogue-details.md#science-buddies-projects) — current publisher URL: https://www.sciencebuddies.org/science-fair-projects/science-projects; original retained.
+- [Sculpey Projects](catalogue-details.md#sculpey-projects) — current publisher URL: https://www.sculpey.com/collections/how-to; original retained.
 
-Cornell mechanisms, Make it Yourself, Class Central, Cambridge plant-dye background, Restarters principles and the old-bike overview are retained as references rather than standalone project recommendations. Homepage links, kit dependence, paid/free mixtures and undemonstrated course claims stay flagged for review. No paid-only finding is hidden by relabeling it free.
+The [source review report](source-review.md) records the follow-up review of all 101 original queue/reference entries. There are currently 20 references and 14 unresolved candidates. Original links remain in the ledger even where a current publisher URL was recovered. Kit dependence, paid/free boundaries, legacy hardware, inaccessible downloads and safety gaps are described per record. No paid-only finding is hidden by relabeling it free.
 
 ## Source-row ledger
 
@@ -41,7 +57,7 @@ Cornell mechanisms, Make it Yourself, Class Central, Cambridge plant-dye backgro
 | 11 | [Tin Can Knits — Free Patterns](https://tincanknits.com/patterns/free) | [Tin Can Knits — Free Patterns](catalogue-details.md#tin-can-knits-free-patterns) |
 | 12 | [Amigurumi Today](https://amigurumi.today/) | [Amigurumi Today](catalogue-details.md#amigurumi-today) |
 | 13 | [DMC Free Embroidery](https://www.dmc.com/) | [DMC Free Embroidery](catalogue-details.md#dmc-free-embroidery) |
-| 14 | [Gathered Macramé](https://www.gathered.how/arts-crafts/macrame) | [Gathered Macramé](catalogue-details.md#gathered-macrame) |
+| 14 | [Gathered Macramé](https://www.gathered.how/arts-crafts/macrame) | [Gathered — crocheted and macramé vase hanger](catalogue-details.md#gathered-macrame) |
 | 15 | [Andrew Eason — Bookbinding Guides](https://www.andreweason.com/resources/resources-index.php) | [Andrew Eason — Bookbinding Guides](catalogue-details.md#andrew-eason-bookbinding-guides) |
 | 16 | [Knopfsache — Handarbeit](https://www.knopfsache.at/) | [Knopfsache — Handarbeit](catalogue-details.md#knopfsache-handarbeit) |
 | 17 | [Origami.me](https://origami.me/easy-origami/) | [Origami.me](catalogue-details.md#origami-me) |
@@ -52,7 +68,7 @@ Cornell mechanisms, Make it Yourself, Class Central, Cambridge plant-dye backgro
 | 22 | [Sculpey Projects](https://www.sculpey.com/blogs/blog) | [Sculpey Projects](catalogue-details.md#sculpey-projects) |
 | 23 | [Beadaholique — Jewelry Projects](https://beadaholique.com/collections/beading-projects) | [Beadaholique — Jewelry Projects](catalogue-details.md#beadaholique-jewelry-projects) |
 | 24 | [Art Prof](https://artprof.org/) | [Art Prof](catalogue-details.md#art-prof) |
-| 25 | [Jackson's Art — Linocut](https://www.jacksonsart.com/blog/) | [Jackson's Art — Linocut](catalogue-details.md#jackson-s-art-linocut) |
+| 25 | [Jackson's Art — Linocut](https://www.jacksonsart.com/blog/) | [Jackson’s Art — guide to linocut printmaking](catalogue-details.md#jackson-s-art-linocut) |
 | 26 | [Delphi Glass — Projects](https://www.delphiglass.com/) | [Delphi Glass — Projects](catalogue-details.md#delphi-glass-projects) |
 | 27 | [Rit — Dye Techniques](https://www.ritdye.com/techniques/) | [Rit — Dye Techniques](catalogue-details.md#rit-dye-techniques) |
 | 28 | [Maiwa — Natural Dye Tutorials](https://naturaldyes.ca/tutorials) | [Maiwa — Natural Dye Tutorials](catalogue-details.md#maiwa-natural-dye-tutorials) |
@@ -76,7 +92,7 @@ Cornell mechanisms, Make it Yourself, Class Central, Cambridge plant-dye backgro
 | 46 | [Raspberry Pi Projects](https://projects.raspberrypi.org/) | [Raspberry Pi Projects](catalogue-details.md#raspberry-pi-projects) |
 | 47 | [Arduino Project Hub](https://projecthub.arduino.cc/) | [Arduino Project Hub](catalogue-details.md#arduino-project-hub) |
 | 48 | [How To Mechatronics](https://howtomechatronics.com/) | [How To Mechatronics](catalogue-details.md#how-to-mechatronics) |
-| 49 | [MathWorks Academy](https://matlabacademy.mathworks.com/) | [MathWorks Academy](catalogue-details.md#mathworks-academy) |
+| 49 | [MathWorks Academy](https://matlabacademy.mathworks.com/) | [MathWorks — Control Design Onramp with Simulink](catalogue-details.md#mathworks-academy) |
 | 50 | [Makers Making Change](https://www.makersmakingchange.com/assistive-devices) | [Makers Making Change](catalogue-details.md#makers-making-change) |
 | 51 | [Hugging Face — Deep RL](https://huggingface.co/learn/deep-rl-course/unit0/introduction) | [Hugging Face — Deep RL](catalogue-details.md#hugging-face-deep-rl) |
 | 52 | [PortSwigger Web Security Academy](https://portswigger.net/web-security) | [PortSwigger Web Security Academy](catalogue-details.md#portswigger-web-security-academy) |
@@ -94,7 +110,7 @@ Cornell mechanisms, Make it Yourself, Class Central, Cambridge plant-dye backgro
 | 64 | [CigarBoxGuitars.com](https://www.cigarboxguitars.com/how-to-build) | [CigarBoxGuitars.com](catalogue-details.md#cigarboxguitars-com) |
 | 65 | [C. B. Gitty — Free Guitar Plan](https://www.cbgitty.com/free-plans-how-to-build-a-cigar-box-guitar/) | [C. B. Gitty — Free Guitar Plan](catalogue-details.md#c-b-gitty-free-guitar-plan) |
 | 66 | [The Crucible — Beginner Blacksmithing](https://www.thecrucible.org/guides/blacksmithing/projects/) | [The Crucible — Beginner Blacksmithing](catalogue-details.md#the-crucible-beginner-blacksmithing) |
-| 67 | [Miller — Welding Project Ideas](https://www.millerwelds.com/resources/project-ideas) | [Miller — Welding Project Ideas](catalogue-details.md#miller-welding-project-ideas) |
+| 67 | [Miller — Welding Project Ideas](https://www.millerwelds.com/resources/project-ideas) | [Miller / Josh Welton — welded dog-bowl stand plan](catalogue-details.md#miller-welding-project-ideas) |
 | 68 | [Crafts Council — Family Workshops](https://www.craftscouncil.org.uk/learning/craft-learning-resources/early-years-and-primary) | [Crafts Council — Family Workshops](catalogue-details.md#crafts-council-family-workshops) |
 | 69 | [Michaels — Free Projects](https://www.michaels.com/projects) | [Michaels — Free Projects](catalogue-details.md#michaels-free-projects) |
 | 70 | [Class Central — Crafts Courses](https://www.classcentral.com/subject/crafts) | [Class Central — Crafts Courses](catalogue-details.md#class-central-crafts-courses) |
@@ -110,12 +126,12 @@ Cornell mechanisms, Make it Yourself, Class Central, Cambridge plant-dye backgro
 | 80 | [BeaverCraft — Free Beginner Carving Patterns](https://beavercrafttools.com/blogs/ideas-inspiration-carve-hacks/wood-carving-patterns-for-beginners-easy-whittling-templates-for-free) | [BeaverCraft — Free Beginner Carving Patterns](catalogue-details.md#beavercraft-free-beginner-carving-patterns) |
 | 81 | [Whittling Library — Beginner Project Selector](https://whittling.hashu.org/) | [Whittling Library](catalogue-details.md#whittling-library) |
 | 82 | [Carving Junkies — Beginner Woodcarving](https://www.carvingjunkies.com/) | [Carving Junkies](catalogue-details.md#carving-junkies) |
-| 83 | [Learn Watchmaking — Free Introductory Course](https://learnwatchmaking.com/free-course/) | [Learn Watchmaking — Free Introductory Course](catalogue-details.md#learn-watchmaking-free-introductory-course) |
-| 84 | [Timezone Watch School — Level 1 Sample](https://www.timezonewatchschool.com/WatchSchool/SampleSchool/Classrooms/Level%201/level%201.shtml) | [Timezone Watch School — Level 1 Sample](catalogue-details.md#timezone-watch-school-level-1-sample) |
+| 83 | [Learn Watchmaking — Free Introductory Course](https://learnwatchmaking.com/free-course/) | [Learn Watchmaking — limited free introductory course](catalogue-details.md#learn-watchmaking-free-introductory-course) |
+| 84 | [Timezone Watch School — Level 1 Sample](https://www.timezonewatchschool.com/WatchSchool/SampleSchool/Classrooms/Level%201/level%201.shtml) | [TimeZone Watch School — free introductory essay](catalogue-details.md#timezone-watch-school-level-1-sample) |
 | 85 | [Woodcraft — Make a Simple Wall Clock](https://www.woodcraft.com/blogs/small-projects/how-to-make-a-wall-clock-clock-mechanism-installation-tutorial) | [Woodcraft — Make a Simple Wall Clock](catalogue-details.md#woodcraft-make-a-simple-wall-clock) |
 | 86 | [Cabinet of Curiosity — Free Paper Architecture Models](https://www.cabinetofcuriositystudio.com/pages/free-paper-architecture-models) | [Cabinet of Curiosity — Free Paper Architecture Models](catalogue-details.md#cabinet-of-curiosity-free-paper-architecture-models) |
 | 87 | [Restoring What Was Lost — Free 1:36 Paper Models](https://restoringwhatwaslost.com/printables) | [Restoring What Was Lost — Free 1:36 Paper Models](catalogue-details.md#restoring-what-was-lost-free-1-36-paper-models) |
-| 88 | [Woodland Scenics — Miniature Log Cabin](https://woodlandscenics.woodlandscenics.com/show/video/LS_Complete) | [Woodland Scenics — Miniature Log Cabin](catalogue-details.md#woodland-scenics-miniature-log-cabin) |
+| 88 | [Woodland Scenics — Miniature Log Cabin](https://woodlandscenics.woodlandscenics.com/show/video/LS_Complete) | [Woodland Scenics — Log Walls &amp; Lap Siding](catalogue-details.md#woodland-scenics-miniature-log-cabin) |
 | 89 | [Woodland Scenics — Model Scenery Made Easy](https://woodlandscenics.woodlandscenics.com/show/video/ModelSceneryMadeEasy) | [Woodland Scenics — Model Scenery Made Easy](catalogue-details.md#woodland-scenics-model-scenery-made-easy) |
 | 90 | [Woodland Scenics — Scene-A-Rama](https://woodlandscenics.woodlandscenics.com/show/videos/scenearama) | [Woodland Scenics — Scene-A-Rama](catalogue-details.md#woodland-scenics-scene-a-rama) |
 | 91 | [NMRA — Beginner Guide](https://www.nmra.org/node/4367) | [NMRA — Beginner Guide](catalogue-details.md#nmra-beginner-guide) |
@@ -125,7 +141,7 @@ Cornell mechanisms, Make it Yourself, Class Central, Cambridge plant-dye backgro
 | 95 | [Maiwa — Guide to Natural Dyes](https://maiwa.com/pages/instruction-sheets) | [Maiwa — Guide to Natural Dyes](catalogue-details.md#maiwa-guide-to-natural-dyes) |
 | 96 | [Botanical Colors — Onion Skin Instructions](https://botanicalcolors.com/onion-skin-instructions/) | [Botanical Colors — Onion Skin Instructions](catalogue-details.md#botanical-colors-onion-skin-instructions) |
 | 97 | [Cambridge University Botanic Garden — Dyes from Plants](https://www.botanic.cam.ac.uk/learning/trails/dyestrail/) | [Cambridge University Botanic Garden — Dyes from Plants](catalogue-details.md#cambridge-university-botanic-garden-dyes-from-plants) |
-| 98 | [NASA — Build Your Own Spectrograph](https://www.nasa.gov/stem-content/build-your-own-spectrograph/) | [NASA — Build Your Own Spectrograph](catalogue-details.md#nasa-build-your-own-spectrograph) |
+| 98 | [NASA — Build Your Own Spectrograph](https://www.nasa.gov/stem-content/build-your-own-spectrograph/) | [NASA / Stanford — spectroscopy curriculum (legacy kit)](catalogue-details.md#nasa-build-your-own-spectrograph) |
 | 99 | [ANU — Make a Pinhole Camera](https://science.anu.edu.au/engagement/science-lab-experiments-home-school/make-pinhole-camera) | [ANU — Make a Pinhole Camera](catalogue-details.md#anu-make-a-pinhole-camera) |
 | 100 | [George Eastman Museum — Discovery Room at Home](https://www.eastman.org/discovery-room) | [George Eastman Museum — Discovery Room at Home](catalogue-details.md#george-eastman-museum-discovery-room-at-home) |
 | 101 | [A Cut Above Woodworkings — Free Patterns](https://acutabovewoodworkings.com/free-patterns) | [A Cut Above Woodworkings — Free Patterns](catalogue-details.md#a-cut-above-woodworkings-free-patterns) |

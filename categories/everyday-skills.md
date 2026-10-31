@@ -6,28 +6,28 @@
 
 Topics: Gardening and food growing, Baking and cooking, Home maintenance, Sustainable living, Household object repair.
 
-4 checked listings; 10 preserved research/reference entries. Cross-topic resources may appear on more than one page.
+11 checked listings; 3 preserved research/reference entries. Cross-topic resources may appear on more than one page.
 
 ## Checked listings
 
 | Resource | Format | Approach | Level | Tools / setup | Free access | Review status |
 | --- | --- | --- | --- | --- | --- | --- |
+| [GrowVeg](https://www.growveg.com/gardening-guides.aspx)<br>Grow vegetables with public articles and videos; the paid Garden Planner is separate.<br>[GrowVeg](../docs/catalogue-details.md#growveg) | video, article | guided-build | Varies | Unknown; check the chosen project | mixed<br>Gardening articles and videos are free; the Garden Planner is a separate paid product with a time-limited trial. Local climate and seasons affect advice. | source-checked |
+| [iFixit Guides](https://www.ifixit.com/Guide)<br>Diagnose, disassemble, replace. Device repair.<br>[iFixit Guides](../docs/catalogue-details.md#ifixit-guides) | article | repair-walkthrough | Varies | Unknown; check the chosen project | open<br>Guide reading is free. Tools, replacement parts and optional services are separate; community documentation varies. | source-checked |
+| [iFixit — Repair Skills](https://www.ifixit.com/Device/Skills)<br>Practice repair techniques through sewing, troubleshooting and electronics skills guides.<br>[iFixit — Repair Skills](../docs/catalogue-details.md#ifixit-repair-skills) | article | repair-walkthrough | Varies | Unknown; check the chosen project | open<br>Publisher instruction or activity material is publicly readable; tools, materials and optional paid extras are separate. | source-checked |
 | [King Arthur Baking — Recipes](https://www.kingarthurbaking.com/recipes)<br>Bake from the test kitchen’s recipes with measured ingredients and staged instructions.<br>[King Arthur Baking — Recipes](../docs/catalogue-details.md#king-arthur-baking-recipes) | course | guided-build | Unknown | Kitchen and suitable food-preparation surfaces. | mixed<br>Inspected recipe instructions are free; optional baking classes, products and bundles are paid. | sample-reviewed |
+| [Patagonia — Product Care and Repair](https://eu.patagonia.com/gb/en/product-care/)<br>Learn clothing and ordinary-gear repairs through public videos for buttons, tape, buckles and zippers.<br>[Patagonia — Product Care and Repair](../docs/catalogue-details.md#patagonia-product-care-and-repair) | video, article | repair-walkthrough | Varies | Unknown; check the chosen project | open<br>Repair demonstrations are publicly linked. Repair tape, replacement parts and any service charges are separate; regional availability can differ. | source-checked |
+| [Practical Action — STEM Challenges](https://practicalaction.org/schools/)<br>Solve physical problems. Water, energy and sustainability.<br>[Practical Action — STEM Challenges](../docs/catalogue-details.md#practical-action-stem-challenges) | article | design-challenge | Varies | Unknown; check the chosen project | open<br>Public challenge pages link downloadable instructions and worksheets; awards and live activities are optional. | source-checked |
 | [REI — Tent Repair](https://www.rei.com/learn/expert-advice/tent-repair-how-to.html)<br>Patch torn tent fabric, seal compatible seams and understand temporary pole repairs.<br>[REI — Tent Repair](../docs/catalogue-details.md#rei-tent-repair) | article | repair-walkthrough | Varies | Scissors, Rag | open<br>Instruction is publicly readable; tools and supplies are separate. | sample-reviewed |
-| [RHS — Gardening Advice](https://www.rhs.org.uk/advice)<br>Use the horticultural charity’s advice to grow, propagate and care for plants.<br>[RHS — Gardening Advice](../docs/catalogue-details.md#rhs-gardening-advice) | article | pattern-or-plan | Unknown | Source setup: Low–Medium (not independently confirmed) | open<br>Instruction is publicly readable; tools and supplies are separate. | source-checked |
+| [RHS — Gardening Advice](https://www.rhs.org.uk/advice)<br>Use the horticultural charity’s advice to grow, propagate and care for plants.<br>[RHS — Gardening Advice](../docs/catalogue-details.md#rhs-gardening-advice) | article | pattern-or-plan | Unknown | Unknown; check the chosen project | open<br>Instruction is publicly readable; tools and supplies are separate. | source-checked |
 | [Sewing Path — Free Mending Course](https://www.sewingpath.com/blog/free-mending-course)<br>Learn hand stitches, then mend a button, hem, seam or small tear in ordinary woven clothing.<br>[Sewing Path — Free Mending Course](../docs/catalogue-details.md#sewing-path-free-mending-course) | course, article | project-progression, repair-walkthrough | Beginner | Hand-sewing needle, Pins, Scissors, Seam ripper, Iron for pressing | open<br>Instruction is publicly readable; tools and supplies are separate. | sample-reviewed |
+| [SewMendStitch — Clothing Repairs](https://sewmendstitch.com/)<br>Mend clothing with public lessons, including a complete split-seam repair walkthrough.<br>[SewMendStitch — Clothing Repairs](../docs/catalogue-details.md#sewmendstitch-clothing-repairs) | course | repair-walkthrough | Beginner | Hand needle or sewing machine, Pins or clips, Seam ripper, Small scissors, Iron and press cloth | open<br>The complete web lesson is public. Affiliate supply links are optional; the repair works only where the seam fabric remains sound. | sample-reviewed |
+| [Sikana — Household DIY Projects](https://www.sikana.tv/en/diy/diy-basics)<br>Practice household maintenance such as wallpaper repair; the wider collection includes specialist tasks.<br>[Sikana — Household DIY Projects](../docs/catalogue-details.md#sikana-household-diy-projects) | video, course | repair-walkthrough | Varies | Unknown; check the chosen project | open<br>The inspected English transcript and lesson page are public; other lessons and translations were not individually reviewed. | sample-reviewed |
 
 ## Research and reference queue
 
-These are not checked recommendations. Access, completeness, tools or direct project links still need review.
+These are not project recommendations. `needs-review` means a specific question is unresolved; `reference-only` means reviewed background or discovery material. Open the details for the dated decision and evidence.
 
-- [Fix-It Club — Repair Guides](../docs/catalogue-details.md#fix-it-club-repair-guides) — `needs-review`; access: `unverified`.
-- [GrowVeg](../docs/catalogue-details.md#growveg) — `needs-review`; access: `unverified`.
-- [iFixit Guides](../docs/catalogue-details.md#ifixit-guides) — `needs-review`; access: `unverified`.
-- [iFixit — Electronics Soldering](../docs/catalogue-details.md#ifixit-electronics-soldering) — `needs-review`; access: `unverified`.
-- [iFixit — Repair Skills](../docs/catalogue-details.md#ifixit-repair-skills) — `needs-review`; access: `unverified`.
-- [Patagonia — Product Care and Repair](../docs/catalogue-details.md#patagonia-product-care-and-repair) — `needs-review`; access: `unverified`.
-- [Practical Action — STEM Challenges](../docs/catalogue-details.md#practical-action-stem-challenges) — `needs-review`; access: `unverified`.
-- [SewMendStitch — Clothing Repairs](../docs/catalogue-details.md#sewmendstitch-clothing-repairs) — `needs-review`; access: `unverified`.
-- [Sikana — Household DIY Projects](../docs/catalogue-details.md#sikana-household-diy-projects) — `needs-review`; access: `unverified`.
-- [The Restart Project — Restart at School](../docs/catalogue-details.md#the-restart-project-restart-at-school) — `needs-review`; access: `unverified`.
+- [Fix-It Club — Repair Guides](../docs/catalogue-details.md#fix-it-club-repair-guides) — `reference-only`; access: `open`.
+- [iFixit — Electronics Soldering](../docs/catalogue-details.md#ifixit-electronics-soldering) — `reference-only`; access: `open`.
+- [The Restart Project — Restart at School](../docs/catalogue-details.md#the-restart-project-restart-at-school) — `reference-only`; access: `open`.

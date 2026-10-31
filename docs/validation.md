@@ -1,39 +1,35 @@
 # Validation record
 
-Publication checks, 2026-10-30. Schema validation, generated views, local Markdown links and anchors, and offline regression tests passed locally. The public [Actions history](https://github.com/DmytroHuzz/awesome-diy-learning/actions) records hosted validation against the Python 3.11 and 3.13 matrix. All 124 resources remain present after removing private workspace references from the catalogue, generator and generated documentation.
+Editorial queue review and local verification, 2026-10-30. The catalogue retains all 124 resources and 131 original source rows. The [source review report](source-review.md) records decisions for all 101 records that previously formed the research/reference queue. Hosted validation runs automatically on push against Python 3.11 and 3.13; inspect the public [Actions history](https://github.com/DmytroHuzz/awesome-diy-learning/actions) for commit-specific results.
 
-## Metadata and generated documentation
+## Metadata, documentation and tests
 
-- JSON Schema Draft 2020-12 validation and semantic editorial checks passed for 124 unique resources.
-- All 131 original resource-table rows are accounted for exactly once; seven repeated rows were merged. All 53 controlled topics are represented across six categories, including the research queue.
-- Eleven generated Markdown views are reproducible and checked for freshness. Local Markdown paths and anchors are checked without external requests.
-- The offline regression suite contains 38 tests for data-loss prevention, URL aliases, invalid metadata, unsupported review claims, generation, local links, robots rules, redirects, rate limits and network failures.
-- Local schema/test execution uses CPython 3.14.7 in the project virtual environment. The GitHub Actions matrix separately targets Python 3.11 and 3.13. Standard-library generation and link checks also ran with the host Python.
+- JSON Schema Draft 2020-12 and semantic editorial validation pass for 124 unique resources.
+- All 131 original source rows remain accounted for exactly once, with seven merged repeats. All 53 supported topics remain represented across six categories, including reference and pending records.
+- Twelve generated Markdown views are reproducible: README, six category pages, resource details, taxonomy, migration ledger, unresolved queue and source review report.
+- The offline regression suite has 45 passing tests. Seven new tests cover complete original-queue audit coverage, audit evidence/dates, duplicate batches, unresolved attempts, and report/queue accounting. Existing tests cover schema and identity failures, unsupported review claims, generation, local links, private-source-link regression, robots policy, redirects, rate limiting and network failures.
+- Local validation uses CPython 3.14.7 in the project virtual environment. Generation freshness and local Markdown path/anchor checks pass. CI separately targets Python 3.11 and 3.13.
 
-## Editorial inspection
+## Editorial outcomes
 
-23 resources have independent publisher evidence: 11 have representative instructions inspected at `sample-reviewed` level; the other 12 have source-level checks. The remaining 95 candidates and six reference-only entries are retained with explicit uncertainty. Nothing is marked build-tested.
+The original queue had 95 candidates and six references. All **101** received an inspection or documented access attempt. Its current outcomes are **67 listed offerings**, **20 references**, and **14 unresolved candidates**; none was silently deleted or newly merged.
 
-Inspections used publisher pages and document extraction. A source check of a video page confirms the offering and visible access conditions; it does not mean the entire video was watched. External downloads, account flows and software installation were not automatically assumed to work. Individual record evidence explains the inspection scope.
+The complete catalogue now contains **90 listings**, **20 references**, and **14 unresolved candidates**. **29** resources have complete representative written instructions inspected at `sample-reviewed` level, including 18 newly reviewed samples. Nothing is marked `build-tested`. There are 115 records with independent publisher inspection dates; that includes source-level checks and readable references, and does not mean every complete lesson was reviewed. Access-only failures retain null verification dates.
 
-## External links
+Corrections include recovered Blender Guru and Miller URLs, Canon PRINT requirements, DMC account/newsletter delivery, Amigurumi sign-in versus paid PDFs, Onshape public-document restrictions, limited watchmaking samples, discontinued spectrograph-kit materials, and a laptop-cleaning power-isolation question. The [remaining queue](review-queue.md) gives each unresolved barrier rather than a generic unchecked label.
 
-The first automated pass checked all 124 migrated main URLs before the Exploratorium URL correction and the addition of direct project links. It made bounded GET requests, respected robots policy and used at least a one-second interval between requests to the same host. No catalogue entry was automatically changed or removed.
+Inspections used publisher pages, document extraction, official-site search and a browser for script-rendered content. Sculpey’s complete ornament procedure and DMC’s actual download options were checked in the browser. No account was created, newsletter signup submitted, paid course bought, full video course watched or physical project built. An embedded video confirms the identified offering; it does not establish full playback or tutorial quality. Tools, parts, language and duration remain unknown unless supported.
 
-- 58 URLs had no advisory flags.
-- 66 URLs were flagged for manual inspection. Flags include bot-block indicators, robots restrictions, HTTP errors and timeouts; several flags can apply to one URL.
-- HTTP observations: 82 responses with status 200, 14 with 403, 11 with 429, two with 404, one with 402, and 14 skipped/uncompleted observations.
-- The two 404 observations were Blender Guru's tutorial index and Miller's project-ideas path; both also showed bot-block indicators. They remain in the review queue, not the checked listings.
-- Independently inspected publisher content can be readable through research extraction even when the automated client is blocked. A robots restriction or bot block is not a finding that a resource is broken or paid.
+## External link observations
 
-Full observations: [initial link report](../reports/link-check-2026-10-30.json) and [additional direct project links](../reports/project-links-2026-10-30.json). The latter covers ten newly introduced URLs: four had no advisory flags and six require manual inspection. Network observations do not establish completeness, free access or safety.
+The original automated reports remain historical observations, not the latest editorial verdict. The first pass checked 124 migrated main URLs before subsequent canonical-link corrections: 58 had no advisory flags and 66 were flagged. HTTP observations were 82 responses with status 200, 14 with 403, 11 with 429, two with 404, one with 402, and 14 skipped/uncompleted observations. The original Blender Guru and Miller paths with 404 observations now have recovered publisher replacements; original addresses remain in provenance.
 
-## Scope limits
+Full observations: [initial link report](../reports/link-check-2026-10-30.json) and [initial additional project-link report](../reports/project-links-2026-10-30.json). The latter covered ten URLs, with four unflagged and six requiring inspection. These reports were not rewritten to imply a new full network scan. The current editorial evidence is in [the generated source review](source-review.md) and each record.
 
-Most sources remain candidates rather than checked recommendations. Numerical material costs and most durations are unknown. There is no hands-on completion evidence. Broad libraries span varying difficulty and risk. The catalogue records what was actually observed, including inherited research notes, and exposes unresolved fields as null.
+The checker uses bounded GET requests, reasonable timeouts, robots policy and at least a one-second per-host interval. A bot block, robots restriction, geographic barrier or timeout is not a finding that a tutorial is broken or paid. No resource is automatically removed, and temporary remote failures do not block pull-request CI. The manual network workflow uploads advisory reports without opening issues or contacting creators.
 
-The manual external-link workflow is deliberately separate from pull-request CI so temporary remote errors do not block unrelated contributions. It uploads a report and does not open issues, email creators, or edit the dataset.
+## Limits and privacy
 
-## Private source references
+A source-level listing identifies an offering and access conditions; it is not a complete project assessment. Many libraries still need a sample review, gated lesson content was not enrolled in, and video instructions were not watched end to end. Numeric costs and most durations remain unknown. Broad libraries span varying levels and hazards; exact-device procedures and load-bearing repairs need matching competence and safety checks.
 
-Resource provenance and inherited evidence point to the public migration audit rather than a private workspace. The regression suite scans repository files for workspace URL patterns to prevent accidental reintroduction. Original tutorial links and creator credits are preserved.
+Current resource provenance and inherited evidence point to the public migration audit. The regression suite scans tracked repository files for private workspace URL patterns. Original tutorial addresses and creator credits remain intact; no private research-page address is included in the published current files.

@@ -6,22 +6,22 @@
 
 Topics: Scientific experiments, Physics and optical instruments, Diy scientific instruments.
 
-1 checked listings; 7 preserved research/reference entries. Cross-topic resources may appear on more than one page.
+7 checked listings; 1 preserved research/reference entries. Cross-topic resources may appear on more than one page.
 
 ## Checked listings
 
 | Resource | Format | Approach | Level | Tools / setup | Free access | Review status |
 | --- | --- | --- | --- | --- | --- | --- |
 | [ANU — Make a Pinhole Camera](https://science.anu.edu.au/engagement/science-lab-experiments-home-school/make-pinhole-camera)<br>Build a cardboard camera obscura and investigate how a pinhole forms an inverted image.<br>[ANU — Make a Pinhole Camera](../docs/catalogue-details.md#anu-make-a-pinhole-camera) | article, video | guided-build, experimental-learning | Beginner | Scissors or box cutter, Push pin or needle | open<br>Instruction is publicly readable; tools and supplies are separate. | sample-reviewed |
+| [Exploratorium — Idea Library](https://annex.exploratorium.edu/pie/ideas.html)<br>Explore physical effects with archived maker-activity guides for drawing machines, sound and light.<br>[Exploratorium — Idea Library](../docs/catalogue-details.md#exploratorium-idea-library) | project-library | experimental-learning | Varies | Unknown; check the chosen project | open<br>Publisher instruction or activity material is publicly readable; tools, materials and optional paid extras are separate. | source-checked |
+| [Exploratorium — Marble Machines](https://www.exploratorium.edu/sites/default/files/tinkering/files/Instructions/marblemachines_activity-guide.pdf)<br>Design, test and modify a pegboard marble run using the museum’s activity guide.<br>[Exploratorium — Marble Machines](../docs/catalogue-details.md#exploratorium-marble-machines) | article | experimental-learning | Varies | Unknown; check the chosen project | open<br>Publisher instruction or activity material is publicly readable; tools, materials and optional paid extras are separate. | source-checked |
+| [George Eastman Museum — Discovery Room at Home](https://www.eastman.org/discovery-room)<br>Make optical toys and explore photography through museum activity PDFs and videos.<br>[George Eastman Museum — Discovery Room at Home](../docs/catalogue-details.md#george-eastman-museum-discovery-room-at-home) | pdf | experimental-learning | Beginner | Pencil, Scissors, Hole punch | open<br>The activity PDFs and videos are public; museum admission is not needed for the at-home projects. | sample-reviewed |
+| [NASA JPL — Activities](https://www.jpl.nasa.gov/edu/resources/collection/engineering-in-the-classroom/ngss-engineering-grades-k-2/)<br>Explore JPL’s engineering activities, including a paper-helicopter build-and-test project.<br>[NASA JPL — Activities](../docs/catalogue-details.md#nasa-jpl-activities) | article | design-challenge | Varies | Unknown; check the chosen project | open<br>Project pages and printable student worksheets are public. No course registration or kit purchase is required for the paper-helicopter example. | source-checked |
+| [Practical Action — STEM Challenges](https://practicalaction.org/schools/)<br>Solve physical problems. Water, energy and sustainability.<br>[Practical Action — STEM Challenges](../docs/catalogue-details.md#practical-action-stem-challenges) | article | design-challenge | Varies | Unknown; check the chosen project | open<br>Public challenge pages link downloadable instructions and worksheets; awards and live activities are optional. | source-checked |
+| [Science Buddies — Projects](https://www.sciencebuddies.org/science-fair-projects/science-projects)<br>Hypothesis, measure and interpret. Science and engineering experiments.<br>[Science Buddies — Projects](../docs/catalogue-details.md#science-buddies-projects) | project-library | experimental-learning | Varies | Unknown; check the chosen project | open<br>Publisher instruction or activity material is publicly readable; tools, materials and optional paid extras are separate. | source-checked |
 
 ## Research and reference queue
 
-These are not checked recommendations. Access, completeness, tools or direct project links still need review.
+These are not project recommendations. `needs-review` means a specific question is unresolved; `reference-only` means reviewed background or discovery material. Open the details for the dated decision and evidence.
 
-- [Exploratorium — Idea Library](../docs/catalogue-details.md#exploratorium-idea-library) — `needs-review`; access: `unverified`.
-- [Exploratorium — Marble Machines](../docs/catalogue-details.md#exploratorium-marble-machines) — `needs-review`; access: `unverified`.
-- [George Eastman Museum — Discovery Room at Home](../docs/catalogue-details.md#george-eastman-museum-discovery-room-at-home) — `needs-review`; access: `unverified`.
-- [NASA JPL — Activities](../docs/catalogue-details.md#nasa-jpl-activities) — `needs-review`; access: `unverified`.
-- [NASA — Build Your Own Spectrograph](../docs/catalogue-details.md#nasa-build-your-own-spectrograph) — `needs-review`; access: `unverified`.
-- [Practical Action — STEM Challenges](../docs/catalogue-details.md#practical-action-stem-challenges) — `needs-review`; access: `unverified`.
-- [Science Buddies — Projects](../docs/catalogue-details.md#science-buddies-projects) — `needs-review`; access: `unverified`.
+- [NASA / Stanford — spectroscopy curriculum (legacy kit)](../docs/catalogue-details.md#nasa-build-your-own-spectrograph) — `reference-only`; access: `open`.

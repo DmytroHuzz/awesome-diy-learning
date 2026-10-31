@@ -30,6 +30,7 @@ Generated README/category pages, the taxonomy, full details, migration ledger an
 | review.disposition | listed, needs-review, reference-only or excluded; distinct from review depth |
 | review.last_verified | Independent publisher inspection date (YYYY-MM-DD) or null; never inferred from HTTP alone |
 | review.evidence | URL, checked_on, kind (source/sample/build), notes; identify exactly what was inspected |
+| review.audits | Optional editorial batch history: batch ID, checked_on, previous_disposition and summary; includes unresolved access attempts |
 | editorial_notes | Caveats, scope, uncertainty, inference labels, corrections and rejection reasons |
 | provenance | null for new submissions, or a public import-audit URL and every original tutorial occurrence |
 | provenance.occurrences | Original row, section, title, URL, format/approach/setup text, requirements and notes |
@@ -37,6 +38,8 @@ Generated README/category pages, the taxonomy, full details, migration ledger an
 | featured | Explicit editorial selection for the README; must be listed, beginner-suitable and have a direct project link |
 
 `null` is unknown, not zero, false, free or unnecessary. Do not turn source setup labels such as “Medium” into a cost claim. Cost bands have no universal currency thresholds; leave them null until the contributor documents what the band covers. Original URLs remain in provenance when a verified official replacement becomes `url`.
+
+An audit records work performed, not an automatic promotion. Its date must match publisher evidence or a documented access attempt, and each batch can occur once per resource. A blocked page can have an audit date while `last_verified` stays null. Where a readable source confirms an offering but a safety or download question remains, `last_verified` records that source inspection and `needs-review` retains the unresolved question. The generated [source review report](source-review.md) displays current dispositions with the batch findings; previous dispositions preserve the starting cohort. Append a new audit batch for later review rather than overwriting an older batch.
 
 ## Learning approaches
 

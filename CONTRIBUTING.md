@@ -19,6 +19,8 @@ Instruction must be actionable, credible, reproducible and self-paced. Paid supp
 7. For repairs, fill in the object and activity; unknown parts, reversibility and checks stay null. Label editorial functional-check suggestions as such. Exact-model repairs must identify the model and risks.
 8. Run the commands below and commit the data plus generated Markdown. Do not edit generated pages directly.
 
+For a batch review, append a `review.audits` entry with a unique batch ID, inspection date, previous disposition and a concise finding. Include failed access attempts and a specific unresolved question. Add matching publisher evidence; an attempted review date must not become a verification date when content could not be inspected. The [source review report](docs/source-review.md) and [remaining queue](docs/review-queue.md) are generated from these records. Do not resubmit the original `queue-2026-10-30` batch for a later review.
+
 ```sh
 python3 -m venv .venv
 . .venv/bin/activate

@@ -1,5 +1,6 @@
 """Offline regression tests for data loss, unsupported claims and generation."""
 import copy
+from datetime import date, timedelta
 import json
 import re
 import subprocess
@@ -28,6 +29,60 @@ class CatalogueTests(unittest.TestCase):
 
     def test_real_dataset_passes(self):
         self.assertEqual([],validate(self.data,self.schema))
+
+    def audited(self):
+        return next(r for r in self.data['resources'] if r['review'].get('audits'))
+
+    def test_every_original_queue_record_has_a_dated_audit(self):
+        audits=[(r,a) for r in self.data['resources'] for a in r['review'].get('audits',[])
+                if a['batch']=='queue-2026-10-30']
+        self.assertEqual(101,len(audits))
+        self.assertEqual(101,len({r['id'] for r,_ in audits}))
+        self.assertEqual(95,sum(a['previous_disposition']=='needs-review' for _,a in audits))
+        self.assertEqual(6,sum(a['previous_disposition']=='reference-only' for _,a in audits))
+        for r,a in audits:
+            self.assertEqual('2026-10-30',a['checked_on'])
+            self.assertTrue(a['summary'])
+            self.assertTrue(any(e['checked_on']==a['checked_on'] and
+                                e['url']!=r['provenance']['source'] for e in r['review']['evidence']))
+
+    def test_duplicate_audit_batch_fails(self):
+        r=self.audited()
+        r['review']['audits'].append(copy.deepcopy(r['review']['audits'][0]))
+        self.assertInvalid('duplicate audit batch')
+
+    def test_audit_requires_matching_publisher_evidence(self):
+        r=self.audited()
+        r['review']['audits'][0]['checked_on']='2020-01-01'
+        self.assertInvalid('audit requires dated publisher')
+
+    def test_audit_future_date_fails(self):
+        r=self.audited()
+        r['review']['audits'][0]['checked_on']=(date.today()+timedelta(days=1)).isoformat()
+        self.assertInvalid('audit date cannot be in the future')
+
+    def test_audit_date_is_a_calendar_date(self):
+        self.audited()['review']['audits'][0]['checked_on']='2026-02-30'
+        self.assertInvalid('date')
+
+    def test_audit_attempt_does_not_require_promotion_or_verification(self):
+        r=self.audited()
+        r['review']['level']='source-checked'
+        r['review']['disposition']='needs-review'
+        r['review']['last_verified']=None
+        r['free_access']['status']='unverified'
+        r['featured']=False
+        self.assertEqual([],validate(self.data,self.schema))
+
+    def test_review_report_accounts_for_every_audited_source(self):
+        rendered=render(self.data,self.schema)
+        report=rendered['docs/source-review.md']
+        unresolved=rendered['docs/review-queue.md'].split('## Reviewed references')[0]
+        for r in self.data['resources']:
+            if r['review'].get('audits'):
+                self.assertIn('catalogue-details.md#'+r['id'],report)
+            if r['review']['disposition']=='reference-only':
+                self.assertNotIn('catalogue-details.md#'+r['id']+')',unresolved)
 
     def test_duplicate_id_fails(self):
         self.data['resources'][1]['id']=self.first['id']

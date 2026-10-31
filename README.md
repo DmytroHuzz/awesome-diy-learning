@@ -27,9 +27,9 @@ Curiosity comes first. We value clear instructions, original creators, tradition
 - [Repair, restoration and modification](categories/repair-and-restoration.md)
 - [Everyday practical skills](categories/everyday-skills.md)
 
-Browse the [complete topic index](docs/taxonomy.md), [all resource details](docs/catalogue-details.md), or the [editorial review queue](docs/review-queue.md). Resources can appear in several categories; the data contains one record per resource.
+Browse the [complete topic index](docs/taxonomy.md), [all resource details](docs/catalogue-details.md), or the [editorial review queue](docs/review-queue.md). The [source review report](docs/source-review.md) records dated decisions and remaining barriers. Resources can appear in several categories; the data contains one record per resource.
 
-The migration preserves **124 unique resources** from **131 source rows**. There are **23 independently checked listings**, **101 entries in the review/reference queue**, and **6 categories with 53 supported topics** (53 represented). These counts describe coverage, not quality scores.
+The migration preserves **124 unique resources** from **131 source rows**. There are **90 checked offerings**, **14 unresolved candidates**, **20 references**, and **0 excluded entries**. Explore **6 categories with 53 supported topics** (53 represented). These counts describe coverage, not quality scores; a source check is shallower than a complete project review.
 
 ## A few welcoming first projects
 
@@ -40,7 +40,7 @@ Read the setup and safety notes before starting. Each choice below has a direct 
 | [ANU — Make a Pinhole Camera](https://science.anu.edu.au/engagement/science-lab-experiments-home-school/make-pinhole-camera) | Build a cardboard camera obscura and investigate how a pinhole forms an inverted image. | Scissors or box cutter, Push pin or needle | open; sample-reviewed |
 | [Cabinet of Curiosity — Free Paper Architecture Models](https://www.cabinetofcuriositystudio.com/pages/darlington-clock-tower-paper-architecture-model) | Print and assemble an architectural clock-tower model using the creator’s template and video. | Inkjet printer | open; source-checked |
 | [Exploratorium — Cardboard Automata](https://www.exploratorium.edu/sites/default/files/pdfs/cardboard_automata_guide_final_screen.pdf) | Make a hand-cranked moving sculpture and explore how cams turn rotation into motion. | Scissors, Hot-glue gun (tape alternative described), Pencil, Nail or screw for holes | open; sample-reviewed |
-| [Musgrove Willows — How to Weave a Round Basket](https://www.musgrovewillows.co.uk/help-and-advice/how-to-weave-a-round-willow-basket-1/) | Weave a round willow basket through six lessons, from the base to the finished border. | Source setup: Medium (not independently confirmed) | open; source-checked |
+| [Musgrove Willows — How to Weave a Round Basket](https://www.musgrovewillows.co.uk/help-and-advice/how-to-weave-a-round-willow-basket-1/) | Weave a round willow basket through six lessons, from the base to the finished border. | Unknown; check the chosen project | open; source-checked |
 | [Origami.me](https://origami.me/box/) | Fold a small lidded paper box from a traditional design, using illustrated stages. | No tools | mixed; sample-reviewed |
 | [Sewing Path — Free Mending Course](https://www.sewingpath.com/blog/free-mending-course) | Learn hand stitches, then mend a button, hem, seam or small tear in ordinary woven clothing. | Hand-sewing needle, Pins, Scissors, Seam ripper, Iron for pressing | open; sample-reviewed |
 
@@ -90,6 +90,6 @@ Use Python 3.11 or newer. CI runs schema checks, tests, generated-file checks an
 
 The initial catalogue research includes twelve craft expansions and a repair section. Original tutorial URLs and resource occurrences are retained in the dataset. The [migration audit](docs/migration.md) records the import, merges, corrected links and unresolved claims.
 
-The catalogue is intentionally broad but uneven. Most imported entries still need a direct project review; homepage links and restricted free tiers remain visibly flagged. External sites change, regional access differs and automated checks can be blocked. Safety notes are editorial prompts, not training. There is no claim that all linked content is equally suitable, that every language is known, or that any project has been personally completed.
+The catalogue is intentionally broad but uneven. All 101 originally queued sources received an editorial review attempt; unresolved access, completeness and safety questions remain in the queue. Many listed libraries still need a complete representative-project review, and account-gated lessons and full videos have not all been inspected. External sites change, regional access differs and automated checks can be blocked. Safety notes are editorial prompts, not training. There is no claim that all linked content is equally suitable, that every language is known, or that any project has been personally completed.
 
 Original authors keep all rights to their tutorials, videos, photographs, patterns and books. Follow their licenses and credit them when sharing your work. We link to instruction rather than rehosting it. Repository code is [MIT licensed](LICENSE); original catalogue text and metadata are [CC0 1.0](LICENSE-DATA). These licenses **do not cover external instructional works or quoted source descriptions**. See [licensing boundaries](docs/licensing.md).

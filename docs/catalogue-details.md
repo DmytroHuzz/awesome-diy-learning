@@ -10,36 +10,37 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## A Cut Above Woodworkings — Free Patterns
 
-[A Cut Above Woodworkings](https://acutabovewoodworkings.com/free-patterns) — Make wooden trucks, helicopters, trains and figures. Excellent dedicated wooden-toy plans collection.
+[A Cut Above Woodworkings](https://acutabovewoodworkings.com/free-patterns) — Find wooden-toy patterns and linked maker demonstrations; tool and toy-safety requirements vary.
 
 - **ID:** a-cut-above-woodworkings-free-patterns
 - **Category:** Traditional crafts
 - **Topics:** woodworking, toy-making-and-automata
 - **Format:** video, pdf
 - **Approach:** guided-build
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Varies
+- **Access:** open — The pattern collection is public and identifies free PDFs; tools, wood and optional purchased supplies are separate.
+- **Review:** source-checked / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** moderate
 
 **Safety**
 
-- Sharp edges, secure workholding and dust control require care; follow project-specific precautions.
+- Use appropriate saw/drill training and dust control. Check small parts, edges, finishes and intended age before giving a handmade toy to a child.
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Source equipment note: Wood, drill/saw, sanding equipment
+- [source evidence](https://acutabovewoodworkings.com/free-patterns), 2026-10-30: Queue review: The maker’s free-pattern page lists downloadable toy patterns with linked tutorial videos. Plans and demonstrations are identified, but a complete toy build and child-safety performance were not evaluated.
+
 
 **Original research occurrences**
 
@@ -49,33 +50,38 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Amigurumi Today
 
-[Amigurumi Today](https://amigurumi.today/) — Follow an object pattern. Soft toy animals and figures.
+[Amigurumi Today](https://amigurumi.today/) — Crochet toy animals from online patterns; sign-in is required and printable PDFs are paid.
 
 - **ID:** amigurumi-today
 - **Category:** Traditional crafts
 - **Topics:** knitting-and-crochet
 - **Format:** patterns
 - **Approach:** pattern-or-plan
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Varies
+- **Access:** free-registration — A free account is required for the online pattern; printable PDFs are paid. Enrollment was not performed.
+- **Review:** source-checked / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** moderate
+- **Representative project:** [Start here](https://amigurumi.today/free-plush-amigurumi-goose-crochet-pattern/)
+
+**Safety**
+
+- Embroider eyes for toys intended for young children; plastic eyes and other small parts can be choking hazards.
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Homepage link: replace with a direct meaningful free tutorial before recommendation.
-- Automated check on 2026-10-30 flagged http-error-manual-review (HTTP 403). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
+- [source evidence](https://amigurumi.today/free-plush-amigurumi-goose-crochet-pattern/), 2026-10-30: Queue review: The goose-pattern page explicitly requires signing in to read the free online pattern and sells its PDF separately. Registration and the instructions behind it were not tested; the page warns about small plastic toy parts.
+
 
 **Original research occurrences**
 
@@ -85,26 +91,27 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Ana White — Plans
 
-[Ana White](https://www.ana-white.com/woodworking-projects) — Build from measurements. Furniture, shelves and storage.
+[Ana White](https://www.ana-white.com/plans) — Build from measurements. Furniture, shelves and storage.
 
 - **ID:** ana-white-plans
 - **Category:** Traditional crafts
 - **Topics:** woodworking
 - **Format:** patterns
 - **Approach:** pattern-or-plan
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
-- **Tools:** Unknown
-- **Materials:** Unknown
+- **Level:** Beginner
+- **Access:** open — The web plan is readable without payment or registration; an emailed printable version is optional.
+- **Review:** sample-reviewed / listed
+- **Last independently verified:** 2026-10-30
+- **Tools:** Measuring tape, Pencil, Safety glasses, Compound miter saw, Nailer, Clamps
+- **Materials:** 1x boards, Wood glue, Brad nails
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** moderate
+- **Representative project:** [Start here](https://www.ana-white.com/woodworking-projects/wood-christmas-tree-decor-diy)
 
 **Safety**
 
@@ -112,8 +119,10 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
+- [sample evidence](https://www.ana-white.com/woodworking-projects/wood-christmas-tree-decor-diy), 2026-10-30: Queue review: Inspected the complete wooden-tree plan: dimensioned cutting lists, six assembly steps and finishing instructions are public. The representative plan uses a powered saw and nailer; printable email delivery is optional.
+- Current publisher URL updated during the queue review; the original URL remains in provenance.
 
 **Original research occurrences**
 
@@ -202,32 +211,33 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Arduino Project Hub
 
-[Arduino community contributors](https://projecthub.arduino.cc/) — Follow and adapt projects. Robots, sensors, automated devices.
+[Arduino community contributors](https://projecthub.arduino.cc/) — Browse community tutorials, showcases and teardowns; a complete representative tutorial needs review.
 
 - **ID:** arduino-project-hub
 - **Category:** Engineering and technology
 - **Topics:** electronics, embedded-systems
 - **Format:** article
 - **Approach:** guided-build
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
+- **Level:** Varies
+- **Access:** open — Public community content is readable without payment. Components and software requirements vary; a showcase is not necessarily a reproducible tutorial.
 - **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** varies
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Homepage link: replace with a direct meaningful free tutorial before recommendation.
+- [source evidence](https://projecthub.arduino.cc/), 2026-10-30: Queue review: The public hub distinguishes tutorials, showcases and teardowns. No complete representative community tutorial was inspected, so hosting and popularity alone do not justify a checked recommendation.
+
 
 **Original research occurrences**
 
@@ -237,7 +247,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Art Prof
 
-[Art Prof](https://artprof.org/) — Practice art through assignments. Drawing, painting, sculpture.
+[Art Prof](https://artprof.org/) — Discover creative art prompts and examples in the free Art Dares archive.
 
 - **ID:** art-prof
 - **Category:** Art and design
@@ -245,24 +255,25 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** course
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Access:** open — The public page is accessible as background/discovery; it is not a complete project recommendation.
+- **Review:** source-checked / reference-only
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
 - **Safety risk:** Unknown
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Homepage link: replace with a direct meaningful free tutorial before recommendation.
+- [source evidence](https://artprof.org/library/learn/art-dares/), 2026-10-30: Queue review: The free Art Dares archive offers creative prompts and examples, with optional dated submissions; the homepage also promotes paid Art Club. Retained as an assignment-discovery reference until a complete practical tutorial is sampled.
+
 
 **Original research occurrences**
 
@@ -272,32 +283,35 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Autodesk Fusion — Learn
 
-[Autodesk](https://www.autodesk.com/learn) — Model a functional part. Mechanical design; license restrictions.
+[Autodesk](https://www.autodesk.com/learn/ondemand/collection/self-paced-learning-for-fusion) — Practice Fusion modeling with public tutorials and model files, subject to software-license limits.
 
 - **ID:** autodesk-fusion-learn
 - **Category:** Engineering and technology
 - **Topics:** 3d-modeling-and-cad
 - **Format:** article
 - **Approach:** guided-build
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Varies
+- **Access:** restricted-free-tier — Instruction is public. Fusion requires an Autodesk account and software license; personal-use licensing is free only for eligible non-commercial use, with feature restrictions. Extensions are not all included.
+- **Review:** source-checked / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** low
+- **Representative project:** [Start here](https://www.autodesk.com/learn/ondemand/course/fusion-core-designer)
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Automated check on 2026-10-30 flagged http-error-manual-review, possible-bot-block (HTTP 403). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
+- [source evidence](https://www.autodesk.com/learn/ondemand/course/fusion-core-designer), 2026-10-30: Queue review: Replaced the general learning homepage with Fusion’s self-paced collection of videos, step guides and model files. Learning material is public; using the software requires an eligible license and advanced extensions may be paid.
+- [source evidence](https://help.autodesk.com/view/fusion360/ENU/?caas=caas%2Fsfdcarticles%2Fsfdcarticles%2FFusion-360-Free-License-Changes.html), 2026-10-30: Official personal-use license documentation confirms a restricted free Fusion offering; learning content does not grant unrestricted software rights.
+- Current publisher URL updated during the queue review; the original URL remains in provenance.
 
 **Original research occurrences**
 
@@ -307,32 +321,33 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Beadaholique — Jewelry Projects
 
-[Beadaholique](https://beadaholique.com/collections/beading-projects) — Complete jewelry builds. Earrings, bracelets, necklaces.
+[Beadaholique](https://beadaholique.com/collections/beading-projects) — Make earrings, bracelets and necklaces with free project guides and separately purchased supplies.
 
 - **ID:** beadaholique-jewelry-projects
 - **Category:** Traditional crafts
 - **Topics:** jewelry-making
 - **Format:** video, patterns
 - **Approach:** pattern-or-plan
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Varies
+- **Access:** open — Free project instructions are separate from supply purchases and paid kits; some original components may be retired.
+- **Review:** source-checked / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** varies
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Automated check on 2026-10-30 flagged http-error-manual-review (HTTP 429). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
+- [source evidence](https://beadaholique.com/pages/build-your-own-earrings), 2026-10-30: Queue review: The publisher labels its earring project guides free, with tools and components sold separately. A selected stretch-bracelet detail failed retrieval; the collection is source-checked only, with availability of retired components varying.
+
 
 **Original research occurrences**
 
@@ -342,37 +357,37 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## BeaverCraft — Free Beginner Carving Patterns
 
-[BeaverCraft](https://beavercrafttools.com/blogs/ideas-inspiration-carve-hacks/wood-carving-patterns-for-beginners-easy-whittling-templates-for-free) — Carve a small animal or simple wooden motif. Free patterns and examples; shop sells kits but tutorials need not be purchased.
+[BeaverCraft](https://beavercrafttools.com/blogs/ideas-inspiration-carve-hacks/wood-carving-patterns-for-beginners-easy-whittling-templates-for-free) — Find carving demonstrations and printable-pattern offers; newsletter signup is described for pattern delivery.
 
 - **ID:** beavercraft-free-beginner-carving-patterns
 - **Category:** Traditional crafts
 - **Topics:** woodcarving-and-whittling
 - **Format:** video, patterns
 - **Approach:** pattern-or-plan
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Varies
+- **Access:** free-registration — The article and embedded demonstrations are public. The described pattern delivery requires newsletter signup; paid tools and kits are optional.
+- **Review:** source-checked / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** moderate
 
 **Safety**
 
-- Sharp edges, secure workholding and dust control require care; follow project-specific precautions.
+- Use appropriate carving gloves and controlled knife cuts; keep hands and legs out of the cutting path.
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Source equipment note: Basswood, suitable carving knife, hand protection
-- Automated check on 2026-10-30 flagged possible-bot-block (HTTP 200). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
+- [source evidence](https://beavercrafttools.com/blogs/ideas-inspiration-carve-hacks/wood-carving-patterns-for-beginners-easy-whittling-templates-for-free), 2026-10-30: Queue review: The article identifies free carving demonstration videos and a pattern collection; it says printable patterns are sent after newsletter subscription. This is not a no-registration PDF library, and the complete videos were not reviewed.
+
 
 **Original research occurrences**
 
@@ -382,32 +397,35 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Berlin Drawing Room — Spring Botanical Watercolor
 
-[Berlin Drawing Room](https://www.berlindrawingroom.com/free-spring-botanical-watercolor-class/) — Paint a botanical subject by tonal layering. Recorded-class page; reference image and materials listed.
+[Berlin Drawing Room](https://www.berlindrawingroom.com/free-spring-botanical-watercolor-class/) — Paint a botanical subject using the class recording embedded beside an expired live-event invitation.
 
 - **ID:** berlin-drawing-room-spring-botanical-watercolor
 - **Category:** Art and design
 - **Topics:** botanical-illustration, drawing-and-painting
 - **Format:** article
 - **Approach:** guided-build
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Varies
+- **Access:** open — The page embeds a public class recording. Its old newsletter/Zoom invitation refers to an expired live event; separate workshops may be paid.
+- **Review:** source-checked / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** low
+- **Representative project:** [Start here](https://www.berlindrawingroom.com/free-spring-botanical-watercolor-class/)
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Source equipment note: Watercolor, paper, brush, pencil
+- [source evidence](https://www.berlindrawingroom.com/free-spring-botanical-watercolor-class/), 2026-10-30: Queue review: Browser inspection confirmed a Spring Botanical Watercolor Class YouTube recording embedded in the page. The text still advertises an April 2024 live session; newsletter signup and that expired event are not the route to the recording. The full video was not watched.
+- [source evidence](https://www.youtube.com/watch?v=Rb7LhQHZI-Y), 2026-10-30: Recording URL observed in the publisher page’s embedded player. Full playback was not evaluated.
+
 
 **Original research occurrences**
 
@@ -417,32 +435,34 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Blender Guru — Tutorials
 
-[Blender Guru / Andrew Price](https://www.blenderguru.com/tutorials) — Model, shade and render. 3D art and animation.
+[Andrew Price / Blender Guru](https://www.blenderguru.com/posts/blender-4-beginner-donut-tutorial) — Model, shade, light and render a donut through Andrew Price’s free Blender 4.0 video series.
 
 - **ID:** blender-guru-tutorials
 - **Category:** Engineering and technology
 - **Topics:** 3d-modeling-and-cad
 - **Format:** video, course
 - **Approach:** guided-build
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Beginner
+- **Access:** open — The linked donut video series is free. The separate academy and optional assets may be paid; interface details are specific to Blender 4.0.
+- **Review:** source-checked / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** low
+- **Representative project:** [Start here](https://www.blenderguru.com/posts/blender-4-beginner-donut-tutorial)
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Automated check on 2026-10-30 flagged http-error-manual-review, possible-bot-block (HTTP 404). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
+- [source evidence](https://www.blenderguru.com/posts/blender-4-beginner-donut-tutorial), 2026-10-30: Queue review: The old tutorial-index URL returns 404. Recovered Andrew Price’s free Blender 4.0 donut series with chapter listings from modeling through rendering; the videos were not watched in full.
+- Current publisher URL updated during the queue review; the original URL remains in provenance.
 
 **Original research occurrences**
 
@@ -502,19 +522,19 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Topics:** musical-instrument-making, woodworking
 - **Format:** pdf, patterns
 - **Approach:** pattern-or-plan
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Varies
+- **Access:** open — The page links a free PDF plan; strings, tuners, wood and optional kits are paid.
+- **Review:** source-checked / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** moderate
 
 **Safety**
 
@@ -522,8 +542,10 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
+- [source evidence](https://www.cbgitty.com/free-plans-how-to-build-a-cigar-box-guitar/), 2026-10-30: Queue review: The supplier’s page offers a free PDF plan for a three-string stick-through-box guitar and explains that wood and metal parts can be sourced separately. The PDF download was identified but not inspected end to end.
+
 
 **Original research occurrences**
 
@@ -577,7 +599,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Cambridge University Botanic Garden — Dyes from Plants
 
-[Cambridge University Botanic Garden](https://www.botanic.cam.ac.uk/learning/trails/dyestrail/) — Identify plant dyes and explore pigments. Background knowledge, not a full guided make; useful botanical companion.
+[Cambridge University Botanic Garden](https://www.botanic.cam.ac.uk/learning/trails/dyestrail/) — Explore the botanic garden’s plant-dye trail and research as background for practical dyeing.
 
 - **ID:** cambridge-university-botanic-garden-dyes-from-plants
 - **Category:** Art and design
@@ -585,16 +607,16 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** article
 - **Approach:** pattern-or-plan
 - **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** open — The public page is accessible as background/discovery; it is not a complete project recommendation.
 - **Review:** source-checked / reference-only
-- **Last independently verified:** Unknown
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
 - **Safety risk:** Unknown
 
@@ -604,10 +626,10 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `reference-only`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://www.botanic.cam.ac.uk/learning/trails/dyestrail/), 2026-10-30: Queue review: The botanic garden page describes its plant-dye trail, artist research, plant information and downloadable trail brochure. It is botanical context rather than a complete reproducible dyeing lesson.
 - Educational botanical background does not provide a complete standalone dye project.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Source equipment note: Observation first; dye equipment for experiments
 - Reference, overview or discovery index; not a complete standalone project.
 
 **Original research occurrences**
@@ -618,46 +640,48 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Canadian Woodworking — Repair a Chair
 
-[Canadian Woodworking](https://canadianwoodworking.com/techniques_and_tips/how-to-repair-a-chair/) — Separate loose joints, clean glue and reassemble. Suitable non-antique chair; clamp correctly.
+[Scott Bennett / Canadian Woodworking](https://canadianwoodworking.com/techniques_and_tips/how-to-repair-a-chair/) — Study disassembly, joint cleanup, re-gluing and clamping of a wooden chair’s loose joints.
 
 - **ID:** canadian-woodworking-repair-a-chair
 - **Category:** Repair, restoration and modification
 - **Topics:** furniture-restoration, woodworking
 - **Format:** article
 - **Approach:** restoration
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Intermediate
+- **Access:** open — Publisher instruction or activity material is publicly readable; tools, materials and optional paid extras are separate.
+- **Review:** sample-reviewed / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
-- **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Languages:** en
+- **Beginner suitability:** False
+- **Safety risk:** specialist-only
+- **Representative project:** [Start here](https://canadianwoodworking.com/techniques_and_tips/how-to-repair-a-chair/)
 
 **Repair attributes**
 
-- **Object_type:** furniture
+- **Object_type:** Wooden chair with sound members and loose glued joints
 - **Activities:** restoration
-- **Device_specificity:** Unknown
+- **Device_specificity:** general-technique
 - **Replacement_parts:** Unknown
-- **Reversibility:** Unknown
-- **Risk_level:** Unknown
-- **Functional_checks:** Unknown
+- **Reversibility:** partly-reversible
+- **Risk_level:** specialist-only
+- **Functional_checks:** Editorial check: allow the adhesive’s full specified cure, then seek competent assessment of joint integrity and stability before seating use.
 
 **Safety**
 
-- Sharp edges, secure workholding and dust control require care; follow project-specific precautions.
+- Confirm the chair has loose sound joints rather than cracked structural members. Allow full adhesive cure and have load-bearing repairs assessed by a competent person before use.
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Automated check on 2026-10-30 flagged http-error-manual-review (HTTP 403). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
+- [sample evidence](https://canadianwoodworking.com/techniques_and_tips/how-to-repair-a-chair/), 2026-10-30: Queue review: Inspected the full loose-joint chair repair article, including labeling, disassembly, glue cleanup, rehearsal, re-gluing and clamping. A chair is load-bearing, so this catalogue does not classify it as a casual beginner repair.
+
 
 **Original research occurrences**
 
@@ -667,7 +691,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Canon Creative Park
 
-[Canon](https://creativepark.canon/) — Print, cut and assemble. Paper buildings and models.
+[Canon](https://creativepark.canon/) — Explore printable paper models; Canon ID and Canon PRINT introduce access and hardware barriers.
 
 - **ID:** canon-creative-park
 - **Category:** Traditional crafts
@@ -675,9 +699,9 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** pdf, patterns
 - **Approach:** pattern-or-plan
 - **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** free-registration — Canon ID sign-in is presented; official help requires Canon PRINT for printing. Compatible printer and operating-system restrictions need a download-path review.
 - **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
@@ -690,9 +714,10 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Homepage link: replace with a direct meaningful free tutorial before recommendation.
+- [source evidence](https://ugp01.c-ij.com/ij/webmanual/Others1/EN/CP/cp_help.html), 2026-10-30: Queue review: Browser inspection found Canon ID sign-in and the official help now says printing requires Canon PRINT. The former unrestricted-PDF assumption is unsupported. A compatible printing workflow and access to a complete pattern remain untested.
+
 
 **Original research occurrences**
 
@@ -709,19 +734,20 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Topics:** woodcarving-and-whittling
 - **Format:** article
 - **Approach:** guided-build
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
-- **Tools:** Unknown
-- **Materials:** Unknown
+- **Level:** Beginner
+- **Access:** open — Publisher instruction or activity material is publicly readable; tools, materials and optional paid extras are separate.
+- **Review:** sample-reviewed / listed
+- **Last independently verified:** 2026-10-30
+- **Tools:** Carving knife, Pencil, Carving glove
+- **Materials:** Wood block, Optional paints
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** moderate
+- **Representative project:** [Start here](https://www.carvingjunkies.com/simple-wood-whittling.html)
 
 **Safety**
 
@@ -729,10 +755,10 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Homepage link: replace with a direct meaningful free tutorial before recommendation.
-- Automated check on 2026-10-30 flagged possible-bot-block (HTTP 200). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
+- [sample evidence](https://www.carvingjunkies.com/simple-wood-whittling.html), 2026-10-30: Queue review: Inspected the crooked-house photo tutorial through carving and painting, including a traceable pattern and knife-safety notes. The library is free; tool-shopping links are separate.
+
 
 **Original research occurrences**
 
@@ -750,19 +776,19 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Topics:** musical-instrument-making, woodworking
 - **Format:** patterns
 - **Approach:** pattern-or-plan
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Varies
+- **Access:** open — The archive provides public plans and build links; materials and components cost money. No complete representative build was inspected.
+- **Review:** source-checked / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** moderate
 
 **Safety**
 
@@ -770,9 +796,10 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Automated check on 2026-10-30 flagged possible-bot-block (HTTP 200). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
+- [source evidence](https://www.cigarboxguitars.com/how-to-build), 2026-10-30: Queue review: The public build archive attributes plans and historical instrument projects to their sources. Free making guides are distinct from component sales; older reprints and linked projects vary in detail and parts availability.
+
 
 **Original research occurrences**
 
@@ -783,7 +810,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Class Central — Crafts Courses
 
-[Class Central (discovery index)](https://www.classcentral.com/subject/crafts) — Find complete free courses. Free filter; validate each course.
+[Class Central (discovery index)](https://www.classcentral.com/subject/crafts) — Discover craft courses on other providers’ sites and inspect each destination’s terms.
 
 - **ID:** class-central-crafts-courses
 - **Category:** Traditional crafts
@@ -791,23 +818,24 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** project-library
 - **Approach:** project-progression
 - **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** open — The discovery index is free to browse; it does not establish that all listed courses or certificates are free.
 - **Review:** source-checked / reference-only
-- **Last independently verified:** Unknown
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
 - **Safety risk:** Unknown
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `reference-only`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
+- [source evidence](https://www.classcentral.com/subject/crafts), 2026-10-30: Queue review: This is a course-search/discovery service containing free and paid providers, rather than an original instructional resource. The index itself is public; each destination’s payment, registration and project content require separate review.
 - Reference, overview or discovery index; not a complete standalone project.
 - Automated check on 2026-10-30 flagged robots-unavailable-or-restricted. This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
 
@@ -861,7 +889,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Cornell — Reuleaux Mechanisms
 
-[Cornell University](https://www.duffield.cornell.edu/mae/reuleaux-collection/) — Study then recreate mechanisms. Gears and linkages; not step-by-step.
+[Cornell University](https://www.duffield.cornell.edu/mae/reuleaux-collection/) — Study historical mechanisms and linkages; fabrication instructions are not supplied.
 
 - **ID:** cornell-reuleaux-mechanisms
 - **Category:** Engineering and technology
@@ -869,23 +897,24 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** project-library
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** open — The public page is accessible as background/discovery; it is not a complete project recommendation.
 - **Review:** source-checked / reference-only
-- **Last independently verified:** Unknown
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
 - **Safety risk:** Unknown
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `reference-only`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
+- [source evidence](https://www.duffield.cornell.edu/mae/reuleaux-collection/), 2026-10-30: Queue review: The university collection documents historical mechanisms and their operation. It is useful engineering background, not a reproducible set of beginner fabrication plans.
 - Reference, overview or discovery index; not a complete standalone project.
 
 **Original research occurrences**
@@ -896,7 +925,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Crafts Council — Family Workshops
 
-[Crafts Council](https://www.craftscouncil.org.uk/learning/craft-learning-resources/early-years-and-primary) — Playful creative builds. Simple family craft projects.
+[Crafts Council](https://www.craftscouncil.org.uk/learning/craft-learning-resources/early-years-and-primary) — Find primary-age craft activity sheets; complete downloads and supervision notes need review.
 
 - **ID:** crafts-council-family-workshops
 - **Category:** Traditional crafts
@@ -904,7 +933,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** pdf
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Current complete free instructional access has not been established. See the dated review note.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -919,9 +948,10 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Automated check on 2026-10-30 flagged http-error-manual-review (HTTP 403). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
+- [source evidence](https://www.craftscouncil.org.uk/learning/craft-learning-resources/early-years-and-primary), 2026-10-30: Queue review: The primary-age resource page returned an access block. Official indexed text identifies downloadable home/classroom activities, but complete worksheets and the age-specific tool/supervision notes remain uninspected.
+
 
 **Original research occurrences**
 
@@ -931,7 +961,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Crafts Council — Free Craft PDFs
 
-[Crafts Council](https://www.craftscouncil.org.uk/learning/craft-learning-resources/all-ages) — Artist-led step-by-step projects. Pinch pot, printmaking, natural dyeing.
+[Crafts Council](https://www.craftscouncil.org.uk/learning/craft-learning-resources/all-ages) — Find artist-led activity worksheets; complete downloads remain to be checked.
 
 - **ID:** crafts-council-free-craft-pdfs
 - **Category:** Traditional crafts
@@ -939,7 +969,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** pdf
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Current complete free instructional access has not been established. See the dated review note.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -954,9 +984,10 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Automated check on 2026-10-30 flagged http-error-manual-review (HTTP 403). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
+- [source evidence](https://www.craftscouncil.org.uk/learning/craft-learning-resources/all-ages), 2026-10-30: Queue review: The all-ages resource page returned an access block. Official search identifies downloadable activities, including kite making, but the linked complete worksheet still needs direct inspection.
+
 
 **Original research occurrences**
 
@@ -966,7 +997,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Crafty Time with Dave
 
-[Crafty Time with Dave](https://craftytimewithdave.com/) — Recycle materials into scenery. Miniature houses and dioramas.
+[Crafty Time with Dave](https://craftytimewithdave.com/) — Explore recycled miniature buildings and dioramas; a complete tutorial still needs inspection.
 
 - **ID:** crafty-time-with-dave
 - **Category:** Art and design
@@ -974,7 +1005,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** article
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Current complete free instructional access has not been established. See the dated review note.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -989,9 +1020,10 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Homepage link: replace with a direct meaningful free tutorial before recommendation.
+- [source evidence](https://craftytimewithdave.com/2022/12/06/idea-44-news-cabin/), 2026-10-30: Queue review: The maker’s miniature-project homepage is readable, but the representative recycled log-cabin tutorial failed retrieval. The complete free build and its tool list remain to be checked.
+
 
 **Original research occurrences**
 
@@ -1001,34 +1033,34 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Creative with Nature — Weave Your First Basket
 
-[Creative with Nature](https://creativewithnature.co.uk/) — Beginner complete-basket video progression. Free 2026 step-by-step playlist; site also sells paid courses.
+[Joe Gregory / Creative with Nature](https://creativewithnature.co.uk/) — Learn willow weaving through free videos, including baskets and garden plant supports.
 
 - **ID:** creative-with-nature-weave-your-first-basket
 - **Category:** Traditional crafts
 - **Topics:** weaving-and-basketry
 - **Format:** course
 - **Approach:** project-progression
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Varies
+- **Access:** open — The YouTube basket series and plant-support video are offered free; materials and in-person workshops cost money.
+- **Review:** source-checked / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** moderate
+- **Representative project:** [Start here](https://creativewithnature.co.uk/blogs/from-the-studio/willow-pea-climber-plant-support-step-by-step-willow-weaving-tutorial)
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Source equipment note: Willow, pruning tools, water
-- Homepage link: replace with a direct meaningful free tutorial before recommendation.
-- Automated check on 2026-10-30 flagged http-error-manual-review (HTTP 429). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
+- [source evidence](https://creativewithnature.co.uk/blogs/from-the-studio/willow-pea-climber-plant-support-step-by-step-willow-weaving-tutorial), 2026-10-30: Queue review: The creator explicitly now offers Weave Your First Basket on YouTube, and a public willow plant-support tutorial links video instruction and a soaking guide. Paid workshops are separate; the complete video sequence was not watched.
+
 
 **Original research occurrences**
 
@@ -1038,7 +1070,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Cycling UK — Renovating an Old Bike
 
-[Cycling UK](https://www.cyclinguk.org/cycle/back-best) — Evaluate a neglected bicycle and modernize it. More planning than full step-by-step tutorial.
+[Cycling UK](https://www.cyclinguk.org/cycle/back-best) — Plan an old-bike restoration and investigate parts compatibility before choosing specific procedures.
 
 - **ID:** cycling-uk-renovating-an-old-bike
 - **Category:** Repair, restoration and modification
@@ -1046,18 +1078,18 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** article
 - **Approach:** restoration
 - **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** open — The public page is accessible as background/discovery; it is not a complete project recommendation.
 - **Review:** source-checked / reference-only
-- **Last independently verified:** Unknown
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
-- **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Languages:** en
+- **Beginner suitability:** False
+- **Safety risk:** varies
 
 **Repair attributes**
 
@@ -1066,13 +1098,14 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Device_specificity:** Unknown
 - **Replacement_parts:** Unknown
 - **Reversibility:** Unknown
-- **Risk_level:** Unknown
+- **Risk_level:** varies
 - **Functional_checks:** Unknown
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `reference-only`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
+- [source evidence](https://www.cyclinguk.org/cycle/back-best), 2026-10-30: Queue review: The article discusses restoration decisions, paint, parts compatibility and external technical references. It is useful planning context, not a complete model-specific bicycle rebuild procedure.
 - Reference, overview or discovery index; not a complete standalone project.
 
 **Original research occurrences**
@@ -1083,41 +1116,48 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Cycling UK — Simple Bike Maintenance
 
-[Cycling UK](https://www.cyclinguk.org/article/simple-bike-maintenance-guides) — Fix punctures, chains and adjust gears/brakes. Excellent beginner printable sequence; test brakes.
+[Cycling UK](https://www.cyclinguk.org/article/simple-bike-maintenance-guides) — Learn puncture repair and other maintenance from downloadable bicycle guides with post-repair checks.
 
 - **ID:** cycling-uk-simple-bike-maintenance
 - **Category:** Repair, restoration and modification
 - **Topics:** bicycle-maintenance
 - **Format:** pdf, article
 - **Approach:** repair-walkthrough
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Varies
+- **Access:** open — The publisher’s maintenance PDFs are free to download; local live classes are optional and separate.
+- **Review:** source-checked / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** moderate
+- **Representative project:** [Start here](https://www.cyclinguk.org/sites/default/files/document/2019/06/guide_3_cycling_uk_bike_maintanence_repairing_a_puncture.pdf)
 
 **Repair attributes**
 
-- **Object_type:** bicycle
+- **Object_type:** Bicycle; representative guide uses an inner tube and removable wheel
 - **Activities:** repair
-- **Device_specificity:** Unknown
-- **Replacement_parts:** Unknown
+- **Device_specificity:** product-family
+- **Replacement_parts:** Tube patches or a correctly sized replacement inner tube
 - **Reversibility:** Unknown
-- **Risk_level:** Unknown
-- **Functional_checks:** Unknown
+- **Risk_level:** moderate
+- **Functional_checks:** Check tyre seating and pressure, wheel retention, free rotation and brake operation before riding.
+
+**Safety**
+
+- Use matching axle and brake instructions. Check the wheel is securely retained, the tyre seated and inflated correctly, and brakes working before riding; consult a qualified mechanic if unsure.
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
+- [source evidence](https://www.cyclinguk.org/sites/default/files/document/2019/06/guide_3_cycling_uk_bike_maintanence_repairing_a_puncture.pdf), 2026-10-30: Queue review: Located the actual five downloadable PDFs behind image links. The puncture worksheet covers wheel removal, tube replacement/patching and wheel/brake checks; other guides include safety-critical adjustment. This was a source-level PDF review.
+
 
 **Original research occurrences**
 
@@ -1165,33 +1205,33 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Delphi Glass — Projects
 
-[Delphi Glass](https://www.delphiglass.com/) — Follow decorative glass projects. Mosaic and stained glass.
+[Delphi Glass](https://www.delphiglass.com/free-patterns-projects/) — Find decorative-glass patterns and project guides for an appropriately equipped workshop.
 
 - **ID:** delphi-glass-projects
 - **Category:** Art and design
 - **Topics:** sculpture
 - **Format:** patterns
 - **Approach:** pattern-or-plan
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Varies
+- **Access:** open — The collection identifies free patterns and project guides. Supplies, equipment, books and in-person classes are separate paid offerings.
+- **Review:** source-checked / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
-- **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Languages:** en
+- **Beginner suitability:** False
+- **Safety risk:** specialist-only
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Homepage link: replace with a direct meaningful free tutorial before recommendation.
-- Automated check on 2026-10-30 flagged http-error-manual-review (HTTP 403). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
+- [source evidence](https://www.delphiglass.com/free-patterns-projects/), 2026-10-30: Queue review: Replaced the store homepage with its free-pattern and project-guide collection. Patterns are not complete skills training; glass cutting, soldering and kiln work require appropriate training and equipment. No complete sample was reviewed.
+- Current publisher URL updated during the queue review; the original URL remains in provenance.
 
 **Original research occurrences**
 
@@ -1201,32 +1241,34 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## DMC Free Embroidery
 
-[DMC](https://www.dmc.com/) — Follow motifs and stitches. Embroidery; find free pattern section.
+[DMC](https://www.dmc.com/US/en/patterns/free-patterns-by-level/beginner) — Choose embroidery patterns with free account or newsletter access; thread kits are separate.
 
 - **ID:** dmc-free-embroidery
 - **Category:** Traditional crafts
 - **Topics:** sewing-and-textile-arts
 - **Format:** patterns, project-library
 - **Approach:** pattern-or-plan
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Varies
+- **Access:** free-registration — The pattern-only option is free, but downloading requires account login or newsletter signup. Delivery and the complete PDF were not tested; purchasing thread is optional.
+- **Review:** source-checked / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** moderate
+- **Representative project:** [Start here](https://www.dmc.com/US/en/products/embroidery-dotted-lines-pattern?taxon_id=55)
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Homepage link: replace with a direct meaningful free tutorial before recommendation.
+- [source evidence](https://www.dmc.com/US/en/products/embroidery-dotted-lines-pattern?taxon_id=55), 2026-10-30: Queue review: Browser inspection recovered the Dotted Lines pattern and its Pattern Only workflow. The free download requires either account login or newsletter subscription; no personal information was submitted and the full PDF was not obtained. Thread purchases are optional.
+- Current publisher URL updated during the queue review; the original URL remains in provenance.
 
 **Original research occurrences**
 
@@ -1236,15 +1278,15 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Emma Tildesley — Oriental Lily Watercolour
 
-[Emma Tildesley](https://www.emmatildesley.com/blog/painting-an-oriental-lily-in-watercolour-a-free-botanical-art-tutorial) — Paint an oriental lily from observation to details. Gentle self-paced guided painting; linked free Patreon lesson.
+[Emma Tildesley](https://www.emmatildesley.com/blog/painting-an-oriental-lily-in-watercolour-a-free-botanical-art-tutorial) — Explore an intermediate watercolor lesson linked from the artist’s blog; Patreon access remains unconfirmed.
 
 - **ID:** emma-tildesley-oriental-lily-watercolour
 - **Category:** Art and design
 - **Topics:** botanical-illustration, drawing-and-painting
 - **Format:** article
 - **Approach:** guided-build
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
+- **Level:** Intermediate
+- **Access:** unverified — Current complete free instructional access has not been established. See the dated review note.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -1254,14 +1296,16 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Cost band:** Unknown
 - **Screen time:** Unknown
 - **Languages:** Unknown
-- **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Beginner suitability:** False
+- **Safety risk:** low
+- **Representative project:** [Start here](https://www.patreon.com/posts/105360450/)
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Source equipment note: Watercolor, fine brushes, paper
+- [source evidence](https://www.emmatildesley.com/blog/painting-an-oriental-lily-in-watercolour-a-free-botanical-art-tutorial), 2026-10-30: Queue review: The artist explicitly targets painters with some watercolor experience, correcting the beginner implication. The blog links a purportedly free Patreon lesson, but that post could not be retrieved; account requirements and full video access remain unresolved.
+
 
 **Original research occurrences**
 
@@ -1315,31 +1359,33 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Exploratorium — Idea Library
 
-[Exploratorium](https://annex.exploratorium.edu/pie/ideas.html) — Play with physical effects. Scribbling machines, light, sound.
+[Exploratorium](https://annex.exploratorium.edu/pie/ideas.html) — Explore physical effects with archived maker-activity guides for drawing machines, sound and light.
 
 - **ID:** exploratorium-idea-library
 - **Category:** Science and experiments
 - **Topics:** scientific-experiments, mechanical-engineering
 - **Format:** project-library
 - **Approach:** experimental-learning
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Varies
+- **Access:** open — Publisher instruction or activity material is publicly readable; tools, materials and optional paid extras are separate.
+- **Review:** source-checked / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** varies
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
+- [source evidence](https://annex.exploratorium.edu/pie/ideas.html), 2026-10-30: Queue review: The archived educator idea library provides direct activity PDFs, including Scribbling Machines and Sound Automata. Archive navigation can be stale; no complete representative PDF was inspected in this pass.
+
 
 **Original research occurrences**
 
@@ -1349,32 +1395,39 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Exploratorium — Marble Machines
 
-[Exploratorium](https://tinkering.exploratorium.edu/marble-machines) — Build, observe, rebuild. Gravity-powered marble tracks.
+[Exploratorium](https://www.exploratorium.edu/sites/default/files/tinkering/files/Instructions/marblemachines_activity-guide.pdf) — Design, test and modify a pegboard marble run using the museum’s activity guide.
 
 - **ID:** exploratorium-marble-machines
 - **Category:** Science and experiments
 - **Topics:** scientific-experiments, mechanical-engineering
 - **Format:** article
 - **Approach:** experimental-learning
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Varies
+- **Access:** open — Publisher instruction or activity material is publicly readable; tools, materials and optional paid extras are separate.
+- **Review:** source-checked / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** moderate
+- **Representative project:** [Start here](https://www.exploratorium.edu/sites/default/files/tinkering/files/Instructions/marblemachines_activity-guide.pdf)
+
+**Safety**
+
+- Marbles are choking hazards. Secure the board and use appropriate tool supervision when preparing tracks and supports.
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
+- [source evidence](https://www.exploratorium.edu/sites/default/files/tinkering/files/Instructions/marblemachines_activity-guide.pdf), 2026-10-30: Queue review: Recovered the publisher’s twelve-page Marble Machines activity guide after the old subdomain failed. It supports a pegboard marble-run design challenge and extensions; this was source-level inspection, not a completed build.
 - Automated check on 2026-10-30 flagged robots-unavailable-or-restricted. This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
+- Current publisher URL updated during the queue review; the original URL remains in provenance.
 
 **Original research occurrences**
 
@@ -1384,7 +1437,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Fix-It Club — Repair Guides
 
-[Fix-It Club](https://fixitclub.com/fix-it-guides/) — Diagnose common mechanical and household failures. Many topics, uneven depth; check project before starting.
+[Fix-It Club](https://fixitclub.com/fix-it-guides/) — Find repair and troubleshooting topics in a broad index requiring procedure-level safety review.
 
 - **ID:** fix-it-club-repair-guides
 - **Category:** Repair, restoration and modification
@@ -1392,18 +1445,18 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** project-library
 - **Approach:** repair-walkthrough
 - **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Access:** open — The index is free to browse; completeness and safety vary by linked repair.
+- **Review:** source-checked / reference-only
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
-- **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Languages:** en
+- **Beginner suitability:** False
+- **Safety risk:** varies
 
 **Repair attributes**
 
@@ -1412,17 +1465,19 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Device_specificity:** Unknown
 - **Replacement_parts:** Unknown
 - **Reversibility:** Unknown
-- **Risk_level:** Unknown
+- **Risk_level:** varies
 - **Functional_checks:** Unknown
 
 **Safety**
 
-- Do not open mains, high-voltage, pressurized or damaged battery equipment without specialist training; stored energy can persist after power is disconnected.
+- Do not use a broad repair index as authorization to work on mains appliances, batteries, brakes or other safety-critical systems.
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
+- [source evidence](https://fixitclub.com/fix-it-guides/), 2026-10-30: Queue review: The public A–Z index mixes clothing and household troubleshooting with hazardous battery, appliance, vehicle and mains-equipment repairs. The attempted clothing walkthrough failed retrieval. Individual procedures need a safety/completeness review before recommendation.
+
 
 **Original research occurrences**
 
@@ -1432,32 +1487,38 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Flite Test
 
-[Flite Test](https://www.flitetest.com/) — Build and test an aircraft. Foamboard model planes.
+[Flite Test](https://www.flitetest.com/) — Explore foamboard glider and RC-aircraft builds; only selected plans are free.
 
 - **ID:** flite-test
 - **Category:** Art and design
 - **Topics:** model-making-and-dioramas, mechanical-engineering
 - **Format:** video, patterns
 - **Approach:** pattern-or-plan
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Varies
+- **Access:** mixed — Selected FT plans are free through the official forum’s resources; kits and some plans are paid. Verify the chosen plan’s terms before buying components.
+- **Review:** source-checked / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** moderate
+- **Representative project:** [Start here](https://www.flitetest.com/tinytrainer)
+
+**Safety**
+
+- Start with a hand-launched glider. Powered aircraft add propeller, battery and local flying-rule requirements.
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Homepage link: replace with a direct meaningful free tutorial before recommendation.
+- [source evidence](https://www.flitetest.com/support), 2026-10-30: Queue review: Official support confirms that a subset of FT plans remains free, and the Tiny Trainer page describes glider and powered builds. Do not assume every current plan is free; a full plan/build-video review remains outstanding.
+
 
 **Original research occurrences**
 
@@ -1474,38 +1535,41 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Topics:** computer-repair-and-upgrades
 - **Format:** project-library
 - **Approach:** repair-walkthrough, upgrade-or-modification
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Varies
+- **Access:** open — Official repair guides are public. A compatible Framework laptop, model-matching memory and tools are required; hardware is paid.
+- **Review:** sample-reviewed / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** moderate
+- **Representative project:** [Start here](https://guides.frame.work/Guide/Memory+Replacement+Guide/94?lang=en)
 
 **Repair attributes**
 
-- **Object_type:** computer
+- **Object_type:** Framework Laptop 13 with replaceable memory; select exact mainboard guide
 - **Activities:** repair
-- **Device_specificity:** Unknown
-- **Replacement_parts:** Unknown
-- **Reversibility:** Unknown
-- **Risk_level:** Unknown
-- **Functional_checks:** Unknown
+- **Device_specificity:** product-family
+- **Replacement_parts:** Memory modules compatible with the exact mainboard
+- **Reversibility:** reversible
+- **Risk_level:** moderate
+- **Functional_checks:** After reassembly, allow the longer first boot for memory training as the guide directs., Editorial check: verify installed memory is detected and keyboard/touchpad operate normally.
 
 **Safety**
 
-- Do not open mains, high-voltage, pressurized or damaged battery equipment without specialist training; stored energy can persist after power is disconnected.
+- Select the guide and memory generation for the exact Framework mainboard. Follow the manufacturer’s power/battery instructions and ESD precautions; never use a powered screwdriver on its captive screws.
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
+- [sample evidence](https://guides.frame.work/Guide/Memory+Replacement+Guide/94?lang=en), 2026-10-30: Queue review: Inspected all nine steps of the official Laptop 13 memory-replacement guide, including power state, cable handling, seating modules, closing and memory-training behavior. Its battery instructions are model-specific; do not generalize them to other laptops.
+
 
 **Original research occurrences**
 
@@ -1513,34 +1577,37 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 <a id="gathered-macrame"></a>
 
-## Gathered Macramé
+## Gathered — crocheted and macramé vase hanger
 
-[Gathered](https://www.gathered.how/arts-crafts/macrame) — Learn knots through projects. Hangers, ornaments, accessories.
+[Stella Melgrati / Gathered](https://www.gathered.how/arts-crafts/macrame/macrame-pot-hanger-tutorial) — Crochet, felt and knot a small hanging vase with a written step-by-step guide.
 
 - **ID:** gathered-macrame
 - **Category:** Traditional crafts
 - **Topics:** sewing-and-textile-arts
 - **Format:** article
 - **Approach:** guided-build
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Intermediate
+- **Access:** mixed — Complete web instructions are free; magazine subscriptions and affiliate supply links are optional.
+- **Review:** sample-reviewed / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
-- **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Languages:** en
+- **Beginner suitability:** False
+- **Safety risk:** moderate
+- **Representative project:** [Start here](https://www.gathered.how/arts-crafts/macrame/macrame-pot-hanger-tutorial)
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
+- [sample evidence](https://www.gathered.how/arts-crafts/macrame/macrame-pot-hanger-tutorial), 2026-10-30: Queue review: Replaced the broad macramé index with a complete crochet, felting and knotting vase-hanger tutorial. Materials and all finishing steps are public; the project assumes crochet skills and uses a washing machine.
 - Automated check on 2026-10-30 flagged network-error-manual-review. This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
+- Current publisher URL updated during the queue review; the original URL remains in provenance.
 
 **Original research occurrences**
 
@@ -1550,26 +1617,27 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## George Eastman Museum — Discovery Room at Home
 
-[George Eastman Museum](https://www.eastman.org/discovery-room) — Turn room into camera obscura; make flipbook and photographs. Museum-quality playful optical and pre-cinema activities.
+[George Eastman Museum](https://www.eastman.org/discovery-room) — Make optical toys and explore photography through museum activity PDFs and videos.
 
 - **ID:** george-eastman-museum-discovery-room-at-home
 - **Category:** Science and experiments
 - **Topics:** physics-and-optical-instruments, photography-and-optics, diy-scientific-instruments
 - **Format:** pdf
 - **Approach:** experimental-learning
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
-- **Tools:** Unknown
-- **Materials:** Unknown
+- **Level:** Beginner
+- **Access:** open — The activity PDFs and videos are public; museum admission is not needed for the at-home projects.
+- **Review:** sample-reviewed / listed
+- **Last independently verified:** 2026-10-30
+- **Tools:** Pencil, Scissors, Hole punch
+- **Materials:** Thin cardboard, Paper, Glue, String
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
-- **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Languages:** en
+- **Beginner suitability:** True
+- **Safety risk:** low
+- **Representative project:** [Start here](https://www.eastman.org/sites/default/files/2020_ActivityKit_Thaumatrope.pdf)
 
 **Safety**
 
@@ -1577,9 +1645,9 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Source equipment note: Household supplies, paper and light
+- [sample evidence](https://www.eastman.org/sites/default/files/2020_ActivityKit_Thaumatrope.pdf), 2026-10-30: Queue review: Inspected the complete three-page thaumatrope worksheet: materials, four assembly steps, test activity and templates. The wider museum page also offers camera-obscura, pinhole-camera and flipbook activities.
 - Automated check on 2026-10-30 flagged robots-unavailable-or-restricted. This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
 
 **Original research occurrences**
@@ -1628,33 +1696,34 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## GrowVeg
 
-[GrowVeg](https://www.growveg.com/) — Grow food in practice. Vegetables, beds, seasonal growing.
+[GrowVeg](https://www.growveg.com/gardening-guides.aspx) — Grow vegetables with public articles and videos; the paid Garden Planner is separate.
 
 - **ID:** growveg
 - **Category:** Everyday practical skills
 - **Topics:** gardening-and-food-growing, sustainable-living
 - **Format:** video, article
 - **Approach:** guided-build
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Varies
+- **Access:** mixed — Gardening articles and videos are free; the Garden Planner is a separate paid product with a time-limited trial. Local climate and seasons affect advice.
+- **Review:** source-checked / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** varies
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Homepage link: replace with a direct meaningful free tutorial before recommendation.
+- [source evidence](https://www.growveg.com/gardening-guides.aspx), 2026-10-30: Queue review: Replaced the planner-promoting homepage with its public vegetable-gardening guides. The free articles and videos are separate from the paid Garden Planner and its trial; a complete growing project was not sampled.
 - Automated check on 2026-10-30 flagged robots-unavailable-or-restricted. This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
+- Current publisher URL updated during the queue review; the original URL remains in provenance.
 
 **Original research occurrences**
 
@@ -1664,32 +1733,37 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## How To Mechatronics
 
-[How To Mechatronics](https://howtomechatronics.com/) — Combine CAD and electronics. Robot arms and motion systems.
+[How To Mechatronics](https://howtomechatronics.com/arduino-projects/) — Explore authored Arduino and mechatronics builds with schematics, code and project-specific levels.
 
 - **ID:** how-to-mechatronics
 - **Category:** Engineering and technology
 - **Topics:** robotics-and-mechatronics, mechanical-engineering, electronics
 - **Format:** video, article
 - **Approach:** guided-build
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Varies
+- **Access:** open — Public tutorials include code and schematics; parts, tools and optional commercial links are separate.
+- **Review:** source-checked / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** varies
+
+**Safety**
+
+- Choose a low-voltage stationary circuit first. Moving machinery, hot-wire cutters, exposed lasers and high-power systems require specialist controls.
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Homepage link: replace with a direct meaningful free tutorial before recommendation.
+- [source evidence](https://howtomechatronics.com/arduino-projects/), 2026-10-30: Queue review: The author’s Arduino project collection identifies free schematics, code and build tutorials, with project-specific levels. Robotics, CNC and lasers are advanced branches, not casual beginner activities; no full build was inspected.
+- Current publisher URL updated during the queue review; the original URL remains in provenance.
 
 **Original research occurrences**
 
@@ -1699,32 +1773,33 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Hugging Face — Deep RL
 
-[Hugging Face](https://huggingface.co/learn/deep-rl-course/unit0/introduction) — Train and test virtual agents. Reinforcement learning.
+[Hugging Face](https://huggingface.co/learn/deep-rl-course/unit0/introduction) — Train and evaluate reinforcement-learning agents through free course units and practical exercises.
 
 - **ID:** hugging-face-deep-rl
 - **Category:** Engineering and technology
 - **Topics:** ai-and-machine-learning
 - **Format:** course
 - **Approach:** project-progression
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Advanced
+- **Access:** restricted-free-tier — Course text is free. Hub accounts are needed for some publishing activities; hosted notebook or GPU services have separate free-tier limits and optional paid compute.
+- **Review:** source-checked / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** low
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Automated check on 2026-10-30 flagged possible-bot-block (HTTP 200). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
+- [source evidence](https://huggingface.co/learn/deep-rl-course/unit0/introduction), 2026-10-30: Queue review: The official Deep RL introduction confirms free course content and practical units. Self-study is separate from certification and community participation. Compute and hosted-notebook limits depend on the chosen exercise; no full lab was executed.
+
 
 **Original research occurrences**
 
@@ -1741,19 +1816,19 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Topics:** electronics-repair, household-object-repair
 - **Format:** article
 - **Approach:** repair-walkthrough
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Varies
+- **Access:** open — Guide reading is free. Tools, replacement parts and optional services are separate; community documentation varies.
+- **Review:** source-checked / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** varies
 
 **Repair attributes**
 
@@ -1762,7 +1837,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Device_specificity:** Unknown
 - **Replacement_parts:** Unknown
 - **Reversibility:** Unknown
-- **Risk_level:** Unknown
+- **Risk_level:** varies
 - **Functional_checks:** Unknown
 
 **Safety**
@@ -1771,9 +1846,10 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Automated check on 2026-10-30 flagged possible-bot-block (HTTP 200). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
+- [source evidence](https://www.ifixit.com/Guide), 2026-10-30: Queue review: The public repair-guide directory offers step-by-step illustrated guides alongside a parts store. The separately catalogued Joy-Con procedure is an inspected example; difficulty, model compatibility and hazards must be checked per guide.
+
 
 **Original research occurrences**
 
@@ -1783,7 +1859,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## iFixit — Electronics Soldering
 
-[iFixit and guide contributors](https://www.ifixit.com/soldering) — Repair broken connections and desolder components. Start on scrap electronics, not valuable devices.
+[iFixit and guide contributors](https://www.ifixit.com/soldering) — Explore soldering fundamentals and skills guides alongside the publisher’s tool store.
 
 - **ID:** ifixit-electronics-soldering
 - **Category:** Repair, restoration and modification
@@ -1791,16 +1867,16 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** article
 - **Approach:** repair-walkthrough
 - **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Access:** open — The introductory video and linked skills guides are public; the prominently promoted tool kits are paid.
+- **Review:** source-checked / reference-only
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** False
 - **Safety risk:** specialist-only
 
@@ -1816,14 +1892,14 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Safety**
 
-- Requires appropriate training, tools and safety controls; unsuitable as a casual beginner project.
-- Do not open mains, high-voltage, pressurized or damaged battery equipment without specialist training; stored energy can persist after power is disconnected.
+- Practice only on de-energized scrap circuitry with suitable ventilation and thermal protection. Do not solder batteries, mains supplies or safety-critical assemblies as beginner exercises.
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Automated check on 2026-10-30 flagged possible-bot-block (HTTP 200). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
+- [source evidence](https://www.ifixit.com/soldering), 2026-10-30: Queue review: The current regional page combines a public Soldering 101 video and skills-guide links with FixHub tool sales. It is a soldering technique starting point, not a complete specific-device repair. The course/video was not reviewed in full.
+
 
 **Original research occurrences**
 
@@ -1833,26 +1909,26 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## iFixit — Gadget Teardowns
 
-[iFixit and teardown contributors](https://www.ifixit.com/teardown) — Follow how products are assembled inside. Teardowns illustrate design but are not always reassembly instructions.
+[iFixit and teardown contributors](https://www.ifixit.com/teardown) — Study product construction through teardown photographs and hardware analysis.
 
 - **ID:** ifixit-gadget-teardowns
 - **Category:** Repair, restoration and modification
 - **Topics:** device-teardown-and-reverse-engineering, electronics-repair
 - **Format:** article
 - **Approach:** teardown
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Varies
+- **Access:** open — Teardown reading is public; tools, devices and any replacement parts are separate.
+- **Review:** source-checked / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
-- **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Languages:** en
+- **Beginner suitability:** False
+- **Safety risk:** varies
 
 **Repair attributes**
 
@@ -1861,18 +1937,19 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Device_specificity:** Unknown
 - **Replacement_parts:** Unknown
 - **Reversibility:** Unknown
-- **Risk_level:** Unknown
+- **Risk_level:** varies
 - **Functional_checks:** Unknown
 
 **Safety**
 
-- Do not open mains, high-voltage, pressurized or damaged battery equipment without specialist training; stored energy can persist after power is disconnected.
+- Read to study design first. Do not generalize procedures across devices; batteries, stored energy and destructive assembly can make disassembly hazardous.
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Automated check on 2026-10-30 flagged possible-bot-block (HTTP 200). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
+- [source evidence](https://www.ifixit.com/teardown), 2026-10-30: Queue review: The public teardown collection provides disassembly photographs and hardware analysis. A teardown is not a repair or guaranteed reassembly guide; risk and device-specific precautions must be assessed before taking hardware apart.
+
 
 **Original research occurrences**
 
@@ -1934,45 +2011,48 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## iFixit — Laptop Cleaning Project
 
-[iFixit and credited guide author](https://www.ifixit.com/Guide/How+to+Clean+the+Interior+of+a+Lenovo+Legion+Pro+5+16ARX8/188011) — Disassemble, clean dust and reassemble. Example only: use device-specific instructions for your own machine.
+[iFixit and credited guide author](https://www.ifixit.com/Guide/How+to+Clean+the+Interior+of+a+Lenovo+Legion+Pro+5+16ARX8/188011) — Inspect a model-specific community laptop-cleaning guide whose power-isolation sequence needs review.
 
 - **ID:** ifixit-laptop-cleaning-project
 - **Category:** Repair, restoration and modification
 - **Topics:** computer-repair-and-upgrades
 - **Format:** article
 - **Approach:** repair-walkthrough
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
+- **Level:** Intermediate
+- **Access:** open — The community guide is public; this does not establish that its safety sequence is adequate.
 - **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
-- **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Languages:** en
+- **Beginner suitability:** False
+- **Safety risk:** moderate
+- **Representative project:** [Start here](https://www.ifixit.com/Guide/How+to+Clean+the+Interior+of+a+Lenovo+Legion+Pro+5+16ARX8/188011)
 
 **Repair attributes**
 
-- **Object_type:** computer
+- **Object_type:** Lenovo Legion Pro 5 16ARX8
 - **Activities:** repair
-- **Device_specificity:** Unknown
+- **Device_specificity:** exact-model
 - **Replacement_parts:** Unknown
 - **Reversibility:** Unknown
-- **Risk_level:** Unknown
+- **Risk_level:** moderate
 - **Functional_checks:** Unknown
 
 **Safety**
 
-- Do not open mains, high-voltage, pressurized or damaged battery equipment without specialist training; stored energy can persist after power is disconnected.
+- Do not use this as a generic laptop cleaning recipe. Consult the exact-model manufacturer service instructions for internal power isolation and battery handling first.
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
+- [source evidence](https://www.ifixit.com/Guide/How+to+Clean+the+Interior+of+a+Lenovo+Legion+Pro+5+16ARX8/188011), 2026-10-30: Queue review: The six-step community guide is readable, but it does not address internal battery isolation before brushing the board/fan. Hold pending comparison with Lenovo’s exact-model service procedure and a clearer power/ESD safety review.
+
 
 **Original research occurrences**
 
@@ -1982,26 +2062,26 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## iFixit — Repair Skills
 
-[iFixit and guide contributors](https://www.ifixit.com/Device/Skills) — Tools, troubleshooting, repairs and soldering techniques. Varied skill levels; choose beginner techniques.
+[iFixit and guide contributors](https://www.ifixit.com/Device/Skills) — Practice repair techniques through sewing, troubleshooting and electronics skills guides.
 
 - **ID:** ifixit-repair-skills
 - **Category:** Repair, restoration and modification
 - **Topics:** electronics-repair, household-object-repair
 - **Format:** article
 - **Approach:** repair-walkthrough
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Varies
+- **Access:** open — Publisher instruction or activity material is publicly readable; tools, materials and optional paid extras are separate.
+- **Review:** source-checked / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** varies
 
 **Repair attributes**
 
@@ -2010,7 +2090,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Device_specificity:** Unknown
 - **Replacement_parts:** Unknown
 - **Reversibility:** Unknown
-- **Risk_level:** Unknown
+- **Risk_level:** varies
 - **Functional_checks:** Unknown
 
 **Safety**
@@ -2019,9 +2099,10 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Automated check on 2026-10-30 flagged possible-bot-block (HTTP 200). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
+- [source evidence](https://www.ifixit.com/Device/Basic_Sewing), 2026-10-30: Queue review: The public skills hub links basic sewing, troubleshooting, electronics and soldering techniques. The Basic Sewing section contains practical repair guides; the hub is not uniformly beginner-safe.
+
 
 **Original research occurrences**
 
@@ -2031,7 +2112,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## iFixit — Repairing and Upgrading Your Computer
 
-[iFixit / Repairing and Upgrading Your Computer authors](https://www.ifixit.com/Wiki/Repairing_and_Upgrading_Your_Computer) — Choose components, troubleshoot, repair and upgrade. Check exact hardware compatibility.
+[iFixit / Repairing and Upgrading Your Computer authors](https://www.ifixit.com/Wiki/Repairing_and_Upgrading_Your_Computer) — Read a computer-repair chapter directory with legacy hardware topics and compatibility guidance.
 
 - **ID:** ifixit-repairing-and-upgrading-your-computer
 - **Category:** Repair, restoration and modification
@@ -2039,18 +2120,18 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** article
 - **Approach:** repair-walkthrough, upgrade-or-modification
 - **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Access:** open — The public page is accessible as background/discovery; it is not a complete project recommendation.
+- **Review:** source-checked / reference-only
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
-- **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Languages:** en
+- **Beginner suitability:** False
+- **Safety risk:** varies
 
 **Repair attributes**
 
@@ -2059,7 +2140,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Device_specificity:** Unknown
 - **Replacement_parts:** Unknown
 - **Reversibility:** Unknown
-- **Risk_level:** Unknown
+- **Risk_level:** varies
 - **Functional_checks:** Unknown
 
 **Safety**
@@ -2068,8 +2149,10 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
+- [source evidence](https://www.ifixit.com/Wiki/Repairing_and_Upgrading_Your_Computer), 2026-10-30: Queue review: The public wiki is a chapter directory covering repair, components and upgrades, including legacy CRT and tape-drive topics. It is useful background, not a current model-specific upgrade procedure; compatibility and current safety guidance require separate checks.
+
 
 **Original research occurrences**
 
@@ -2079,26 +2162,27 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## iFixit — Retro Console Teardowns
 
-[iFixit](https://www.ifixit.com/News/9391/video-game-system-teardown) — Study and compare early video-game hardware. Read first rather than risking collectible devices.
+[iFixit](https://www.ifixit.com/News/9391/video-game-system-teardown) — Compare vintage-console internals through original teardowns; reassembly is not guaranteed.
 
 - **ID:** ifixit-retro-console-teardowns
 - **Category:** Repair, restoration and modification
 - **Topics:** device-teardown-and-reverse-engineering, electronics-repair
 - **Format:** article
 - **Approach:** teardown
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Varies
+- **Access:** open — The article and representative teardown are public. Tools, hardware and parts are separate; a teardown does not imply safe reassembly.
+- **Review:** source-checked / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
-- **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Languages:** en
+- **Beginner suitability:** False
+- **Safety risk:** varies
+- **Representative project:** [Start here](https://www.ifixit.com/Teardown/Game+Boy+Advance+Teardown/1904)
 
 **Repair attributes**
 
@@ -2107,18 +2191,19 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Device_specificity:** Unknown
 - **Replacement_parts:** Unknown
 - **Reversibility:** Unknown
-- **Risk_level:** Unknown
+- **Risk_level:** varies
 - **Functional_checks:** Unknown
 
 **Safety**
 
-- Do not open mains, high-voltage, pressurized or damaged battery equipment without specialist training; stored energy can persist after power is disconnected.
+- Remove external power and removable batteries as appropriate. Do not open mains power supplies or assume stored charge is gone; fragile collectibles can be damaged.
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Automated check on 2026-10-30 flagged possible-bot-block (HTTP 200). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
+- [source evidence](https://www.ifixit.com/Teardown/Game+Boy+Advance+Teardown/1904), 2026-10-30: Queue review: The curated article links original vintage-console teardowns, including a Game Boy Advance disassembly. Some other consoles contain hazardous power supplies. This is comparative teardown learning, not a complete restoration curriculum.
+
 
 **Original research occurrences**
 
@@ -2128,7 +2213,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Instructables — Studio Projects
 
-[Instructables and credited authors](https://www.instructables.com/Design-Studio-Class-Projects/) — Independent guided making. Lamps, mirrors, concrete and models.
+[Instructables and credited authors](https://www.instructables.com/Design-Studio-Class-Projects/) — A student design-project collection whose current content could not be inspected.
 
 - **ID:** instructables-studio-projects
 - **Category:** Art and design
@@ -2136,7 +2221,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** project-library
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Current complete free instructional access has not been established. See the dated review note.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -2151,9 +2236,10 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Automated check on 2026-10-30 flagged possible-bot-block (HTTP 200). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
+- [source evidence](https://www.instructables.com/Design-Studio-Class-Projects/), 2026-10-30: Queue review: Both text retrieval and a browser attempt exposed no usable collection content. The student-project collection’s completeness and current free access could not be established; this is not evidence that every destination is broken.
+
 
 **Original research occurrences**
 
@@ -2161,34 +2247,37 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 <a id="jackson-s-art-linocut"></a>
 
-## Jackson's Art — Linocut
+## Jackson’s Art — guide to linocut printmaking
 
-[Jackson’s Art](https://www.jacksonsart.com/blog/) — Carve and print an image. Linocut prints; search linocut.
+[Lisa Takahashi / Jackson’s Art](https://www.jacksonsart.com/blog/2024/10/11/a-guide-to-linocut-printmaking/) — Follow a chaptered film about transferring, carving, inking and printing a linocut.
 
 - **ID:** jackson-s-art-linocut
 - **Category:** Art and design
 - **Topics:** printmaking
-- **Format:** video, article
+- **Format:** article, video
 - **Approach:** guided-build
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Varies
+- **Access:** open — Publisher instruction or activity material is publicly readable; tools, materials and optional paid extras are separate.
+- **Review:** source-checked / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** moderate
+- **Representative project:** [Start here](https://www.jacksonsart.com/blog/2024/10/11/a-guide-to-linocut-printmaking/)
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
+- [source evidence](https://www.jacksonsart.com/blog/2024/10/11/a-guide-to-linocut-printmaking/), 2026-10-30: Queue review: Replaced the generic shop blog with the publisher’s free linocut film and chapter guide covering design transfer, carving, inking, printing and cleanup. The film was identified, not watched in full.
 - Automated check on 2026-10-30 flagged robots-unavailable-or-restricted. This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
+- Current publisher URL updated during the queue review; the original URL remains in provenance.
 
 **Original research occurrences**
 
@@ -2198,31 +2287,37 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Jo &amp; Co — Weave Your First Basket
 
-[Jo &amp; Co Reedworks](https://joandcoreedworks.com/journal/weave-your-first-basket) — From base to finished basket. Traditional basket weaving.
+[Jo &amp; Co Reedworks](https://joandcoreedworks.com/journal/weave-your-first-basket) — Follow basket-weaving techniques from base to finish with a separately selected pattern.
 
 - **ID:** jo-co-weave-your-first-basket
 - **Category:** Traditional crafts
 - **Topics:** weaving-and-basketry
 - **Format:** course
 - **Approach:** project-progression
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Varies
+- **Access:** mixed — Technique lessons are public; a suitable pattern is also needed. Monthly free patterns are linked, while kits and some patterns are paid.
+- **Review:** source-checked / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** moderate
+
+**Safety**
+
+- Use care with awls and cutters. Omit optional flame singeing for a first project and follow finish-product handling instructions.
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
+- [source evidence](https://joandcoreedworks.com/journal/weave-your-first-basket), 2026-10-30: Queue review: The public sequence covers base, sides, rim, handles and finish, but repeatedly expects a separate basket pattern for dimensions and choices. It links monthly free patterns as well as paid kits. A full pattern-plus-lessons build was not reviewed.
+
 
 **Original research occurrences**
 
@@ -2319,32 +2414,33 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Knopfsache — Handarbeit
 
-[Knopfsache](https://www.knopfsache.at/) — Project-first sewing and yarn arts. German-language craft projects.
+[Knopfsache / Gütermann (bottle-bag pattern)](https://www.knopfsache.at/) — Project-first sewing and yarn arts. German-language craft projects.
 
 - **ID:** knopfsache-handarbeit
 - **Category:** Traditional crafts
 - **Topics:** sewing-and-textile-arts
 - **Format:** patterns, article
 - **Approach:** pattern-or-plan
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Varies
+- **Access:** open — Publisher instruction or activity material is publicly readable; tools, materials and optional paid extras are separate.
+- **Review:** sample-reviewed / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** de
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** moderate
+- **Representative project:** [Start here](https://www.knopfsache.at/flaschentasche-naehen/)
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Homepage link: replace with a direct meaningful free tutorial before recommendation.
+- [sample evidence](https://www.knopfsache.at/wp-content/uploads/2023/10/Anleitung_Flaschentasche__DE_mail.pdf), 2026-10-30: Queue review: Followed the bottle-bag link to Gütermann’s four-page German PDF and inspected its complete seven-step sewing sequence, cutting diagram and supply list. The hub covers several needlecrafts; this sample is in German.
 - Automated check on 2026-10-30 flagged robots-unavailable-or-restricted. This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
 
 **Original research occurrences**
@@ -2353,9 +2449,9 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 <a id="learn-watchmaking-free-introductory-course"></a>
 
-## Learn Watchmaking — Free Introductory Course
+## Learn Watchmaking — limited free introductory course
 
-[Learn Watchmaking](https://learnwatchmaking.com/free-course/) — Observe movement disassembly and reassembly. Intro is free; advanced instruction may be paid; not a zero-cost craft.
+[Learn Watchmaking](https://learnwatchmaking.com/free-course/) — Explore a limited free introductory watchmaking course before considering specialist tools or paid training.
 
 - **ID:** learn-watchmaking-free-introductory-course
 - **Category:** Repair, restoration and modification
@@ -2363,16 +2459,16 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** course
 - **Approach:** project-progression
 - **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Access:** free-registration — The introductory signup is advertised as free; it is a limited introduction. Full courses, specialist tools and practice movements may cost money.
+- **Review:** source-checked / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** False
 - **Safety risk:** specialist-only
 
@@ -2392,9 +2488,10 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Source equipment note: Precision watch tools, inexpensive practice movement
+- [source evidence](https://learnwatchmaking.com/free-course/), 2026-10-30: Queue review: The publisher offers a limited free introductory course through name/email signup, separately from its paid Watchmaking 101 and masterclass. Enrollment and lesson playback were not tested; this is an offering-level check, not a complete watch-repair course review.
+
 
 **Original research occurrences**
 
@@ -2411,24 +2508,31 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Topics:** model-making-and-dioramas, model-railways
 - **Format:** course
 - **Approach:** guided-build
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Varies
+- **Access:** open — Publisher instruction or activity material is publicly readable; tools, materials and optional paid extras are separate.
+- **Review:** source-checked / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** moderate
+- **Representative project:** [Start here](https://lionelllc.wordpress.com/projects-and-tips/build-a-display-diorama/building-a-base-for-our-diorama-an-introduction-to-benchwork/)
+
+**Safety**
+
+- Use known safe new scenery materials; do not cut or sand unidentified old ceiling tiles or other salvaged construction products. Follow woodworking-tool and adhesive precautions.
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
+- [source evidence](https://lionelllc.wordpress.com/projects-and-tips/build-a-display-diorama/building-a-base-for-our-diorama-an-introduction-to-benchwork/), 2026-10-30: Queue review: The public ten-part display-diorama sequence links benchwork, landscape, roads, trees and finishing lessons. The base lesson was located; no complete sequence was reviewed. Some lessons use branded supplies or salvaged building materials.
+
 
 **Original research occurrences**
 
@@ -2438,37 +2542,38 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Maiwa — Guide to Natural Dyes
 
-[Maiwa](https://maiwa.com/pages/instruction-sheets) — Prepare fibers, mordant and create natural colors. Thorough technical grounding; includes indigo guide.
+[Maiwa](https://maiwa.com/pages/instruction-sheets) — Learn preparation, mordanting, dyeing and aftercare through Maiwa’s public natural-dye guide.
 
 - **ID:** maiwa-guide-to-natural-dyes
 - **Category:** Art and design
 - **Topics:** natural-dyes-and-pigments, sewing-and-textile-arts
 - **Format:** pdf
 - **Approach:** guided-build
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Varies
+- **Access:** open — The HTML guide is public without enrollment. A free PDF is linked but its redirect could not be retrieved during this review; dyes and utensils are separate.
+- **Review:** source-checked / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** moderate
+- **Representative project:** [Start here](https://naturaldyes.ca/guide)
 
 **Safety**
 
-- Use dedicated non-food dye vessels; check mordant instructions, ventilation and heat precautions.
+- Natural does not mean harmless. Check each dye and mordant’s handling guidance, use dedicated utensils and protect against hot liquids and powders.
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Source equipment note: Fiber, dye plant, dedicated dye pot and suitable mordant
-- Automated check on 2026-10-30 flagged http-error-manual-review (HTTP 429). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
+- [source evidence](https://naturaldyes.ca/dyeing), 2026-10-30: Queue review: Followed the supplier page to Maiwa’s public HTML guide and standard dyeing procedure, including preparation and aftercare links. The PDF redirect failed in this client; the HTML remains usable. A full fibre-specific recipe was not sampled.
+
 
 **Original research occurrences**
 
@@ -2478,7 +2583,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Maiwa — Natural Dye Tutorials
 
-[Maiwa](https://naturaldyes.ca/tutorials) — Prepare and dye fabric. Botanical colors and textiles.
+[Maiwa](https://naturaldyes.ca/tutorials) — Learn fibre preparation and natural-dye terminology through selected free technique lessons.
 
 - **ID:** maiwa-natural-dye-tutorials
 - **Category:** Art and design
@@ -2486,16 +2591,16 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** course
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Access:** free-registration — Selected technique lessons are labeled no charge on Teachable; an enrollment step is presented. Paid courses elsewhere are separate.
+- **Review:** source-checked / reference-only
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
 - **Safety risk:** Unknown
 
@@ -2505,9 +2610,10 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Automated check on 2026-10-30 flagged possible-bot-block (HTTP 200). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
+- [source evidence](https://maiwa.teachable.com/p/scouring), 2026-10-30: Queue review: The linked lessons teach fibre preparation and dye terminology, rather than one complete dye project. The Scouring enrollment page explicitly offers a no-charge course; enrollment was not performed. Use Maiwa’s separately listed public guide for a full process.
+
 
 **Original research occurrences**
 
@@ -2524,24 +2630,27 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Topics:** mechanical-engineering, industrial-and-product-design
 - **Format:** article
 - **Approach:** guided-build
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Varies
+- **Access:** mixed — The representative project is publicly readable. The publisher also sells magazines, kits and other content; inspect each chosen project.
+- **Review:** source-checked / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** varies
+- **Representative project:** [Start here](https://makezine.com/projects/cigar-box-guitar/)
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
+- [source evidence](https://makezine.com/projects/cigar-box-guitar/), 2026-10-30: Queue review: The project library is public and links substantive builds, including the separately catalogued cigar-box guitar. Optional magazine subscriptions and kit sales do not establish free access for every item.
+
 
 **Original research occurrences**
 
@@ -2551,36 +2660,38 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Make: — Cigar Box Guitar
 
-[Make: and credited project author](https://makezine.com/projects/cigar-box-guitar/) — Build a three-string cigar-box guitar. Slightly bigger build, printable workshop directions.
+[Mark Frauenfelder / Make:](https://makezine.com/projects/cigar-box-guitar/) — Build, fret, string and tune an acoustic three-string cigar-box guitar.
 
 - **ID:** make-cigar-box-guitar
 - **Category:** Traditional crafts
 - **Topics:** musical-instrument-making, woodworking
 - **Format:** article
 - **Approach:** guided-build
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Intermediate
+- **Access:** open — Complete illustrated web instructions are public. Materials and hardware cost money; older supplier links and prices may be obsolete.
+- **Review:** sample-reviewed / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
-- **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Languages:** en
+- **Beginner suitability:** False
+- **Safety risk:** moderate
+- **Representative project:** [Start here](https://makezine.com/projects/cigar-box-guitar/)
 
 **Safety**
 
-- Sharp edges, secure workholding and dust control require care; follow project-specific precautions.
+- Follow the acoustic build only. Omit the optional cut-glass slide and smoke-alarm salvage suggestions. Buy a slide or piezo component; use eye protection, secure work and smooth fret ends.
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Source equipment note: Box, wood, hardware and basic hand tools
+- [sample evidence](https://makezine.com/projects/cigar-box-guitar/), 2026-10-30: Queue review: Inspected the complete acoustic three-string build through neck, frets, hardware, stringing and tuning. The old optional extensions suggest cutting glass and salvaging smoke alarms; omit those and use purpose-made parts. Historical prices are not current estimates.
+
 
 **Original research occurrences**
 
@@ -2590,7 +2701,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Makers Making Change
 
-[Makers Making Change](https://www.makersmakingchange.com/assistive-devices) — Reproduce functional assistive object. Adapted controls, practical aids.
+[Makers Making Change](https://www.makersmakingchange.com/assistive-devices) — Explore documented assistive-device designs; account-gated files and current parts need review.
 
 - **ID:** makers-making-change
 - **Category:** Engineering and technology
@@ -2598,24 +2709,29 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** patterns
 - **Approach:** design-challenge
 - **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** free-registration — Public overviews; registration and terms agreement are required for project files. Full file access was not tested. Materials and fabrication cost money.
 - **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
 - **Safety risk:** Unknown
 
+**Safety**
+
+- Assistive devices need suitability, fit, hygiene and failure-mode assessment with their intended user. Do not assume a community design is clinically validated.
+
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Automated check on 2026-10-30 flagged possible-bot-block (HTTP 200). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
+- [source evidence](https://www.makersmakingchange.com/product/adaptive-utensil-handles-for-ikea-identitet/01tJR000008gxv7YAA), 2026-10-30: Queue review: The assistive-device library is public, but project-file links require registration and agreement to its terms. The inspected IKEA utensil-handle example depends on discontinued cutlery, so it is not a reproducible current starter project.
+
 
 **Original research occurrences**
 
@@ -2623,34 +2739,37 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 <a id="mathworks-academy"></a>
 
-## MathWorks Academy
+## MathWorks — Control Design Onramp with Simulink
 
-[MathWorks](https://matlabacademy.mathworks.com/) — Model and tune control loops. Control systems; check free module.
+[MathWorks](https://matlabacademy.mathworks.com/details/control-design-onramp-with-simulink/controls) — Model a physical system, tune feedback control and simulate a robotic leg in an interactive Onramp.
 
 - **ID:** mathworks-academy
 - **Category:** Engineering and technology
 - **Topics:** control-systems
-- **Format:** interactive, course
+- **Format:** course, interactive
 - **Approach:** interactive-lab
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Intermediate
+- **Access:** free-registration — The Onramp is advertised as free and browser-based with a MathWorks account. Other academy courses and desktop software are not necessarily free.
+- **Review:** source-checked / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
-- **Duration:** Unknown
+- **Duration:** Publisher estimate: two hours for the Onramp, not a measured completion time.
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** low
+- **Representative project:** [Start here](https://matlabacademy.mathworks.com/details/control-design-onramp-with-simulink/controls)
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Homepage link: replace with a direct meaningful free tutorial before recommendation.
+- [source evidence](https://www.mathworks.com/videos/control-design-onramp-with-simulink-overview-1628486784656.html), 2026-10-30: Queue review: Narrowed the broad academy to Control Design Onramp with Simulink. The official overview confirms a free browser-based interactive robotic-leg control exercise; the account-gated exercises were not completed.
+- [source evidence](https://matlabacademy.mathworks.com/details/control-design-onramp-with-simulink/controls), 2026-10-30: Official course outline identifies PID tuning and the robotic-leg project; English and self-paced delivery are explicit.
+- Current publisher URL updated during the queue review; the original URL remains in provenance.
 
 **Original research occurrences**
 
@@ -2660,7 +2779,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Michaels — Free Projects
 
-[Michaels](https://www.michaels.com/projects) — Complete craft make. Various arts and crafts.
+[Michaels](https://www.michaels.com/projects) — Browse a craft project hub; complete free instructions for a representative make need review.
 
 - **ID:** michaels-free-projects
 - **Category:** Traditional crafts
@@ -2668,7 +2787,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** video, article
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Current complete free instructional access has not been established. See the dated review note.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -2683,8 +2802,9 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
+- [source evidence](https://www.michaels.com/projects), 2026-10-30: Queue review: The project hub advertises free instructions, but its beginner results returned an empty shell and a browser attempt returned Access Denied. Complete free project instructions could not be inspected; Creativebug classes are a separate offer.
 - Automated check on 2026-10-30 flagged robots-unavailable-or-restricted. This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
 
 **Original research occurrences**
@@ -2693,28 +2813,29 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 <a id="miller-welding-project-ideas"></a>
 
-## Miller — Welding Project Ideas
+## Miller / Josh Welton — welded dog-bowl stand plan
 
-[Miller](https://www.millerwelds.com/resources/project-ideas) — Make metal objects. Requires suitable welding workshop.
+[Josh Welton / Miller Electric](https://www.millerwelds.com/-/media/miller-electric/files/pdf/articles/dogbowlstand_projectplan.pdf) — Cut, weld and braze a steel dog-bowl stand from a two-page plan for a trained fabricator.
 
 - **ID:** miller-welding-project-ideas
 - **Category:** Traditional crafts
 - **Topics:** metalworking-and-blacksmithing
-- **Format:** patterns
-- **Approach:** pattern-or-plan
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Format:** pdf
+- **Approach:** pattern-or-plan, guided-build
+- **Level:** Intermediate
+- **Access:** open — Publisher instruction or activity material is publicly readable; tools, materials and optional paid extras are separate.
+- **Review:** sample-reviewed / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** False
 - **Safety risk:** specialist-only
+- **Representative project:** [Start here](https://www.millerwelds.com/-/media/miller-electric/files/pdf/articles/dogbowlstand_projectplan.pdf)
 
 **Safety**
 
@@ -2722,9 +2843,10 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Automated check on 2026-10-30 flagged http-error-manual-review, possible-bot-block (HTTP 404). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
+- [sample evidence](https://www.millerwelds.com/-/media/miller-electric/files/pdf/articles/dogbowlstand_projectplan.pdf), 2026-10-30: Queue review: Inspected both pages of Josh Welton’s dog-bowl-stand plan, including tools, cutting, edge preparation, tacking and TIG brazing. The publisher’s Beginner+ label assumes welding competence; plasma cutting and welding remain specialist activities.
+- Current publisher URL updated during the queue review; the original URL remains in provenance.
 
 **Original research occurrences**
 
@@ -2734,31 +2856,33 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## MIT — How to Make (Almost) Anything
 
-[MIT Center for Bits and Atoms](https://fab.cba.mit.edu/classes/863.25/) — Weekly fabrication projects. CAD, CNC, molds, machines.
+[MIT Center for Bits and Atoms](https://fab.cba.mit.edu/classes/863.25/) — Study an advanced fabrication class archive, lectures and student project documentation.
 
 - **ID:** mit-how-to-make-almost-anything
 - **Category:** Engineering and technology
 - **Topics:** 3d-printing-and-digital-fabrication, 3d-modeling-and-cad, industrial-and-product-design
 - **Format:** course, project-library
 - **Approach:** project-progression
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Advanced
+- **Access:** open — The public page is accessible as background/discovery; it is not a complete project recommendation.
+- **Review:** source-checked / reference-only
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
-- **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Languages:** en
+- **Beginner suitability:** False
+- **Safety risk:** varies
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
+- [source evidence](https://fab.cba.mit.edu/classes/863.25/), 2026-10-30: Queue review: This is the public 2025 MIT class archive: a schedule, lectures and student documentation. It is not an independently packaged beginner course and does not include workshop access or guarantee complete instructions for every student project.
+
 
 **Original research occurrences**
 
@@ -2844,46 +2968,11 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 - Row 55: [Nand2Tetris](https://www.nand2tetris.org/) — Start here: no-pressure approach / Resources by topic / AI, cybersecurity, programming and games. Setup: Computer.
 
-<a id="nasa-jpl-activities"></a>
-
-## NASA JPL — Activities
-
-[NASA Jet Propulsion Laboratory](https://www.jpl.nasa.gov/edu/teach/activity/) — Build-test-improve challenges. Paper helicopters, rovers.
-
-- **ID:** nasa-jpl-activities
-- **Category:** Science and experiments
-- **Topics:** scientific-experiments, mechanical-engineering
-- **Format:** article
-- **Approach:** design-challenge
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
-- **Tools:** Unknown
-- **Materials:** Unknown
-- **Workspace:** Unknown
-- **Duration:** Unknown
-- **Cost band:** Unknown
-- **Screen time:** Unknown
-- **Languages:** Unknown
-- **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
-
-**Evidence and editorial notes**
-
-- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Automated check on 2026-10-30 flagged http-error-manual-review (HTTP 403). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
-
-**Original research occurrences**
-
-- Row 31: [NASA JPL — Activities](https://www.jpl.nasa.gov/edu/teach/activity/) — Start here: no-pressure approach / Resources by topic / Mechanics, science and experiments. Setup: Low.
-
 <a id="nasa-build-your-own-spectrograph"></a>
 
-## NASA — Build Your Own Spectrograph
+## NASA / Stanford — spectroscopy curriculum (legacy kit)
 
-[NASA](https://www.nasa.gov/stem-content/build-your-own-spectrograph/) — Build an instrument to separate light spectra. Excellent hands-on optics; never point improvised optics at the Sun.
+[NASA](https://www.nasa.gov/stem-content/build-your-own-spectrograph/) — Study spectroscopy curriculum that refers to a kit Stanford no longer supplies.
 
 - **ID:** nasa-build-your-own-spectrograph
 - **Category:** Science and experiments
@@ -2891,38 +2980,76 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** article
 - **Approach:** experimental-learning
 - **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Access:** open — NASA’s directory page and Stanford curriculum are public. The referenced poster/grating kit is no longer supplied; a currently reproducible build route was not established.
+- **Review:** source-checked / reference-only
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
-- **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Languages:** en
+- **Beginner suitability:** False
+- **Safety risk:** moderate
 
 **Safety**
 
-- Never use improvised optics for direct solar viewing; protect hands while cutting.
+- Never look at the Sun or bright lasers through an improvised spectroscope. Retained for curriculum reference, not as a ready-to-build kit recommendation.
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Source equipment note: Cardboard, slit, diffraction grating
+- [source evidence](https://solar-center.stanford.edu/activities/cots.html), 2026-10-30: Queue review: Followed NASA’s link to Stanford Solar Center. Stanford explicitly says its spectrograph kits are no longer available; its study guides remain public. The original generic DIY-instrument description hid this materials barrier.
+
 
 **Original research occurrences**
 
 - Row 98: [NASA — Build Your Own Spectrograph](https://www.nasa.gov/stem-content/build-your-own-spectrograph/) — Start here: no-pressure approach / Deep Dive — Twelve Beautiful Crafts to Explore / Optical instruments and light. Setup: Low.
 
+<a id="nasa-jpl-activities"></a>
+
+## NASA JPL — Activities
+
+[NASA Jet Propulsion Laboratory](https://www.jpl.nasa.gov/edu/resources/collection/engineering-in-the-classroom/ngss-engineering-grades-k-2/) — Explore JPL’s engineering activities, including a paper-helicopter build-and-test project.
+
+- **ID:** nasa-jpl-activities
+- **Category:** Science and experiments
+- **Topics:** scientific-experiments, mechanical-engineering
+- **Format:** article
+- **Approach:** design-challenge
+- **Level:** Varies
+- **Access:** open — Project pages and printable student worksheets are public. No course registration or kit purchase is required for the paper-helicopter example.
+- **Review:** source-checked / listed
+- **Last independently verified:** 2026-10-30
+- **Tools:** Unknown
+- **Materials:** Unknown
+- **Workspace:** Unknown
+- **Duration:** Unknown
+- **Cost band:** Unknown
+- **Screen time:** Unknown
+- **Languages:** en
+- **Beginner suitability:** Unknown
+- **Safety risk:** low
+- **Representative project:** [Start here](https://www.jpl.nasa.gov/edu/resources/project/make-a-paper-mars-helicopter-2/)
+
+**Evidence and editorial notes**
+
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
+- [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
+- [source evidence](https://www.jpl.nasa.gov/edu/pdfs/paperhelicopter_worksheet.pdf), 2026-10-30: Queue review: The old activity index failed retrieval. Recovered a current JPL education project with a public paper-helicopter worksheet and design-test instructions; classroom standards do not require live participation.
+- Current publisher URL updated during the queue review; the original URL remains in provenance.
+
+**Original research occurrences**
+
+- Row 31: [NASA JPL — Activities](https://www.jpl.nasa.gov/edu/teach/activity/) — Start here: no-pressure approach / Resources by topic / Mechanics, science and experiments. Setup: Low.
+
 <a id="nmra-beginner-guide"></a>
 
 ## NMRA — Beginner Guide
 
-[National Model Railroad Association](https://www.nmra.org/node/4367) — Plan layouts, learn tracks, scenery, operations. Authoritative modeling association; start with scenery alone.
+[National Model Railroad Association](https://www.nmra.org/node/4367) — Plan a model railway and learn equipment, scenery and layout terminology.
 
 - **ID:** nmra-beginner-guide
 - **Category:** Art and design
@@ -2930,24 +3057,25 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** article
 - **Approach:** pattern-or-plan
 - **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Access:** open — The public page is accessible as background/discovery; it is not a complete project recommendation.
+- **Review:** source-checked / reference-only
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
 - **Safety risk:** Unknown
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Source equipment note: Train track and layout when progressing
+- [source evidence](https://www.nmra.org/node/4367), 2026-10-30: Queue review: The NMRA guide explains scale, equipment selection, rolling stock, scenery and layout planning. Its opening chapter is a reference and roadmap, not one complete stand-alone construction project.
+
 
 **Original research occurrences**
 
@@ -2957,7 +3085,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## NODE — Make it Yourself
 
-[NODE / Make it Yourself (discovery index)](https://makeityourself.org/) — Browse creators and build links. Wide-ranging maker inspiration.
+[NODE / Make it Yourself (discovery index)](https://makeityourself.org/) — Discover original makers through a free book of project links rather than embedded instructions.
 
 - **ID:** node-make-it-yourself
 - **Category:** Engineering and technology
@@ -2965,24 +3093,24 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** project-library
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** open — The public page is accessible as background/discovery; it is not a complete project recommendation.
 - **Review:** source-checked / reference-only
-- **Last independently verified:** Unknown
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
 - **Safety risk:** Unknown
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `reference-only`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Homepage link: replace with a direct meaningful free tutorial before recommendation.
+- [source evidence](https://makeityourself.org/), 2026-10-30: Queue review: The free digital book is a discovery collection of links to original makers. It explicitly does not contain the project instructions itself; availability and equipment on destination sites vary.
 - Reference, overview or discovery index; not a complete standalone project.
 
 **Original research occurrences**
@@ -2993,17 +3121,17 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Onshape Learning Center
 
-[Onshape](https://learn.onshape.com/) — Sketch, build and assemble. Parametric CAD; free tier conditions.
+[Onshape](https://learn.onshape.com/) — Practice parametric CAD with free-account lessons; the hobbyist plan uses public documents.
 
 - **ID:** onshape-learning-center
 - **Category:** Engineering and technology
 - **Topics:** 3d-modeling-and-cad
 - **Format:** course
 - **Approach:** project-progression
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Varies
+- **Access:** restricted-free-tier — Learning Center access requires a free Onshape account. The hobbyist Free plan is non-commercial and makes documents public; eligible education plans differ.
+- **Review:** source-checked / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
@@ -3012,14 +3140,15 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Screen time:** Unknown
 - **Languages:** Unknown
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** low
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Homepage link: replace with a direct meaningful free tutorial before recommendation.
-- Automated check on 2026-10-30 flagged possible-access-restriction (HTTP 200). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
+- [source evidence](https://www.onshape.com/en/education/student-resources), 2026-10-30: Queue review: Official Onshape documentation confirms free self-paced exercises with an account. The hobbyist CAD plan is non-commercial and stores designs publicly. Account creation and a complete lesson were not performed.
+- [source evidence](https://www.onshape.com/en/blog/understand-your-cad-plan), 2026-10-30: Official plan explanation: the hobbyist Free plan is non-commercial and documents are public; eligible education plans differ.
+
 
 **Original research occurrences**
 
@@ -3157,26 +3286,26 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Patagonia — Product Care and Repair
 
-[Patagonia](https://eu.patagonia.com/gb/en/product-care.html) — Buttons, buckles, zippers, patches. Choose a real damaged item; concise repair demonstrations.
+[Patagonia](https://eu.patagonia.com/gb/en/product-care/) — Learn clothing and ordinary-gear repairs through public videos for buttons, tape, buckles and zippers.
 
 - **ID:** patagonia-product-care-and-repair
 - **Category:** Repair, restoration and modification
 - **Topics:** clothing-repair, sewing-and-textile-arts, sustainable-living
 - **Format:** video, article
 - **Approach:** repair-walkthrough
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Varies
+- **Access:** open — Repair demonstrations are publicly linked. Repair tape, replacement parts and any service charges are separate; regional availability can differ.
+- **Review:** source-checked / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** moderate
 
 **Repair attributes**
 
@@ -3185,13 +3314,19 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Device_specificity:** Unknown
 - **Replacement_parts:** Unknown
 - **Reversibility:** Unknown
-- **Risk_level:** Unknown
+- **Risk_level:** moderate
 - **Functional_checks:** Unknown
+
+**Safety**
+
+- Use these for ordinary clothing and gear. Do not extend cosmetic repair guidance to climbing protection, load-bearing straps or other life-safety equipment.
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
+- [source evidence](https://eu.patagonia.com/gb/en/product-care/), 2026-10-30: Queue review: The current care page redirects to a slash URL and links public videos for buttons, zipper sliders, buckles and repair tape. Product sales and repair-service bookings are separate; no full video was watched.
+- Current publisher URL updated during the queue review; the original URL remains in provenance.
 
 **Original research occurrences**
 
@@ -3208,19 +3343,20 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Topics:** woodworking
 - **Format:** video, patterns
 - **Approach:** pattern-or-plan
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Varies
+- **Access:** open — Publisher instruction or activity material is publicly readable; tools, materials and optional paid extras are separate.
+- **Review:** source-checked / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** moderate
+- **Representative project:** [Start here](https://paulsellers.com/making-the-paul-sellers-router-plane-from-a-kit/)
 
 **Safety**
 
@@ -3228,9 +3364,10 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Automated check on 2026-10-30 flagged http-error-manual-review (HTTP 403). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
+- [source evidence](https://paulsellers.com/making-the-paul-sellers-router-plane-from-a-kit/), 2026-10-30: Queue review: The free tutorial index links router-plane drawings, parts lists and public build sections. Optional metal-parts kits and subscription courses are separate; the complete build was not inspected.
+
 
 **Original research occurrences**
 
@@ -3342,24 +3479,26 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Topics:** scientific-experiments, mechanical-engineering, sustainable-living
 - **Format:** article
 - **Approach:** design-challenge
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Varies
+- **Access:** open — Public challenge pages link downloadable instructions and worksheets; awards and live activities are optional.
+- **Review:** source-checked / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** moderate
+- **Representative project:** [Start here](https://practicalaction.org/schools/floating-garden-challenge/)
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
+- [source evidence](https://practicalaction.org/schools/floating-garden-challenge/), 2026-10-30: Queue review: The Floating Garden challenge offers free home-learning and teacher guides plus pupil design/evaluation sheets. The publisher explicitly supports learning at home; a complete downloaded worksheet has not been inspected.
 - Automated check on 2026-10-30 flagged network-error-manual-review. This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
 
 **Original research occurrences**
@@ -3370,33 +3509,34 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Raspberry Pi Projects
 
-[Raspberry Pi Foundation](https://projects.raspberrypi.org/) — Make interactive objects. Physical computing and creative tech.
+[Raspberry Pi Foundation](https://projects.raspberrypi.org/) — Create coding, games and physical-computing projects through free step-by-step pathways.
 
 - **ID:** raspberry-pi-projects
 - **Category:** Engineering and technology
 - **Topics:** electronics, embedded-systems
 - **Format:** article
 - **Approach:** guided-build
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Varies
+- **Access:** open — Publisher instruction or activity material is publicly readable; tools, materials and optional paid extras are separate.
+- **Review:** source-checked / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** varies
+- **Representative project:** [Start here](https://projects.raspberrypi.org/en/projects/about-me)
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Current fetch returned a JavaScript-required shell; project steps need browser review.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Homepage link: replace with a direct meaningful free tutorial before recommendation.
+- [source evidence](https://projects.raspberrypi.org/en/projects/about-me), 2026-10-30: Queue review: Official project pages and indexed step-by-step material confirm free coding and physical-computing pathways. Scratch projects can run on an ordinary computer; the library is not restricted to buying a Raspberry Pi.
+
 
 **Original research occurrences**
 
@@ -3406,41 +3546,47 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## REI — Sleeping Bag Zipper
 
-[REI Co-op](https://www.rei.com/learn/expert-advice/sleeping-bag-zipper.html) — Replace a broken zipper slider. Simple tangible restoration of function.
+[REI Co-op](https://www.rei.com/learn/expert-advice/sleeping-bag-zipper.html) — Replace a sleeping-bag zipper slider and stopper, then check the zipper’s operation.
 
 - **ID:** rei-sleeping-bag-zipper
 - **Category:** Repair, restoration and modification
 - **Topics:** outdoor-equipment-repair
 - **Format:** video, article
 - **Approach:** repair-walkthrough
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
-- **Tools:** Unknown
-- **Materials:** Unknown
+- **Level:** Beginner
+- **Access:** open — Complete illustrated instructions and a linked video are free; correctly matched replacement sliders and a stopper must be sourced.
+- **Review:** sample-reviewed / listed
+- **Last independently verified:** 2026-10-30
+- **Tools:** End nippers, Needle-nose pliers
+- **Materials:** Matching replacement zipper sliders, New zipper stopper
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
-- **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Languages:** en
+- **Beginner suitability:** True
+- **Safety risk:** moderate
+- **Representative project:** [Start here](https://www.rei.com/learn/expert-advice/sleeping-bag-zipper.html)
 
 **Repair attributes**
 
-- **Object_type:** outdoor equipment
+- **Object_type:** Sleeping-bag zipper with worn or missing slider and undamaged teeth
 - **Activities:** repair
-- **Device_specificity:** Unknown
-- **Replacement_parts:** Unknown
-- **Reversibility:** Unknown
-- **Risk_level:** Unknown
-- **Functional_checks:** Unknown
+- **Device_specificity:** general-technique
+- **Replacement_parts:** Correctly matched zipper slider(s), Replacement zipper stopper
+- **Reversibility:** partly-reversible
+- **Risk_level:** moderate
+- **Functional_checks:** Open and close the zipper several times and check it joins the teeth smoothly.
+
+**Safety**
+
+- Avoid cutting the bag fabric or over-crimping the stopper/slider. Seek a repair service for damaged zipper teeth or unavailable matching parts.
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
+- [sample evidence](https://www.rei.com/learn/expert-advice/sleeping-bag-zipper.html), 2026-10-30: Queue review: Inspected the full slider-replacement walkthrough, parts matching, stopper removal/refitting and zip-open/closed checks. Crimping a worn slider is explicitly temporary; damaged teeth require a different repair.
 - Automated check on 2026-10-30 flagged network-error-manual-review. This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
 
 **Original research occurrences**
@@ -3505,7 +3651,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Restarters Wiki — Repair Principles
 
-[Restarters community](https://wiki.restarters.net/Help) — Learn generalized diagnosis and how machines work. General principles, not device-specific teardown instructions.
+[Restarters community](https://wiki.restarters.net/Help) — Read general repair principles rather than model-specific disassembly or repair procedures.
 
 - **ID:** restarters-wiki-repair-principles
 - **Category:** Repair, restoration and modification
@@ -3513,16 +3659,16 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** article
 - **Approach:** teardown
 - **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** open — The wiki is public to read. Registration is needed to contribute; device-specific diagnosis needs other instructions.
 - **Review:** source-checked / reference-only
-- **Last independently verified:** Unknown
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
 - **Safety risk:** Unknown
 
@@ -3542,8 +3688,9 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `reference-only`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
+- [source evidence](https://wiki.restarters.net/Help), 2026-10-30: Queue review: The wiki explicitly teaches general repair principles and says it does not provide make/model repair instructions. Reading is public; an account is needed to contribute, not to read.
 - Reference, overview or discovery index; not a complete standalone project.
 
 **Original research occurrences**
@@ -3554,32 +3701,34 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Restoring What Was Lost — Free 1:36 Paper Models
 
-[Restoring What Was Lost](https://restoringwhatwaslost.com/printables) — Print, cut and assemble historical structures/aircraft. No signup or payment; designs share approximate scale.
+[Restoring What Was Lost History Workshop](https://restoringwhatwaslost.com/printables) — Print and assemble historical paper display models from templates and assembly directions.
 
 - **ID:** restoring-what-was-lost-free-1-36-paper-models
 - **Category:** Art and design
 - **Topics:** miniature-architecture, model-making-and-dioramas, paper-crafts-and-origami
 - **Format:** pdf
 - **Approach:** guided-build
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
-- **Tools:** Unknown
-- **Materials:** Unknown
+- **Level:** Varies
+- **Access:** open — The model PDFs are public without payment or signup; paper, printing and tools are separate.
+- **Review:** sample-reviewed / listed
+- **Last independently verified:** 2026-10-30
+- **Tools:** Printer, Ruler, Scissors or craft knife
+- **Materials:** Medium cardstock, Glue
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** moderate
+- **Representative project:** [Start here](https://restoringwhatwaslost.com/downloads/educational-models/sellers-quadroplane-1-36.pdf)
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Source equipment note: Printer, paper, glue
+- [sample evidence](https://restoringwhatwaslost.com/downloads/educational-models/sellers-quadroplane-1-36.pdf), 2026-10-30: Queue review: Inspected all five pages of the Sellers Quadroplane display-model PDF, including print-scale checks, parts, wing order, dry-fitting and final assembly. The model is explicitly not designed to fly.
+
 
 **Original research occurrences**
 
@@ -3624,36 +3773,38 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Rit — Dye Techniques
 
-[Rit](https://www.ritdye.com/techniques/) — Color experiments on fabric. Tie dye and gradients.
+[Rit](https://www.ritdye.com/techniques/) — Practice fabric dyeing with commercial dye techniques and product-specific instructions.
 
 - **ID:** rit-dye-techniques
-- **Category:** Art and design
-- **Topics:** natural-dyes-and-pigments, sewing-and-textile-arts
-- **Format:** article
-- **Approach:** guided-build
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Category:** Traditional crafts
+- **Topics:** sewing-and-textile-arts
+- **Format:** article, video, project-library
+- **Approach:** guided-build, experimental-learning
+- **Level:** Varies
+- **Access:** open — Public instructions are free. Dyes and optional finishing products are purchased separately.
+- **Review:** sample-reviewed / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** moderate
+- **Representative project:** [Start here](https://www.ritdye.com/instructions/how-to-dye-using-the-sink-or-bucket-method/)
 
 **Safety**
 
-- Use dedicated non-food dye vessels; check mordant instructions, ventilation and heat precautions.
+- Use gloves, protect against hot-water burns, and follow dye labels. Keep dye utensils separate from food use.
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Automated check on 2026-10-30 flagged http-error-manual-review (HTTP 403). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
+- [sample evidence](https://www.ritdye.com/instructions/how-to-dye-using-the-sink-or-bucket-method/), 2026-10-30: Queue review: Inspected the complete sink/bucket dyeing procedure from fabric preparation through rinsing and washing. These are commercial synthetic dye techniques, not a natural-dye course; fibre compatibility and hot-water precautions matter.
+
 
 **Original research occurrences**
 
@@ -3705,32 +3856,34 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Science Buddies — Projects
 
-[Science Buddies](https://www.sciencebuddies.org/science-fair-projects/project-ideas) — Hypothesis, measure and interpret. Science and engineering experiments.
+[Science Buddies](https://www.sciencebuddies.org/science-fair-projects/science-projects) — Hypothesis, measure and interpret. Science and engineering experiments.
 
 - **ID:** science-buddies-projects
 - **Category:** Science and experiments
 - **Topics:** scientific-experiments, mechanical-engineering
 - **Format:** project-library
 - **Approach:** experimental-learning
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Varies
+- **Access:** open — Publisher instruction or activity material is publicly readable; tools, materials and optional paid extras are separate.
+- **Review:** source-checked / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** varies
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
+- [source evidence](https://www.sciencebuddies.org/science-fair-projects/science-projects), 2026-10-30: Queue review: The current publisher project-ideas index redirects to science-projects and offers public hands-on project descriptions by subject and grade. This is source-checked only; project-specific supervision and optional kit requirements vary.
 - Automated check on 2026-10-30 flagged robots-unavailable-or-restricted. This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
+- Current publisher URL updated during the queue review; the original URL remains in provenance.
 
 **Original research occurrences**
 
@@ -3740,7 +3893,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Sculpd Clay School — Free Basics
 
-[Sculpd](https://www.sculpd.ca/pages/clay-school) — Make air-dry pinch pots, coil pots and texture objects. Good apartment-friendly version; air-dry pieces are decorative, not food-safe fired ware.
+[Sculpd](https://www.sculpd.ca/pages/clay-school) — A regional clay-course lead whose current address, free instruction and kit requirements are unresolved.
 
 - **ID:** sculpd-clay-school-free-basics
 - **Category:** Traditional crafts
@@ -3748,7 +3901,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** video
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Current complete free instructional access has not been established. See the dated review note.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -3767,10 +3920,10 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Source equipment note: Air-dry clay, small sculpting tools
-- Automated check on 2026-10-30 flagged http-error-manual-review (HTTP 429). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
+- [source evidence](https://www.sculpd.ca/pages/clay-school), 2026-10-30: Queue review: The regional Clay School URL could not be retrieved and targeted official-site search did not recover a verifiable course. Complete free lesson access, kit dependence and the current canonical address remain unresolved.
+
 
 **Original research occurrences**
 
@@ -3780,32 +3933,38 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Sculpey Projects
 
-[Sculpey](https://www.sculpey.com/blogs/blog) — Shape and bake polymer clay. Miniatures, ornaments; search projects.
+[Sculpey / Amy Koranek (representative ornament)](https://www.sculpey.com/collections/how-to) — Make polymer-clay ornaments and other objects with public step-by-step project instructions.
 
 - **ID:** sculpey-projects
 - **Category:** Art and design
 - **Topics:** sculpture
 - **Format:** article
 - **Approach:** guided-build
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Varies
+- **Access:** open — The inspected eighteen-step web project is free without checkout or login, despite nominal product prices in the collection. Clay, tools and other supplies are paid.
+- **Review:** sample-reviewed / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** moderate
+- **Representative project:** [Start here](https://www.sculpey.com/collections/how-to/products/sculpey-iii%C2%AE-nature-tree-ornament)
+
+**Safety**
+
+- Follow the clay package’s curing temperature, time and ventilation instructions. The sample uses hot glue and a rotary drill; do not bake the sticks or use a microwave.
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Automated check on 2026-10-30 flagged http-error-manual-review (HTTP 429). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
+- [sample evidence](https://www.sculpey.com/collections/how-to/products/sculpey-iii%C2%AE-nature-tree-ornament), 2026-10-30: Queue review: Recovered the actual how-to collection and inspected all eighteen Nature Tree Ornament steps in a browser, including clay preparation, curing, assembly and hanging. The collection displays nominal product prices, but complete web instructions required no checkout or login.
+- Current publisher URL updated during review; the old blog address remains in provenance.
 
 **Original research occurrences**
 
@@ -3822,25 +3981,27 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Topics:** sewing-and-textile-arts
 - **Format:** patterns, article
 - **Approach:** pattern-or-plan
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
-- **Tools:** Unknown
-- **Materials:** Unknown
+- **Level:** Beginner
+- **Access:** mixed — The representative web tutorial is complete and free; paid downloadable collections and affiliate links are optional.
+- **Review:** sample-reviewed / listed
+- **Last independently verified:** 2026-10-30
+- **Tools:** Sewing machine, Iron, Scissors or rotary cutter, Ruler, Pins, Marking pencil
+- **Materials:** Fabric for exterior and lining, Thread
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** moderate
+- **Representative project:** [Start here](https://sewcanshe.com/simple-japanese-style-square-bag-free-sewing-pattern-in-2-sizes/)
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Automated check on 2026-10-30 flagged http-error-manual-review (HTTP 403). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
+- [sample evidence](https://sewcanshe.com/simple-japanese-style-square-bag-free-sewing-pattern-in-2-sizes/), 2026-10-30: Queue review: Inspected the complete Japanese-style square-bag tutorial, including cutting, straps, darts and assembly. Free web instructions sit alongside affiliate supply links and optional paid printable collections.
+
 
 **Original research occurrences**
 
@@ -3850,7 +4011,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Sewing Doc Academy — Vintage Sewing Machine
 
-[Sewing Doc Academy](https://asbarney.wixsite.com/mysite/vsm-basics) — Inspect, clean, lubricate and adjust a mechanical machine. Mechanical beauty; electrical faults need professional attention.
+[Sewing Doc Academy](https://asbarney.wixsite.com/mysite/vsm-basics) — A vintage sewing-machine maintenance series whose free playback path remains unconfirmed.
 
 - **ID:** sewing-doc-academy-vintage-sewing-machine
 - **Category:** Repair, restoration and modification
@@ -3858,7 +4019,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** video, course
 - **Approach:** restoration
 - **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Current complete free instructional access has not been established. See the dated review note.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -3883,13 +4044,14 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Safety**
 
-- Do not open mains, high-voltage, pressurized or damaged battery equipment without specialist training; stored energy can persist after power is disconnected.
+- Keep electrical fault repair separate from cleaning and lubrication. Disconnect power before mechanical maintenance and use the machine’s own service instructions.
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Automated check on 2026-10-30 flagged possible-bot-block (HTTP 200). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
+- [source evidence](https://asbarney.wixsite.com/mysite/vsm-basics), 2026-10-30: Queue review: The legacy page advertises three hours of free vintage-machine instruction, but exposes image thumbnails without usable lesson links in text retrieval. Playback and account conditions remain unconfirmed; electrical checks require qualified help.
+
 
 **Original research occurrences**
 
@@ -3950,7 +4112,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Sewing4Free — Bags
 
-[Sewing4Free](https://sewing4free.com/bags/) — Templates and illustrated builds. Totes, pouches, fabric baskets.
+[Sewing4Free](https://sewing4free.com/bags/) — Find bag patterns on original creators’ sites through a sewing-link index.
 
 - **ID:** sewing4free-bags
 - **Category:** Traditional crafts
@@ -3958,24 +4120,25 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** patterns, project-library
 - **Approach:** pattern-or-plan
 - **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Access:** open — The public page is accessible as background/discovery; it is not a complete project recommendation.
+- **Review:** source-checked / reference-only
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
 - **Safety risk:** Unknown
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Automated check on 2026-10-30 flagged possible-bot-block (HTTP 200). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
+- [source evidence](https://sewing4free.com/bags/), 2026-10-30: Queue review: Sewing4Free is a discovery index linking patterns on other sites. It does not itself establish the linked authors’ free-access or completeness claims; use the original pattern publisher.
+
 
 **Original research occurrences**
 
@@ -3985,42 +4148,44 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## SewMendStitch — Clothing Repairs
 
-[SewMendStitch](https://sewmendstitch.com/) — Repair seams, holes, pockets, hems. Gentle beginner project path.
+[SewMendStitch](https://sewmendstitch.com/) — Mend clothing with public lessons, including a complete split-seam repair walkthrough.
 
 - **ID:** sewmendstitch-clothing-repairs
 - **Category:** Repair, restoration and modification
 - **Topics:** clothing-repair, sewing-and-textile-arts, sustainable-living
 - **Format:** course
 - **Approach:** repair-walkthrough
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
-- **Tools:** Unknown
-- **Materials:** Unknown
+- **Level:** Beginner
+- **Access:** open — The complete web lesson is public. Affiliate supply links are optional; the repair works only where the seam fabric remains sound.
+- **Review:** sample-reviewed / listed
+- **Last independently verified:** 2026-10-30
+- **Tools:** Hand needle or sewing machine, Pins or clips, Seam ripper, Small scissors, Iron and press cloth
+- **Materials:** Garment with intact fabric around split seam, Matching polyester thread
 - **Workspace:** Unknown
-- **Duration:** Unknown
+- **Duration:** Publisher estimate for the split-seam sample only; the wider library varies.
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
-- **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Languages:** en
+- **Beginner suitability:** True
+- **Safety risk:** moderate
+- **Representative project:** [Start here](https://sewmendstitch.com/rep-split-seam/)
 
 **Repair attributes**
 
-- **Object_type:** clothing
+- **Object_type:** Woven garment with split stitches and intact seam fabric
 - **Activities:** repair
-- **Device_specificity:** Unknown
-- **Replacement_parts:** Unknown
-- **Reversibility:** Unknown
-- **Risk_level:** Unknown
-- **Functional_checks:** Unknown
+- **Device_specificity:** general-technique
+- **Replacement_parts:** Matching polyester thread
+- **Reversibility:** partly-reversible
+- **Risk_level:** moderate
+- **Functional_checks:** Gently pull the repaired seam apart as the lesson directs., Check the seam lies flat and each end overlaps sound original stitching.
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Homepage link: replace with a direct meaningful free tutorial before recommendation.
+- [sample evidence](https://sewmendstitch.com/rep-split-seam/), 2026-10-30: Queue review: Inspected the complete split-seam lesson, including damage triage, hand and machine options, safety, troubleshooting and post-repair checks. The 20-minute figure is the publisher’s estimate for this sample only, not the whole library.
+
 
 **Original research occurrences**
 
@@ -4030,26 +4195,27 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Sikana — Furniture Restoration
 
-[Sikana](https://www.sikana.tv/en/diy/refurbishing-furniture) — Reglue, sand, prepare and refinish furniture. Strong guided beginner progression.
+[Sikana](https://www.sikana.tv/en/diy/refurbishing-furniture) — Practice furniture gluing and finishing techniques with public videos and transcripts.
 
 - **ID:** sikana-furniture-restoration
 - **Category:** Repair, restoration and modification
 - **Topics:** furniture-restoration, woodworking
 - **Format:** video, course
 - **Approach:** restoration
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Varies
+- **Access:** open — Videos and the inspected English transcript are public without login; materials and finishes are separate.
+- **Review:** sample-reviewed / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** moderate
+- **Representative project:** [Start here](https://www.sikana.tv/en/diy/refurbishing-furniture/gluing-onto-wood)
 
 **Repair attributes**
 
@@ -4058,17 +4224,19 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Device_specificity:** Unknown
 - **Replacement_parts:** Unknown
 - **Reversibility:** Unknown
-- **Risk_level:** Unknown
+- **Risk_level:** moderate
 - **Functional_checks:** Unknown
 
 **Safety**
 
-- Sharp edges, secure workholding and dust control require care; follow project-specific precautions.
+- Practice on a small non-load-bearing object. Follow the adhesive manufacturer’s joint-preparation and cure guidance; do not infer that a short gluing demonstration establishes a safe chair repair.
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
+- [sample evidence](https://www.sikana.tv/en/diy/refurbishing-furniture/gluing-onto-wood), 2026-10-30: Queue review: The public furniture course has video transcripts. Inspected the complete short flat-piece re-gluing demonstration, but it is a limited technique rather than a structural-repair qualification. Other finishing lessons were not fully reviewed.
+
 
 **Original research occurrences**
 
@@ -4078,31 +4246,38 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Sikana — Household DIY Projects
 
-[Sikana](https://www.sikana.tv/en/diy/diy-basics) — Simple furniture, wall, door and room maintenance. Skip mains or dangerous plumbing/electrical tasks.
+[Sikana](https://www.sikana.tv/en/diy/diy-basics) — Practice household maintenance such as wallpaper repair; the wider collection includes specialist tasks.
 
 - **ID:** sikana-household-diy-projects
 - **Category:** Everyday practical skills
 - **Topics:** home-maintenance, household-object-repair
 - **Format:** video, course
 - **Approach:** repair-walkthrough
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Varies
+- **Access:** open — The inspected English transcript and lesson page are public; other lessons and translations were not individually reviewed.
+- **Review:** sample-reviewed / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** varies
+- **Representative project:** [Start here](https://www.sikana.tv/en/diy/diy-basics/how-to-repair-a-strip-of-wallpaper)
+
+**Safety**
+
+- Choose non-structural decorative maintenance first. Do not generalize this review to electrical installation, water heaters, retaining walls or other regulated/safety-critical work.
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
+- [sample evidence](https://www.sikana.tv/en/diy/diy-basics/how-to-repair-a-strip-of-wallpaper), 2026-10-30: Queue review: Inspected the public wallpaper-repair transcript through adhesive application, smoothing and cleanup. The wider household collection includes electrical, plumbing and structural work that is outside this beginner example.
+
 
 **Original research occurrences**
 
@@ -4119,24 +4294,27 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Topics:** electronics, embedded-systems
 - **Format:** article
 - **Approach:** guided-build
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Varies
+- **Access:** open — The representative tutorial PDF is publicly indexed as free instruction. Components and optional starter kits cost money; browser access may differ from automated retrieval.
+- **Review:** source-checked / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** moderate
+- **Representative project:** [Start here](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard/all.pdf)
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
+- [source evidence](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard/all.pdf), 2026-10-30: Queue review: The tutorial index was blocked, but the publisher’s indexed breadboard tutorial PDF provides component-level circuit instruction. Collection access may be blocked for automated clients; a complete sample was not reviewed.
+
 
 **Original research occurrences**
 
@@ -4146,31 +4324,37 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Strobist — Lighting 101
 
-[David Hobby / Strobist](https://strobist.blogspot.com/2006/03/lighting-101.html) — Test photo-lighting setups. Photography and light.
+[David Hobby / Strobist](https://strobist.blogspot.com/2006/03/lighting-101.html) — Practice off-camera flash lighting with a manual-control camera and separate lighting equipment.
 
 - **ID:** strobist-lighting-101
 - **Category:** Art and design
 - **Topics:** photography-and-optics
 - **Format:** course
 - **Approach:** project-progression
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Varies
+- **Access:** open — The lessons are public and free. Camera, flashes, supports and triggers are equipment purchases; books and commercial links are optional.
+- **Review:** source-checked / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** moderate
+
+**Safety**
+
+- Secure light stands and cables. Use flash equipment externally as designed; never open a flash to access high-voltage capacitors.
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
+- [source evidence](https://strobist.blogspot.com/2006/03/lighting-101.html), 2026-10-30: Queue review: Lighting 101 explicitly offers a free off-camera-flash progression and specifies a camera with manual controls and a hot shoe. This is not a phone-only course; flashes and triggering equipment are separate purchases.
+
 
 **Original research occurrences**
 
@@ -4180,7 +4364,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## The Ceramic School — Air Dry Clay
 
-[The Ceramic School](https://en.ceramic.school/airdryclayclub/) — Hand-form small sculptures. Clay bowls, coasters and figures.
+[The Ceramic School](https://en.ceramic.school/airdryclayclub/) — Explore air-dry clay project posts; complete free instruction is not yet confirmed.
 
 - **ID:** the-ceramic-school-air-dry-clay
 - **Category:** Traditional crafts
@@ -4188,7 +4372,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** project-library
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
+- **Access:** unverified — Current complete free instructional access has not been established. See the dated review note.
 - **Review:** source-checked / needs-review
 - **Last independently verified:** Unknown
 - **Tools:** Unknown
@@ -4207,8 +4391,10 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
+- [source evidence](https://en.ceramic.school/airdryclayfreebies/), 2026-10-30: Queue review: The Air Dry Clay Club index is readable, but the Happy Snail project failed retrieval and the linked Freebies page exposed no usable project content. Complete free instruction and the membership boundary remain unresolved.
+
 
 **Original research occurrences**
 
@@ -4218,37 +4404,37 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## The Clay Hole — 20 Easy Handbuilding Projects
 
-[The Clay Hole](https://theclayhole.com/pages/20-easy-projects-beginners-can-hand-build) — Twenty short builds using pinch, coil, slab or drape. No wheel required; printable steps and external teaching videos.
+[The Clay Hole](https://theclayhole.com/pages/20-easy-projects-beginners-can-hand-build) — Explore twenty small handbuilt clay forms with written steps and attributed teaching-video links.
 
 - **ID:** the-clay-hole-20-easy-handbuilding-projects
 - **Category:** Traditional crafts
 - **Topics:** ceramics-and-pottery, sculpture
 - **Format:** pdf, article
 - **Approach:** guided-build
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Varies
+- **Access:** open — The project page is public; clay, tools and kiln access are separate. Some linked videos teach a different method from the written project.
+- **Review:** source-checked / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** moderate
 
 **Safety**
 
-- Control clay dust; air-dry objects are not automatically food-safe. Kiln work needs trained supervision.
+- Control clay dust and follow clay/glaze firing instructions. Air-dry clay is not a substitute for food-safe fired ceramic ware.
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Source equipment note: Clay, simple tools; firing for true pottery
-- Automated check on 2026-10-30 flagged http-error-manual-review (HTTP 429). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
+- [source evidence](https://theclayhole.com/pages/20-easy-projects-beginners-can-hand-build), 2026-10-30: Queue review: The page includes written forming steps and attributed video references for twenty clay objects, rather than only a gallery. Ceramic firing and food-safe finishing remain separate requirements; no complete finished/fired sample was evaluated.
+
 
 **Original research occurrences**
 
@@ -4258,36 +4444,38 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## The Crucible — Beginner Blacksmithing
 
-[The Crucible](https://www.thecrucible.org/guides/blacksmithing/projects/) — Forge useful objects. Requires forge and safety equipment.
+[The Crucible](https://www.thecrucible.org/guides/blacksmithing/projects/) — Study project guides for trained smiths, including a twist-forged bracelet; forge access is required.
 
 - **ID:** the-crucible-beginner-blacksmithing
 - **Category:** Traditional crafts
 - **Topics:** metalworking-and-blacksmithing
 - **Format:** article
 - **Approach:** guided-build
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Intermediate
+- **Access:** open — Publisher instruction or activity material is publicly readable; tools, materials and optional paid extras are separate.
+- **Review:** source-checked / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** False
 - **Safety risk:** specialist-only
+- **Representative project:** [Start here](https://www.thecrucible.org/guides/blacksmithing/forged-bracelet-project/)
 
 **Safety**
 
-- Requires appropriate training, tools and safety controls; unsuitable as a casual beginner project.
+- Requires competent forge operation, appropriate PPE, ventilation and fire controls. Hot steel and the oil-finishing step create burn and fire hazards.
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Automated check on 2026-10-30 flagged possible-bot-block (HTTP 200). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
+- [source evidence](https://www.thecrucible.org/guides/blacksmithing/forged-bracelet-project/), 2026-10-30: Queue review: Followed the overview to a public five-step forged-bracelet guide with tool requirements and finishing steps. It assumes a trained smith and equipped forge; supervised classes are separate. The guide is not casual unsupervised beginner training.
+
 
 **Original research occurrences**
 
@@ -4297,35 +4485,38 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## The Dye Store — Learn Hub
 
-[The Dye Store](https://thedyestore.com/learn-hub/) — Make colored textile items. Natural dyes and shibori.
+[The Dye Store](https://thedyestore.com/learn-hub/) — Explore textile-dyeing guides; the inspected tie-dye tutorial uses synthetic fibre-reactive dyes.
 
 - **ID:** the-dye-store-learn-hub
 - **Category:** Art and design
 - **Topics:** natural-dyes-and-pigments, sewing-and-textile-arts
 - **Format:** video
 - **Approach:** guided-build
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
+- **Level:** Varies
+- **Access:** open — The written technique guide is public; dyes and kits are paid. Product-specific preparation and curing instructions are required.
 - **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** moderate
+- **Representative project:** [Start here](https://thedyestore.com/tie-dye-techniques-step-by-step/)
 
 **Safety**
 
-- Use dedicated non-food dye vessels; check mordant instructions, ventilation and heat precautions.
+- Use the dye manufacturer’s safety data and protective equipment; keep powders and dye utensils away from food.
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
+- [source evidence](https://thedyestore.com/tie-dye-techniques-step-by-step/), 2026-10-30: Queue review: The five-technique T-shirt guide contains preparation, folding, dye placement and finish directions and labels its diagrams AI-generated. Creator experience and demonstrated results need a further credibility check before recommendation.
+
 
 **Original research occurrences**
 
@@ -4335,7 +4526,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## The Restart Project — Restart at School
 
-[The Restart Project](https://therestartproject.org/restart-at-school-materials/) — Disassemble a controller, maintain laptop, diagnose faults. Structured lessons originally made for school; suitable for guided self-study.
+[The Restart Project](https://therestartproject.org/restart-at-school-materials/) — Use educator-led repair curriculum with safety lessons and competent technical supervision.
 
 - **ID:** the-restart-project-restart-at-school
 - **Category:** Repair, restoration and modification
@@ -4343,18 +4534,18 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** course
 - **Approach:** teardown
 - **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Access:** open — The curriculum and linked teaching files are offered publicly. Safe delivery depends on an educator and competent repair support; individual cloud-file permissions were not all checked.
+- **Review:** source-checked / reference-only
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
-- **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Languages:** en
+- **Beginner suitability:** False
+- **Safety risk:** varies
 
 **Repair attributes**
 
@@ -4363,7 +4554,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Device_specificity:** Unknown
 - **Replacement_parts:** Unknown
 - **Reversibility:** Unknown
-- **Risk_level:** Unknown
+- **Risk_level:** varies
 - **Functional_checks:** Unknown
 
 **Safety**
@@ -4372,9 +4563,10 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Automated check on 2026-10-30 flagged possible-bot-block (HTTP 200). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
+- [source evidence](https://therestartproject.org/restart-at-school-materials/), 2026-10-30: Queue review: The free ten-week school curriculum explicitly expects educators and technical repair volunteers. It covers batteries and electronics safety; corrected the suggestion that the whole programme is ordinary unsupervised self-study.
+
 
 **Original research occurrences**
 
@@ -4382,9 +4574,9 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 <a id="timezone-watch-school-level-1-sample"></a>
 
-## Timezone Watch School — Level 1 Sample
+## TimeZone Watch School — free introductory essay
 
-[Timezone Watch School](https://www.timezonewatchschool.com/WatchSchool/SampleSchool/Classrooms/Level%201/level%201.shtml) — Part identification, practice handling, staged disassembly. Older but substantive training content; don't practice on valuable watch.
+[Timezone Watch School](https://www.timezonewatchschool.com/WatchSchool/SampleSchool/Classrooms/Level%201/level%201.shtml) — Read an introductory watchmaking essay; the full Level 1 training is outside the free sample.
 
 - **ID:** timezone-watch-school-level-1-sample
 - **Category:** Repair, restoration and modification
@@ -4392,16 +4584,16 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** course
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Access:** mixed — The linked introductory essay is free; this does not provide the complete Level 1 course. Enrollment and tools are separate.
+- **Review:** source-checked / reference-only
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** False
 - **Safety risk:** specialist-only
 
@@ -4421,9 +4613,10 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Source equipment note: Good lighting, magnification, precision tools
+- [source evidence](https://www.timezonewatchschool.com/WatchSchool/SampleSchool/Classrooms/Level%201/Level%201_1/Level%201_1_1/level%201_1_1.shtml), 2026-10-30: Queue review: The public Level 1 sample links an introductory essay by Walt Odets; the remaining lesson titles are not public sample links. Corrected the claim that staged disassembly training was freely available.
+
 
 **Original research occurrences**
 
@@ -4433,32 +4626,34 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Tin Can Knits — Free Patterns
 
-[Tin Can Knits](https://tincanknits.com/patterns/free) — Learn stitches by making. Scarves, hats, garments.
+[Tin Can Knits](https://tincanknits.com/patterns/free) — Practice knitting with free patterns and linked technique tutorials from the Simple Collection.
 
 - **ID:** tin-can-knits-free-patterns
 - **Category:** Traditional crafts
 - **Topics:** knitting-and-crochet
 - **Format:** patterns, course
 - **Approach:** pattern-or-plan
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Varies
+- **Access:** open — Free patterns and technique PDFs are offered by the creator; app extras and other patterns may have separate conditions.
+- **Review:** source-checked / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** low
+- **Representative project:** [Start here](https://tincanknits.com/pdfs/KnitBasics-tincanknits.pdf)
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Current fetch returned no readable content; HTTP success does not verify free pattern access.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
+- [source evidence](https://tincanknits.com/pdfs/KnitBasics-tincanknits.pdf), 2026-10-30: Queue review: The publisher’s indexed free-pattern collection and its publicly accessible knitting-basics PDF confirm a free Simple Collection. The dynamic pattern page and complete scarf pattern were not inspected end to end.
+
 
 **Original research occurrences**
 
@@ -4475,25 +4670,27 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Topics:** leatherworking
 - **Format:** video, project-library
 - **Approach:** guided-build
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Varies
+- **Access:** open — Publisher instruction or activity material is publicly readable; tools, materials and optional paid extras are separate.
+- **Review:** source-checked / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** varies
+- **Representative project:** [Start here](https://www.weaverleathersupply.com/collections/minimalist-leather-card-wallet)
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Automated check on 2026-10-30 flagged http-error-manual-review (HTTP 429). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
+- [source evidence](https://www.weaverleathersupply.com/collections/minimalist-leather-card-wallet), 2026-10-30: Queue review: The public learning hub separates sewing, belt making, carving and finishing lessons from its supplies store. A free wallet tutorial elsewhere in this catalogue demonstrates the publisher’s project offering; this hub has not had a complete sample review.
+
 
 **Original research occurrences**
 
@@ -4552,25 +4749,27 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Topics:** leatherworking
 - **Format:** project-library
 - **Approach:** guided-build
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Varies
+- **Access:** open — Publisher instruction or activity material is publicly readable; tools, materials and optional paid extras are separate.
+- **Review:** source-checked / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** varies
+- **Representative project:** [Start here](https://www.weaverleathersupply.com/collections/minimalist-leather-card-wallet)
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Automated check on 2026-10-30 flagged http-error-manual-review (HTTP 429). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
+- [source evidence](https://www.weaverleathersupply.com/collections/minimalist-leather-card-wallet), 2026-10-30: Queue review: The project index links makers’ tutorials by object type and distinguishes instructions from purchasable materials. The minimalist card wallet is a direct starting point; this collection-level review does not cover every linked project.
+
 
 **Original research occurrences**
 
@@ -4580,7 +4779,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Whittling Library
 
-[Whittling Library](https://whittling.hashu.org/) — Pick by wood and tools. Birds, whales, figures.
+[Whittling Library](https://whittling.hashu.org/) — Discover other creators’ whittling videos by object, wood and tool choice.
 
 - **ID:** whittling-library
 - **Category:** Traditional crafts
@@ -4588,16 +4787,16 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** video
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Access:** open — The public page is accessible as background/discovery; it is not a complete project recommendation.
+- **Review:** source-checked / reference-only
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
 - **Safety risk:** Unknown
 
@@ -4607,9 +4806,10 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Homepage link: replace with a direct meaningful free tutorial before recommendation.
+- [source evidence](https://whittling.hashu.org/), 2026-10-30: Queue review: This is a curated selector of other creators’ carving videos, not an authored project course. Individual videos vary in completeness; follow the named original creator and check safety before choosing a project.
+
 
 **Original research occurrences**
 
@@ -4620,26 +4820,27 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Wood &amp; Shop — Tool Sharpening and Refurbishing
 
-[Wood &amp; Shop](https://woodandshop.com/category/tool-sharpening-refurbishing/) — Refurbish old planes, replace wedges, sharpen tools. Detailed craft expertise; choose one easy tool first.
+[Wood &amp; Shop](https://woodandshop.com/category/tool-sharpening-refurbishing/) — Learn selected hand-tool refurbishing techniques from public articles and video excerpts.
 
 - **ID:** wood-shop-tool-sharpening-and-refurbishing
 - **Category:** Repair, restoration and modification
 - **Topics:** hand-tool-restoration, woodworking
 - **Format:** video, article
 - **Approach:** restoration
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Varies
+- **Access:** mixed — Selected articles and technique videos are public. Full video classes, DVDs, plans and in-person classes may be paid; the free excerpt is not the whole paid course.
+- **Review:** source-checked / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** moderate
+- **Representative project:** [Start here](https://woodandshop.com/how-to-flatten-wooden-hand-plane-sole/)
 
 **Repair attributes**
 
@@ -4648,7 +4849,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Device_specificity:** Unknown
 - **Replacement_parts:** Unknown
 - **Reversibility:** Unknown
-- **Risk_level:** Unknown
+- **Risk_level:** moderate
 - **Functional_checks:** Unknown
 
 **Safety**
@@ -4657,9 +4858,10 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Source equipment note: Old hand plane/chisel, abrasive, oil, safe clamping
+- [source evidence](https://woodandshop.com/how-to-flatten-wooden-hand-plane-sole/), 2026-10-30: Queue review: The free article index links practical hand-plane work. The sampled sole-flattening page includes a public video and technique notes but explicitly calls the video an excerpt from a paid class; only that narrow technique is confirmed free.
+
 
 **Original research occurrences**
 
@@ -4670,7 +4872,7 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Wood &amp; Shop — Traditional Woodworking Index
 
-[Wood &amp; Shop](https://woodandshop.com/traditional-woodworking-index/) — Rust removal, restoring planes, sharpening and handles. Useful to continue once one restored tool works.
+[Wood &amp; Shop](https://woodandshop.com/traditional-woodworking-index/) — Navigate woodworking buying guides, tours, techniques and projects with mixed access conditions.
 
 - **ID:** wood-shop-traditional-woodworking-index
 - **Category:** Repair, restoration and modification
@@ -4678,16 +4880,16 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** video
 - **Approach:** restoration
 - **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Access:** mixed — Index browsing is public; linked articles, excerpts, plans and classes have different access conditions.
+- **Review:** source-checked / reference-only
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
 - **Safety risk:** Unknown
 
@@ -4707,10 +4909,10 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Source equipment note: Varies by project
-- Automated check on 2026-10-30 flagged possible-bot-block (HTTP 200). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
+- [source evidence](https://woodandshop.com/traditional-woodworking-index/), 2026-10-30: Queue review: This is a broad woodworking navigation index mixing buying guides, tours, techniques and projects. It does not itself provide a complete restoration project; consult a specific free technique or the separately listed tool-refurbishing collection.
+
 
 **Original research occurrences**
 
@@ -4720,46 +4922,48 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## WOOD Magazine — Hand Plane Restoration
 
-[WOOD Magazine](https://www.woodmagazine.com/woodworking-tips/techniques/intermediate/planer) — Disassemble, remove corrosion and tune plane. Excellent way to discover old tool engineering.
+[Lucas Peters with John Olson / WOOD Magazine](https://www.woodmagazine.com/woodworking-tips/techniques/intermediate/planer) — Assess and refurbish a metal hand plane through cleaning, sharpening, lapping and adjustment.
 
 - **ID:** wood-magazine-hand-plane-restoration
 - **Category:** Repair, restoration and modification
 - **Topics:** hand-tool-restoration, woodworking
 - **Format:** article
 - **Approach:** restoration
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Intermediate
+- **Access:** open — Publisher instruction or activity material is publicly readable; tools, materials and optional paid extras are separate.
+- **Review:** sample-reviewed / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
-- **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Languages:** en
+- **Beginner suitability:** False
+- **Safety risk:** moderate
+- **Representative project:** [Start here](https://files.woodmagazine.com/wp-content/uploads/pdfs/sites/49/2021/10/26/RestoreHandPlane.pdf)
 
 **Repair attributes**
 
-- **Object_type:** hand tools
+- **Object_type:** Stanley-style metal bench plane in restorable condition
 - **Activities:** restoration
-- **Device_specificity:** Unknown
+- **Device_specificity:** product-family
 - **Replacement_parts:** Unknown
-- **Reversibility:** Unknown
-- **Risk_level:** Unknown
-- **Functional_checks:** Unknown
+- **Reversibility:** partly-reversible
+- **Risk_level:** moderate
+- **Functional_checks:** Inspect for cracks, damaged parts and deep pitting before deciding to restore., Editorial check: after adjustment, make controlled test shavings and confirm the blade and handles are secure.
 
 **Safety**
 
-- Sharp edges, secure workholding and dust control require care; follow project-specific precautions.
+- Use appropriate blade, abrasive, chemical and dust precautions. Do not use the optional electrolysis or powered cleanup without specialist guidance; lapping and filing remove original material.
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Automated check on 2026-10-30 flagged http-error-manual-review (HTTP 402). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
+- [sample evidence](https://files.woodmagazine.com/wp-content/uploads/pdfs/sites/49/2021/10/26/RestoreHandPlane.pdf), 2026-10-30: Queue review: Followed the publisher’s download link and inspected the six-page PDF through condition assessment, cleaning, parts, sharpening, lapping and final adjustment. Historic prices and irreversible metal removal need caution; no restoration was performed.
+
 
 **Original research occurrences**
 
@@ -4769,26 +4973,27 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Woodcraft — Make a Simple Wall Clock
 
-[Woodcraft](https://www.woodcraft.com/blogs/small-projects/how-to-make-a-wall-clock-clock-mechanism-installation-tutorial) — Create clock face and install quartz movement. Most accessible first physical clock; movement/materials purchased.
+[Woodcraft](https://www.woodcraft.com/blogs/small-projects/how-to-make-a-wall-clock-clock-mechanism-installation-tutorial) — Create a wooden quartz-clock face and fit a purchased movement, hands and battery.
 
 - **ID:** woodcraft-make-a-simple-wall-clock
 - **Category:** Traditional crafts
 - **Topics:** woodworking, mechanical-clocks-and-watches
 - **Format:** video, article
 - **Approach:** guided-build
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Varies
+- **Access:** open — The article and embedded demonstration are public. A compatible quartz movement, hands, battery and wood are required; the promoted kit is paid.
+- **Review:** source-checked / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** moderate
+- **Representative project:** [Start here](https://www.woodcraft.com/blogs/small-projects/how-to-make-a-wall-clock-clock-mechanism-installation-tutorial)
 
 **Safety**
 
@@ -4796,10 +5001,10 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Source equipment note: Wood or board, drill, small clock movement
-- Automated check on 2026-10-30 flagged http-error-manual-review (HTTP 429). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
+- [source evidence](https://www.woodcraft.com/blogs/small-projects/how-to-make-a-wall-clock-clock-mechanism-installation-tutorial), 2026-10-30: Queue review: The public page embeds a clock-mechanism installation video and explains movement shaft selection, fitting hands and adding a battery. This builds a quartz clock using purchased hardware; it does not teach mechanical clock servicing.
+
 
 **Original research occurrences**
 
@@ -4809,38 +5014,38 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Wooden Toy Plans
 
-[Wooden Toy Plans](https://www.wooden-toy-plans.com/) — Construct classic small wooden toys. Emphasizes simple hand tools and small workspaces.
+[Wooden Toy Plans](https://www.wooden-toy-plans.com/) — Explore selected free wooden toy-car designs, templates and photo guides.
 
 - **ID:** wooden-toy-plans
 - **Category:** Traditional crafts
 - **Topics:** woodworking, toy-making-and-automata
 - **Format:** pdf, patterns
 - **Approach:** pattern-or-plan
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Varies
+- **Access:** mixed — Selected toy-car plans and web guides are free; linked books and other offers may be paid. Check the chosen design is complete.
+- **Review:** source-checked / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** moderate
+- **Representative project:** [Start here](https://www.wooden-toy-plans.com/wooden_toy_car.html)
 
 **Safety**
 
-- Sharp edges, secure workholding and dust control require care; follow project-specific precautions.
+- Avoid load-bearing ride-on designs as a first project. Verify toy parts cannot detach and choose suitable finishes and tool precautions.
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Source equipment note: Basic woodworking tools and materials
-- Homepage link: replace with a direct meaningful free tutorial before recommendation.
-- Automated check on 2026-10-30 flagged possible-bot-block (HTTP 200). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
+- [source evidence](https://www.wooden-toy-plans.com/wooden_toy_car.html), 2026-10-30: Queue review: The toy-car index links free designs, full-size templates and photo guides alongside affiliate books and other plans. Some designs are work in progress; the toy-car page is the starting point, not a full sample review.
+
 
 **Original research occurrences**
 
@@ -4848,9 +5053,9 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 <a id="woodland-scenics-miniature-log-cabin"></a>
 
-## Woodland Scenics — Miniature Log Cabin
+## Woodland Scenics — Log Walls &amp; Lap Siding
 
-[Woodland Scenics](https://woodlandscenics.woodlandscenics.com/show/video/LS_Complete) — Build and detail a miniature log cabin. Technique demonstration; product-specific materials recommended.
+[Woodland Scenics](https://woodlandscenics.woodlandscenics.com/show/video/LS_Complete) — Study a miniature log-cabin technique demonstration using a branded structure kit.
 
 - **ID:** woodland-scenics-miniature-log-cabin
 - **Category:** Art and design
@@ -4858,26 +5063,25 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 - **Format:** video
 - **Approach:** guided-build
 - **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Access:** open — The demonstration page is public, but it promotes a paid structure kit. Full video playback and substituting generic materials were not evaluated.
+- **Review:** source-checked / reference-only
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** moderate
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source promotes a branded model kit; kit independence is unverified.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Source equipment note: Model-building supplies; branded kit optional
-- Automated check on 2026-10-30 flagged http-error-manual-review (HTTP 403). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
+- [source evidence](https://woodlandscenics.woodlandscenics.com/show/video/LS_Complete), 2026-10-30: Queue review: The current page is titled Log Walls &amp; Lap Siding and describes a log-cabin demonstration using Scene-A-Rama Building &amp; Structure Kit SP4130. Retained as a product-specific technique reference; kit-independent complete instruction was not established.
+
 
 **Original research occurrences**
 
@@ -4887,33 +5091,34 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Woodland Scenics — Model Scenery Made Easy
 
-[Woodland Scenics](https://woodlandscenics.woodlandscenics.com/show/video/ModelSceneryMadeEasy) — Create realistic scenic landscape. Excellent technique primer; paid branded products are promoted.
+[Woodland Scenics](https://woodlandscenics.woodlandscenics.com/show/video/ModelSceneryMadeEasy) — Explore scenery-making techniques in a publicly embedded full-length instructional video.
 
 - **ID:** woodland-scenics-model-scenery-made-easy
 - **Category:** Art and design
 - **Topics:** model-making-and-dioramas, model-railways
 - **Format:** video
 - **Approach:** guided-build
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Varies
+- **Access:** open — An embedded public video is available on the page; supplies and the physical video product are paid.
+- **Review:** source-checked / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** moderate
+- **Representative project:** [Start here](https://woodlandscenics.woodlandscenics.com/show/video/ModelSceneryMadeEasy)
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Source equipment note: Foam/plaster/paints or substitutes
-- Automated check on 2026-10-30 flagged http-error-manual-review (HTTP 403). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
+- [source evidence](https://woodlandscenics.woodlandscenics.com/show/video/ModelSceneryMadeEasy), 2026-10-30: Queue review: The publisher embeds a public video described as full-length scenery instruction. It is separate from the paid DVD and branded scenery products; the complete film was not watched in this review.
+
 
 **Original research occurrences**
 
@@ -4923,33 +5128,33 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 ## Woodland Scenics — Scene-A-Rama
 
-[Woodland Scenics](https://woodlandscenics.woodlandscenics.com/show/videos/scenearama) — Build scenery and model structures from start to finish. Can make an isolated small diorama with no train purchase.
+[Woodland Scenics](https://woodlandscenics.woodlandscenics.com/show/videos/scenearama) — Explore diorama structures, landscape and sculpting through a free branded video collection.
 
 - **ID:** woodland-scenics-scene-a-rama
 - **Category:** Art and design
 - **Topics:** model-making-and-dioramas, model-railways
 - **Format:** video
 - **Approach:** guided-build
-- **Level:** Unknown
-- **Access:** unverified — Initial research identifies free instruction or a free subset; current access conditions need independent review.
-- **Review:** source-checked / needs-review
-- **Last independently verified:** Unknown
+- **Level:** Varies
+- **Access:** open — The video collection is publicly browsable; materials and branded kits are separate purchases.
+- **Review:** source-checked / listed
+- **Last independently verified:** 2026-10-30
 - **Tools:** Unknown
 - **Materials:** Unknown
 - **Workspace:** Unknown
 - **Duration:** Unknown
 - **Cost band:** Unknown
 - **Screen time:** Unknown
-- **Languages:** Unknown
+- **Languages:** en
 - **Beginner suitability:** Unknown
-- **Safety risk:** Unknown
+- **Safety risk:** varies
 
 **Evidence and editorial notes**
 
+- **Editorial audit:** [queue-2026-10-30](source-review.md#queue-2026-10-30), 2026-10-30. Previous disposition: `needs-review`.
 - [source evidence](https://github.com/DmytroHuzz/awesome-diy-learning/blob/main/docs/migration.md), 2026-10-30: Inherited source-level research, recorded in the public migration audit; publisher access and project completeness have not yet been independently confirmed.
-- Source research identifies this offering; inclusion in the review queue is not a recommendation.
-- Source equipment note: Cardboard, scenic materials, glue
-- Automated check on 2026-10-30 flagged http-error-manual-review (HTTP 403). This is advisory; see reports/link-check-2026-10-30.json. Independent publisher review, when present, is separate evidence.
+- [source evidence](https://woodlandscenics.woodlandscenics.com/show/videos/scenearama), 2026-10-30: Queue review: The public Scene-A-Rama index links structure-building, landscape, sculpting and start-to-finish diorama video groups. Branded kits and plaster products are promoted; no entire project video was reviewed.
+
 
 **Original research occurrences**
 

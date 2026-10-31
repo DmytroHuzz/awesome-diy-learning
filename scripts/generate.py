@@ -41,6 +41,8 @@ def setup(r):
         return ', '.join(r['tools']) or 'No tools'
     if r['workspace']:
         return r['workspace']['details']
+    if r['review']['disposition'] == 'listed':
+        return 'Unknown; check the chosen project'
     if r['provenance']:
         return 'Source setup: ' + r['provenance']['occurrences'][-1]['setup'] + ' (not independently confirmed)'
     return 'Unknown'
@@ -49,7 +51,10 @@ def setup(r):
 def render(document, schema):
     resources = sorted(document['resources'], key=lambda r: (r['title'].casefold(), r['id']))
     listed = [r for r in resources if r['review']['disposition'] == 'listed']
-    queue = [r for r in resources if r['review']['disposition'] != 'listed']
+    queue = [r for r in resources if r['review']['disposition'] == 'needs-review']
+    references = [r for r in resources if r['review']['disposition'] == 'reference-only']
+    excluded = [r for r in resources if r['review']['disposition'] == 'excluded']
+    audited = [(r, a) for r in resources for a in r['review'].get('audits', [])]
     topics = schema['x-topic-categories']
     output = {}
     nav = '\n'.join(f'- [{name}](categories/{cat}.md)' for cat, name in CATEGORY_NAMES.items())
@@ -78,9 +83,9 @@ Curiosity comes first. We value clear instructions, original creators, tradition
 
 {nav}
 
-Browse the [complete topic index](docs/taxonomy.md), [all resource details](docs/catalogue-details.md), or the [editorial review queue](docs/review-queue.md). Resources can appear in several categories; the data contains one record per resource.
+Browse the [complete topic index](docs/taxonomy.md), [all resource details](docs/catalogue-details.md), or the [editorial review queue](docs/review-queue.md). The [source review report](docs/source-review.md) records dated decisions and remaining barriers. Resources can appear in several categories; the data contains one record per resource.
 
-The migration preserves **{len(resources)} unique resources** from **{sum(len(r['provenance']['occurrences']) for r in resources if r['provenance'])} source rows**. There are **{len(listed)} independently checked listings**, **{len(queue)} entries in the review/reference queue**, and **{len(CATEGORY_NAMES)} categories with {len(topics)} supported topics** ({coverage} represented). These counts describe coverage, not quality scores.
+The migration preserves **{len(resources)} unique resources** from **{sum(len(r['provenance']['occurrences']) for r in resources if r['provenance'])} source rows**. There are **{len(listed)} checked offerings**, **{len(queue)} unresolved candidates**, **{len(references)} references**, and **{len(excluded)} excluded entries**. Explore **{len(CATEGORY_NAMES)} categories with {len(topics)} supported topics** ({coverage} represented). These counts describe coverage, not quality scores; a source check is shallower than a complete project review.
 
 ## A few welcoming first projects
 
@@ -136,7 +141,7 @@ Use Python 3.11 or newer. CI runs schema checks, tests, generated-file checks an
 
 The initial catalogue research includes twelve craft expansions and a repair section. Original tutorial URLs and resource occurrences are retained in the dataset. The [migration audit](docs/migration.md) records the import, merges, corrected links and unresolved claims.
 
-The catalogue is intentionally broad but uneven. Most imported entries still need a direct project review; homepage links and restricted free tiers remain visibly flagged. External sites change, regional access differs and automated checks can be blocked. Safety notes are editorial prompts, not training. There is no claim that all linked content is equally suitable, that every language is known, or that any project has been personally completed.
+The catalogue is intentionally broad but uneven. All 101 originally queued sources received an editorial review attempt; unresolved access, completeness and safety questions remain in the queue. Many listed libraries still need a complete representative-project review, and account-gated lessons and full videos have not all been inspected. External sites change, regional access differs and automated checks can be blocked. Safety notes are editorial prompts, not training. There is no claim that all linked content is equally suitable, that every language is known, or that any project has been personally completed.
 
 Original authors keep all rights to their tutorials, videos, photographs, patterns and books. Follow their licenses and credit them when sharing your work. We link to instruction rather than rehosting it. Repository code is [MIT licensed](LICENSE); original catalogue text and metadata are [CC0 1.0](LICENSE-DATA). These licenses **do not cover external instructional works or quoted source descriptions**. See [licensing boundaries](docs/licensing.md).
 '''
@@ -155,7 +160,7 @@ Original authors keep all rights to their tutorials, videos, photographs, patter
         if approved:
             text += '| Resource | Format | Approach | Level | Tools / setup | Free access | Review status |\n| --- | --- | --- | --- | --- | --- | --- |\n' + '\n'.join(rows) + '\n'
         else:text += 'No independently checked listing yet. The source leads below are preserved for further review.\n'
-        text += '\n## Research and reference queue\n\nThese are not checked recommendations. Access, completeness, tools or direct project links still need review.\n\n'
+        text += '\n## Research and reference queue\n\nThese are not project recommendations. `needs-review` means a specific question is unresolved; `reference-only` means reviewed background or discovery material. Open the details for the dated decision and evidence.\n\n'
         text += '\n'.join(f'- {details_link(r)} — `{r["review"]["disposition"]}`; access: `{r["free_access"]["status"]}`.' for r in pending) + '\n'
         output[f'categories/{cat}.md'] = text
     details = HEADER + '# Resource details\n\n[Home](../README.md) · [Review queue](review-queue.md)\n\nNull metadata is shown as Unknown. Source setup notes are research claims, not independently verified requirements. Reviewer suggestions are labeled in their notes.\n\n'
@@ -168,14 +173,40 @@ Original authors keep all rights to their tutorials, videos, photographs, patter
             details += '\n**Repair attributes**\n\n' + '\n'.join(f'- **{label(k)}:** {md(joined(v) if isinstance(v,list) else v if v is not None else "Unknown")}' for k,v in r['repair'].items()) + '\n'
         if r['safety']['notes']:details += '\n**Safety**\n\n'+'\n'.join('- '+md(n) for n in r['safety']['notes'])+'\n'
         details += '\n**Evidence and editorial notes**\n\n'
+        for audit in r['review'].get('audits', []):
+            details += f'- **Editorial audit:** [{audit["batch"]}](source-review.md#{audit["batch"]}), {audit["checked_on"]}. Previous disposition: `{audit["previous_disposition"]}`.\n'
         details += '\n'.join(f'- [{e["kind"]} evidence]({e["url"]}), {e["checked_on"]}: {md(e["notes"])}' for e in r['review']['evidence'])+'\n'
-        details += '\n'.join('- '+md(n) for n in r['editorial_notes'])+'\n'
+        repeated = {a['summary'] for a in r['review'].get('audits', [])}
+        details += '\n'.join('- '+md(n) for n in r['editorial_notes'] if n not in repeated)+'\n'
         if r['provenance']:
             details += '\n**Original research occurrences**\n\n'
             details += '\n'.join(f'- Row {o["row"]}: [{md(o["title"])}]({o["url"]}) — {md(o["section"])}. Setup: {md(o["setup"])}.' for o in r['provenance']['occurrences'])+'\n'
         details += '\n'
     output['docs/catalogue-details.md'] = details
-    output['docs/review-queue.md'] = HEADER + '# Editorial review queue\n\n[Home](../README.md) · [Quality criteria](quality-criteria.md)\n\nThese records preserve research; they are not endorsed recommendations. A source-level check inherited from the initial research does not establish current publisher access. Inspect free instruction, complete steps, setup and safety before promoting a record.\n\n' + '\n'.join(f'- {details_link(r, "")} — **{r["review"]["disposition"]}**. {md(r["editorial_notes"][0])}' for r in queue) + '\n'
+    output['docs/review-queue.md'] = HEADER + f'# Editorial review queue\n\n[Home](../README.md) · [Quality criteria](quality-criteria.md) · [All review decisions](source-review.md)\n\n## Unresolved candidates ({len(queue)})\n\nEach entry below received a review attempt. These are not project recommendations: the notes identify what access, completeness, credibility or safety question still needs resolution. A timeout or bot block alone does not establish a broken link or paywall.\n\n' + '\n'.join(f'- {details_link(r, "")} — {md(r["editorial_notes"][0])}' for r in queue) + '\n\n## Reviewed references\n\nThese sources are useful background, planning or discovery material. Their reference disposition is an editorial decision, not an unprocessed queue item.\n\n' + '\n'.join(f'- {details_link(r, "")} — {md(r["editorial_notes"][0])}' for r in references) + '\n'
+    if excluded:
+        output['docs/review-queue.md'] += '\n## Excluded records\n\n' + '\n'.join(f'- {details_link(r, "")} — {md(r["editorial_notes"][0])}' for r in excluded) + '\n'
+    report = HEADER + '# Source review report\n\n[Home](../README.md) · [Unresolved queue](review-queue.md) · [Review criteria](quality-criteria.md)\n\nThis report is generated from `review.audits` and publisher evidence in the authoritative dataset. An audit date records an editorial inspection or access attempt, including failures. It does not turn a blocked page into verified free instruction. The disposition shown is the record’s current disposition; the summary records the batch finding.\n\n'
+    for batch in sorted({a['batch'] for _, a in audited}):
+        cohort = [(r, a) for r, a in audited if a['batch'] == batch]
+        outcomes = Counter(r['review']['disposition'] for r, _ in cohort)
+        previous = Counter(a['previous_disposition'] for _, a in cohort)
+        report += f'## {batch}\n\nReviewed **{len(cohort)} sources** previously marked '+', '.join(f'**{n} {state}**' for state, n in sorted(previous.items()))+'. Current outcomes: '+', '.join(f'**{outcomes[state]} {state}**' for state in ['listed','reference-only','needs-review','excluded'])+'.\n\n'
+        if batch == 'queue-2026-10-30':
+            report += 'The review followed original publisher pages and available worksheets, used official-site search for moved or blocked pages, and used a browser where script-rendered content hid useful evidence. No accounts were created, no paid courses were purchased, no entire video course was watched, and no project was built. `sample-reviewed` applies only where complete representative written instructions were inspected; source checks and access attempts are labeled separately.\n\n'
+        else:
+            report += 'Consult each record’s dated evidence for the scope and method of inspection. Review depth and editorial disposition are separate.\n\n'
+        for state in ['needs-review','listed','reference-only','excluded']:
+            group = [(r, a) for r, a in cohort if r['review']['disposition'] == state]
+            if not group:
+                continue
+            report += f'### {label(state)} ({len(group)})\n\n| Source | Date / depth | Finding |\n| --- | --- | --- |\n'
+            for r, a in group:
+                evidence = [e for e in r['review']['evidence'] if e['checked_on'] == a['checked_on'] and e['url'] != (r['provenance'] or {}).get('source')]
+                links = ' · '.join(f'[Evidence {i+1}]({e["url"]})' for i, e in enumerate(evidence))
+                report += f'| {details_link(r, "")} | {a["checked_on"]}; {r["review"]["level"]} | {md(a["summary"])}<br>{links} |\n'
+            report += '\n'
+    output['docs/source-review.md'] = report.rstrip() + '\n'
     tax = HEADER + '# Taxonomy\n\nSix broad categories plus flexible topics and tags avoid a deep hierarchy. The schema controls categories, topics, formats and approaches. A resource has one primary category and one or more topics; cross-category topics generate additional appearances without duplicating data. Tags are lowercase hyphenated editorial groupings, not a second hierarchy.\n\n'
     for cat, name in CATEGORY_NAMES.items():
         tax += f'## {name}\n\n| Topic | Unique resources, including research queue |\n| --- | --- |\n'
@@ -192,7 +223,7 @@ Original authors keep all rights to their tutorials, videos, photographs, patter
     migration += '\nThe CigarBoxGuitars root and `/how-to-build` were treated as one archive, with both URLs preserved. Distinct tutorials from one creator remain separate records.\n\n## Corrections and unresolved scope\n\n'
     for r in resources:
         if r['url'] not in [o['url'] for o in r['provenance']['occurrences']]:migration += f'- {details_link(r, "")} — current publisher URL: {r["url"]}; original retained.\n'
-    migration += '\nCornell mechanisms, Make it Yourself, Class Central, Cambridge plant-dye background, Restarters principles and the old-bike overview are retained as references rather than standalone project recommendations. Homepage links, kit dependence, paid/free mixtures and undemonstrated course claims stay flagged for review. No paid-only finding is hidden by relabeling it free.\n\n## Source-row ledger\n\n| Row | Original resource | Imported record |\n| --- | --- | --- |\n'
+    migration += f'\nThe [source review report](source-review.md) records the follow-up review of all 101 original queue/reference entries. There are currently {len(references)} references and {len(queue)} unresolved candidates. Original links remain in the ledger even where a current publisher URL was recovered. Kit dependence, paid/free boundaries, legacy hardware, inaccessible downloads and safety gaps are described per record. No paid-only finding is hidden by relabeling it free.\n\n## Source-row ledger\n\n| Row | Original resource | Imported record |\n| --- | --- | --- |\n'
     migration += '\n'.join(f'| {row} | [{md(o["title"])}]({o["url"]}) | {details_link(r, "")} |' for row,r,o in sorted(occurrences,key=lambda item:item[0]))+'\n'
     output['docs/migration.md'] = migration
     return output
