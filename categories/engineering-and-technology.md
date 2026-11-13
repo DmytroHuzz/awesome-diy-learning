@@ -6,7 +6,7 @@
 
 Topics: Electronics, Mechanical engineering, Robotics and mechatronics, Embedded systems, 3d modeling and cad, 3d printing and digital fabrication, Control systems, Cybersecurity, Ai and machine learning, Game development, Computer architecture.
 
-21 checked listings; 6 preserved research/reference entries. Cross-topic resources may appear on more than one page.
+21 checked listings; 7 preserved research/reference entries. Cross-topic resources may appear on more than one page.
 
 ## Checked listings
 
@@ -43,4 +43,5 @@ These are not project recommendations. `needs-review` means a specific question 
 - [Makers Making Change](../docs/catalogue-details.md#makers-making-change) — `needs-review`; access: `free-registration`.
 - [MIT — How to Make (Almost) Anything](../docs/catalogue-details.md#mit-how-to-make-almost-anything) — `reference-only`; access: `open`.
 - [NODE — Make it Yourself](../docs/catalogue-details.md#node-make-it-yourself) — `reference-only`; access: `open`.
+- [SolidCraft CAD Guide — Model Your First Part](../docs/catalogue-details.md#solidcraftcad-first-part-tutorial) — `needs-review`; access: `open`.
 - [TimeZone Watch School — free introductory essay](../docs/catalogue-details.md#timezone-watch-school-level-1-sample) — `reference-only`; access: `mixed`.

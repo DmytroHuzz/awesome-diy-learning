@@ -29,7 +29,7 @@ Curiosity comes first. We value clear instructions, original creators, tradition
 
 Browse the [complete topic index](docs/taxonomy.md), [all resource details](docs/catalogue-details.md), or the [editorial review queue](docs/review-queue.md). The [source review report](docs/source-review.md) records dated decisions and remaining barriers. Resources can appear in several categories; the data contains one record per resource.
 
-The migration preserves **124 unique resources** from **131 source rows**. There are **90 checked offerings**, **14 unresolved candidates**, **20 references**, and **0 excluded entries**. Explore **6 categories with 53 supported topics** (53 represented). These counts describe coverage, not quality scores; a source check is shallower than a complete project review.
+The migration preserves **125 unique resources** from **131 source rows**. There are **90 checked offerings**, **15 unresolved candidates**, **20 references**, and **0 excluded entries**. Explore **6 categories with 53 supported topics** (53 represented). These counts describe coverage, not quality scores; a source check is shallower than a complete project review.
 
 ## A few welcoming first projects
 

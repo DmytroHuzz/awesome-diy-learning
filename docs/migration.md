@@ -4,7 +4,7 @@
 
 The entire supplied research catalogue was reviewed on 2026-10-30, through its final GitHub editorial backlog. The original catalogue, all twelve craft expansions, and the later deconstruction/repair/upgrade section were read. This public audit preserves the import ledger and original tutorial links. Private workspace addresses are intentionally omitted. Inherited research is not an authority for present access claims.
 
-All **131 resource rows** were imported into **124 unique records**. The seven “first stops” repeat table resources and add no unique links. Non-resource idea tables and future research directions were not fabricated into resources. No resource row was silently dropped.
+All **131 resource rows** were imported into **125 unique records**. The seven “first stops” repeat table resources and add no unique links. Non-resource idea tables and future research directions were not fabricated into resources. No resource row was silently dropped.
 
 ## Merges
 
@@ -38,7 +38,7 @@ The CigarBoxGuitars root and `/how-to-build` were treated as one archive, with b
 - [Science Buddies — Projects](catalogue-details.md#science-buddies-projects) — current publisher URL: https://www.sciencebuddies.org/science-fair-projects/science-projects; original retained.
 - [Sculpey Projects](catalogue-details.md#sculpey-projects) — current publisher URL: https://www.sculpey.com/collections/how-to; original retained.
 
-The [source review report](source-review.md) records the follow-up review of all 101 original queue/reference entries. There are currently 20 references and 14 unresolved candidates. Original links remain in the ledger even where a current publisher URL was recovered. Kit dependence, paid/free boundaries, legacy hardware, inaccessible downloads and safety gaps are described per record. No paid-only finding is hidden by relabeling it free.
+The [source review report](source-review.md) records the follow-up review of all 101 original queue/reference entries. There are currently 20 references and 15 unresolved candidates. Original links remain in the ledger even where a current publisher URL was recovered. Kit dependence, paid/free boundaries, legacy hardware, inaccessible downloads and safety gaps are described per record. No paid-only finding is hidden by relabeling it free.
 
 ## Source-row ledger
 

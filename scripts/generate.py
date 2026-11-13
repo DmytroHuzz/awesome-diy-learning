@@ -222,7 +222,7 @@ Original authors keep all rights to their tutorials, videos, photographs, patter
             migration += f'- {details_link(r, "")} — source rows '+', '.join(str(o['row']) for o in r['provenance']['occurrences'])+'. All titles, URLs, setup and section references retained.\n'
     migration += '\nThe CigarBoxGuitars root and `/how-to-build` were treated as one archive, with both URLs preserved. Distinct tutorials from one creator remain separate records.\n\n## Corrections and unresolved scope\n\n'
     for r in resources:
-        if r['url'] not in [o['url'] for o in r['provenance']['occurrences']]:migration += f'- {details_link(r, "")} — current publisher URL: {r["url"]}; original retained.\n'
+        if r['provenance'] and r['url'] not in [o['url'] for o in r['provenance']['occurrences']]:migration += f'- {details_link(r, "")} — current publisher URL: {r["url"]}; original retained.\n'
     migration += f'\nThe [source review report](source-review.md) records the follow-up review of all 101 original queue/reference entries. There are currently {len(references)} references and {len(queue)} unresolved candidates. Original links remain in the ledger even where a current publisher URL was recovered. Kit dependence, paid/free boundaries, legacy hardware, inaccessible downloads and safety gaps are described per record. No paid-only finding is hidden by relabeling it free.\n\n## Source-row ledger\n\n| Row | Original resource | Imported record |\n| --- | --- | --- |\n'
     migration += '\n'.join(f'| {row} | [{md(o["title"])}]({o["url"]}) | {details_link(r, "")} |' for row,r,o in sorted(occurrences,key=lambda item:item[0]))+'\n'
     output['docs/migration.md'] = migration

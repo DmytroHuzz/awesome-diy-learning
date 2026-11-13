@@ -45,7 +45,7 @@ Six broad categories plus flexible topics and tags avoid a deep hierarchy. The s
 | Mechanical engineering | 13 |
 | Robotics and mechatronics | 1 |
 | Embedded systems | 3 |
-| 3d modeling and cad | 4 |
+| 3d modeling and cad | 5 |
 | 3d printing and digital fabrication | 2 |
 | Control systems | 1 |
 | Cybersecurity | 2 |

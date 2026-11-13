@@ -4283,6 +4283,38 @@ Null metadata is shown as Unknown. Source setup notes are research claims, not i
 
 - Row 117: [Sikana — Household DIY Projects](https://www.sikana.tv/en/diy/diy-basics) — Start here: no-pressure approach / Deconstruct · Repair · Upgrade — Free Guided Learning / Resources / Restore furniture and hand tools. Setup: Varies.
 
+<a id="solidcraftcad-first-part-tutorial"></a>
+
+## SolidCraft CAD Guide — Model Your First Part
+
+[solidcraftcad.com](https://solidcraftcad.com/solidcraft-tutorial) — Model a filleted mounting plate with four holes in parametric CAD, then export it as STL or STEP for 3D printing.
+
+- **ID:** solidcraftcad-first-part-tutorial
+- **Category:** Engineering and technology
+- **Topics:** 3d-modeling-and-cad
+- **Format:** article, interactive
+- **Approach:** guided-build
+- **Level:** Beginner
+- **Access:** open — The tutorial and the embedded browser build of SolidCraft load without an account. A donation box on the page is optional.
+- **Review:** source-checked / needs-review
+- **Last independently verified:** Unknown
+- **Tools:** Computer with a desktop web browser and a mouse
+- **Materials:** 
+- **Workspace:** Runs in a desktop browser; the page recommends a mouse.
+- **Duration:** Publisher estimates 10 to 15 minutes for the mounting-plate project.
+- **Cost band:** none
+- **Screen time:** digital
+- **Languages:** en
+- **Beginner suitability:** True
+- **Safety risk:** low
+- **Representative project:** [Start here](https://solidcraftcad.com/solidcraft-tutorial)
+
+**Evidence and editorial notes**
+
+- [source evidence](https://solidcraftcad.com/solidcraft-tutorial), 2026-11-13: Contributor (affiliated with the guide site) read all nine steps of the mounting-plate project: sketch, dimension, extrude, fillet, holes, measure, edit the sketch so the model rebuilds, and export to STL/3MF/OBJ or STEP. Needs independent review; not build-tested.
+- Contributor runs the guide website (disclosed in the pull request).
+- Language is confirmed only for the inspected English page.
+
 <a id="sparkfun-tutorials"></a>
 
 ## SparkFun — Tutorials
