@@ -3867,6 +3867,74 @@
       "featured": false
     },
     {
+      "id": "solidcraftcad-first-part-tutorial",
+      "title": "SolidCraft CAD Guide — Model Your First Part",
+      "url": "https://solidcraftcad.com/solidcraft-tutorial",
+      "creator": "solidcraftcad.com",
+      "description": "Model a filleted mounting plate with four holes in parametric CAD, then export it as STL or STEP for 3D printing.",
+      "primary_category": "engineering-and-technology",
+      "topics": [
+        "3d-modeling-and-cad"
+      ],
+      "tags": [],
+      "formats": [
+        "article",
+        "interactive"
+      ],
+      "approaches": [
+        "guided-build"
+      ],
+      "difficulty": "beginner",
+      "free_access": {
+        "status": "open",
+        "details": "The tutorial and the embedded browser build of SolidCraft load without an account. A donation box on the page is optional."
+      },
+      "beginner_project_url": "https://solidcraftcad.com/solidcraft-tutorial",
+      "tools": [
+        "Computer with a desktop web browser and a mouse"
+      ],
+      "materials": [],
+      "workspace": {
+        "type": "computer",
+        "details": "Runs in a desktop browser; the page recommends a mouse."
+      },
+      "duration": {
+        "minutes_min": 10,
+        "minutes_max": 15,
+        "details": "Publisher estimates 10 to 15 minutes for the mounting-plate project."
+      },
+      "cost_band": "none",
+      "screen_time": "digital",
+      "languages": [
+        "en"
+      ],
+      "beginner_suitable": true,
+      "safety": {
+        "risk": "low",
+        "notes": []
+      },
+      "review": {
+        "level": "source-checked",
+        "disposition": "needs-review",
+        "last_verified": null,
+        "evidence": [
+          {
+            "url": "https://solidcraftcad.com/solidcraft-tutorial",
+            "checked_on": "2026-11-13",
+            "kind": "source",
+            "notes": "Contributor (affiliated with the guide site) read all nine steps of the mounting-plate project: sketch, dimension, extrude, fillet, holes, measure, edit the sketch so the model rebuilds, and export to STL/3MF/OBJ or STEP. Needs independent review; not build-tested."
+          }
+        ]
+      },
+      "editorial_notes": [
+        "Contributor runs the guide website (disclosed in the pull request).",
+        "Language is confirmed only for the inspected English page."
+      ],
+      "provenance": null,
+      "repair": null,
+      "featured": false
+    },
+    {
       "id": "blender-guru-tutorials",
       "title": "Blender Guru — Tutorials",
       "url": "https://www.blenderguru.com/posts/blender-4-beginner-donut-tutorial",

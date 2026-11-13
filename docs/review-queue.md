@@ -4,7 +4,7 @@
 
 [Home](../README.md) · [Quality criteria](quality-criteria.md) · [All review decisions](source-review.md)
 
-## Unresolved candidates (14)
+## Unresolved candidates (15)
 
 Each entry below received a review attempt. These are not project recommendations: the notes identify what access, completeness, credibility or safety question still needs resolution. A timeout or bot block alone does not establish a broken link or paywall.
 
@@ -20,6 +20,7 @@ Each entry below received a review attempt. These are not project recommendation
 - [Michaels — Free Projects](catalogue-details.md#michaels-free-projects) — The project hub advertises free instructions, but its beginner results returned an empty shell and a browser attempt returned Access Denied. Complete free project instructions could not be inspected; Creativebug classes are a separate offer.
 - [Sculpd Clay School — Free Basics](catalogue-details.md#sculpd-clay-school-free-basics) — The regional Clay School URL could not be retrieved and targeted official-site search did not recover a verifiable course. Complete free lesson access, kit dependence and the current canonical address remain unresolved.
 - [Sewing Doc Academy — Vintage Sewing Machine](catalogue-details.md#sewing-doc-academy-vintage-sewing-machine) — The legacy page advertises three hours of free vintage-machine instruction, but exposes image thumbnails without usable lesson links in text retrieval. Playback and account conditions remain unconfirmed; electrical checks require qualified help.
+- [SolidCraft CAD Guide — Model Your First Part](catalogue-details.md#solidcraftcad-first-part-tutorial) — Contributor runs the guide website (disclosed in the pull request).
 - [The Ceramic School — Air Dry Clay](catalogue-details.md#the-ceramic-school-air-dry-clay) — The Air Dry Clay Club index is readable, but the Happy Snail project failed retrieval and the linked Freebies page exposed no usable project content. Complete free instruction and the membership boundary remain unresolved.
 - [The Dye Store — Learn Hub](catalogue-details.md#the-dye-store-learn-hub) — The five-technique T-shirt guide contains preparation, folding, dye placement and finish directions and labels its diagrams AI-generated. Creator experience and demonstrated results need a further credibility check before recommendation.
 
